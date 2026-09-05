@@ -1,0 +1,3284 @@
+{
+  "marca": "Yanbal",
+  "campana": "COL 2026 C09",
+  "origen": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/",
+  "extraido": "2026-09-05T02:53:01.706Z",
+  "productos": [
+    {
+      "codigo": "4719",
+      "nombre": "Yanbal Jelly Stick Cool Shine",
+      "precio": 42000,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "60117",
+      "nombre": "Bolsa Chica Mujer",
+      "precio": 3000,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "60119",
+      "nombre": "Caja de Regalo",
+      "precio": 4000,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "5209",
+      "nombre": "Yanbal Lip Oil Balm Aura Rosé",
+      "precio": 28500,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "5210",
+      "nombre": "Yanbal Lip Oil Balm Peach Melón",
+      "precio": 28500,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "5050",
+      "nombre": "Esmalte de Uñas Dulce Vanidad",
+      "precio": 19500,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "5051",
+      "nombre": "Esmalte de Uñas Dulce Amistad",
+      "precio": 19500,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "5137",
+      "nombre": "Esmalte de Uñas Dulce Amor",
+      "precio": 19500,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "5212",
+      "nombre": "Yanbal Lip Oil Balm Cinamoon Glow",
+      "precio": 28500,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "5211",
+      "nombre": "Yanbal Lip Oil Balm Berry Glow",
+      "precio": 28500,
+      "pagina": 2,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2"
+    },
+    {
+      "codigo": "200",
+      "nombre": "Ohm Parfum",
+      "precio": 136000,
+      "pagina": 3,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=3"
+    },
+    {
+      "codigo": "2210",
+      "nombre": "Colonia Soy Única",
+      "precio": 32500,
+      "pagina": 3,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=3"
+    },
+    {
+      "codigo": "2040",
+      "nombre": "Dulce Amor Eau de Parfum",
+      "precio": 101000,
+      "pagina": 3,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=3"
+    },
+    {
+      "codigo": "775",
+      "nombre": "Crema Corporal Biomilk Soy Única",
+      "precio": 44500,
+      "pagina": 3,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=3"
+    },
+    {
+      "codigo": "43737",
+      "nombre": "Pulsera Aimee",
+      "precio": 112900,
+      "pagina": 3,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=3"
+    },
+    {
+      "codigo": "43740",
+      "nombre": "Argollas Aimee Rouge",
+      "precio": 119900,
+      "pagina": 3,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=3"
+    },
+    {
+      "codigo": "2203",
+      "nombre": "Pasión Parfum",
+      "precio": 121000,
+      "pagina": 5,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=5"
+    },
+    {
+      "codigo": "2018",
+      "nombre": "Ccori Rose Parfum",
+      "precio": 145000,
+      "pagina": 6,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=6"
+    },
+    {
+      "codigo": "686",
+      "nombre": "Ccori Rosé Loción Perfumada",
+      "precio": 30000,
+      "pagina": 6,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=6"
+    },
+    {
+      "codigo": "2035",
+      "nombre": "Ccori Rubí Parfum",
+      "precio": 145000,
+      "pagina": 6,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=6"
+    },
+    {
+      "codigo": "2036",
+      "nombre": "Body Lotion Ccori Rubí",
+      "precio": 30000,
+      "pagina": 6,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=6"
+    },
+    {
+      "codigo": "231",
+      "nombre": "Ccori Parfum",
+      "precio": 121000,
+      "pagina": 7,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=7"
+    },
+    {
+      "codigo": "454",
+      "nombre": "Ccori Loción Perfumada",
+      "precio": 30000,
+      "pagina": 7,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=7"
+    },
+    {
+      "codigo": "2197",
+      "nombre": "Gaia Elixir Parfum",
+      "precio": 121000,
+      "pagina": 8,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=8"
+    },
+    {
+      "codigo": "230",
+      "nombre": "Gaia Parfum",
+      "precio": 157000,
+      "pagina": 8,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=8"
+    },
+    {
+      "codigo": "849",
+      "nombre": "Gaia Eternal Parfum",
+      "precio": 157000,
+      "pagina": 9,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=9"
+    },
+    {
+      "codigo": "79950",
+      "nombre": "Set Cielo en Rosa: Eau de Parfum + Loción Perfumada",
+      "precio": 117500,
+      "pagina": 10,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=10"
+    },
+    {
+      "codigo": "79897",
+      "nombre": "Set Cielo: Eau de Parfum+Jabón en barra+desodorante fraganciado",
+      "precio": 112500,
+      "pagina": 11,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=11"
+    },
+    {
+      "codigo": "2191",
+      "nombre": "Ícono de Yanbal Eau de Parfum",
+      "precio": 101000,
+      "pagina": 12,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=12"
+    },
+    {
+      "codigo": "2200",
+      "nombre": "Temptation Mystic Eau de Parfum",
+      "precio": 94500,
+      "pagina": 13,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=13"
+    },
+    {
+      "codigo": "721",
+      "nombre": "Loción Perfumada Hidratante para el Cuerpo Temptation Mystic",
+      "precio": 30000,
+      "pagina": 13,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=13"
+    },
+    {
+      "codigo": "2172",
+      "nombre": "Osadía Infinita Eau de Parfum",
+      "precio": 92500,
+      "pagina": 15,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=15"
+    },
+    {
+      "codigo": "2182",
+      "nombre": "Dulce Amistad Eau de Parfum",
+      "precio": 109000,
+      "pagina": 18,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=18"
+    },
+    {
+      "codigo": "251",
+      "nombre": "Dulce Vanidad Eau de Parfum",
+      "precio": 109000,
+      "pagina": 18,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=18"
+    },
+    {
+      "codigo": "2223",
+      "nombre": "Di Que Sí Eau de Parfum",
+      "precio": 78000,
+      "pagina": 19,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=19"
+    },
+    {
+      "codigo": "2187",
+      "nombre": "Mix & Chic Apple Tonic Colonia",
+      "precio": 39000,
+      "pagina": 20,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=20"
+    },
+    {
+      "codigo": "2189",
+      "nombre": "Mix & Chic Berry Tonic Colonia",
+      "precio": 39000,
+      "pagina": 20,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=20"
+    },
+    {
+      "codigo": "2188",
+      "nombre": "Mix & Chic Peach Tonic Colonia",
+      "precio": 39000,
+      "pagina": 20,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=20"
+    },
+    {
+      "codigo": "2190",
+      "nombre": "Mix & Chic Mango Tonic Colonia",
+      "precio": 39000,
+      "pagina": 20,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=20"
+    },
+    {
+      "codigo": "2195",
+      "nombre": "L'Essence Colonia Violeta Salvaje",
+      "precio": 34000,
+      "pagina": 21,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=21"
+    },
+    {
+      "codigo": "295",
+      "nombre": "L'Essence Colonia Orquídea Exótica",
+      "precio": 34000,
+      "pagina": 21,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=21"
+    },
+    {
+      "codigo": "287",
+      "nombre": "L'Essence Colonia Flor de Cerezo",
+      "precio": 34000,
+      "pagina": 21,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=21"
+    },
+    {
+      "codigo": "2176",
+      "nombre": "Aires de los Andes Eau Fraiche",
+      "precio": 42500,
+      "pagina": 22,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=22"
+    },
+    {
+      "codigo": "2178",
+      "nombre": "Aires del Caribe Eau Fraiche",
+      "precio": 42500,
+      "pagina": 22,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=22"
+    },
+    {
+      "codigo": "2179",
+      "nombre": "Aires del Amazonas Eau Fraiche",
+      "precio": 42500,
+      "pagina": 22,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=22"
+    },
+    {
+      "codigo": "2030",
+      "nombre": "Eau Vitale Flor de Naranjo Eau de Cologne",
+      "precio": 47000,
+      "pagina": 23,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=23"
+    },
+    {
+      "codigo": "261",
+      "nombre": "Eau Vitale Lavanda Eau de Cologne",
+      "precio": 47000,
+      "pagina": 23,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=23"
+    },
+    {
+      "codigo": "262",
+      "nombre": "Eau Vitale Té Verde Eau de Cologne",
+      "precio": 47000,
+      "pagina": 23,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=23"
+    },
+    {
+      "codigo": "43715",
+      "nombre": "Collar Amira",
+      "precio": 374900,
+      "pagina": 25,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=25"
+    },
+    {
+      "codigo": "43720",
+      "nombre": "Argollas Amira",
+      "precio": 94900,
+      "pagina": 25,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=25"
+    },
+    {
+      "codigo": "43718",
+      "nombre": "Aretes Amira",
+      "precio": 119900,
+      "pagina": 25,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=25"
+    },
+    {
+      "codigo": "43727",
+      "nombre": "Sortija Amira T7",
+      "precio": 154900,
+      "pagina": 25,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=25"
+    },
+    {
+      "codigo": "43726",
+      "nombre": "Sortija Amira T6",
+      "precio": 154900,
+      "pagina": 25,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=25"
+    },
+    {
+      "codigo": "43728",
+      "nombre": "Sortija Amira T8",
+      "precio": 154900,
+      "pagina": 25,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=25"
+    },
+    {
+      "codigo": "43729",
+      "nombre": "Sortija Amira T9",
+      "precio": 154900,
+      "pagina": 25,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=25"
+    },
+    {
+      "codigo": "43717",
+      "nombre": "Collar Amira Doré",
+      "precio": 194900,
+      "pagina": 27,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=27"
+    },
+    {
+      "codigo": "43716",
+      "nombre": "Aretes Amira Doré",
+      "precio": 69900,
+      "pagina": 27,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=27"
+    },
+    {
+      "codigo": "43719",
+      "nombre": "Aretes Amira Cristal",
+      "precio": 74900,
+      "pagina": 27,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=27"
+    },
+    {
+      "codigo": "43752",
+      "nombre": "Colección Amira",
+      "precio": 92900,
+      "pagina": 27,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=27"
+    },
+    {
+      "codigo": "43753",
+      "nombre": "Colección Amira Infinita",
+      "precio": 102900,
+      "pagina": 27,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=27"
+    },
+    {
+      "codigo": "43730",
+      "nombre": "Pulsera Amira",
+      "precio": 112900,
+      "pagina": 27,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=27"
+    },
+    {
+      "codigo": "43748",
+      "nombre": "Collar Nuvia Cristal",
+      "precio": 114900,
+      "pagina": 29,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=29"
+    },
+    {
+      "codigo": "43745",
+      "nombre": "Collar Nuvia Perlé",
+      "precio": 174900,
+      "pagina": 29,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=29"
+    },
+    {
+      "codigo": "43749",
+      "nombre": "Argollas Nuvia Cristal",
+      "precio": 134900,
+      "pagina": 29,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=29"
+    },
+    {
+      "codigo": "43743",
+      "nombre": "Aretes Nuvia Perlé",
+      "precio": 67900,
+      "pagina": 29,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=29"
+    },
+    {
+      "codigo": "43747",
+      "nombre": "Collar Nuvia Largo",
+      "precio": 169900,
+      "pagina": 31,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=31"
+    },
+    {
+      "codigo": "43750",
+      "nombre": "Aretes Nuvia",
+      "precio": 59900,
+      "pagina": 31,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=31"
+    },
+    {
+      "codigo": "43757",
+      "nombre": "Set Aretes Nuvia",
+      "precio": 89900,
+      "pagina": 31,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=31"
+    },
+    {
+      "codigo": "43744",
+      "nombre": "Aretes Nuvia Cristal",
+      "precio": 41900,
+      "pagina": 31,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=31"
+    },
+    {
+      "codigo": "43746",
+      "nombre": "Aretes Nuvia Corazón",
+      "precio": 84900,
+      "pagina": 32,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=32"
+    },
+    {
+      "codigo": "43751",
+      "nombre": "Colección Nuvia",
+      "precio": 82900,
+      "pagina": 32,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=32"
+    },
+    {
+      "codigo": "43742",
+      "nombre": "Collar Nuvia",
+      "precio": 99900,
+      "pagina": 32,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=32"
+    },
+    {
+      "codigo": "43733",
+      "nombre": "Collar Aimee Corazón",
+      "precio": 179900,
+      "pagina": 35,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=35"
+    },
+    {
+      "codigo": "43736",
+      "nombre": "Aretes Aimee Corazón",
+      "precio": 41900,
+      "pagina": 35,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=35"
+    },
+    {
+      "codigo": "43732",
+      "nombre": "Argollas Aimee",
+      "precio": 89900,
+      "pagina": 35,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=35"
+    },
+    {
+      "codigo": "43731",
+      "nombre": "Collar Aimee",
+      "precio": 234900,
+      "pagina": 35,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=35"
+    },
+    {
+      "codigo": "43741",
+      "nombre": "Aretes Aimee Cristal",
+      "precio": 36900,
+      "pagina": 37,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=37"
+    },
+    {
+      "codigo": "43738",
+      "nombre": "Set Collares Aimee",
+      "precio": 154900,
+      "pagina": 37,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=37"
+    },
+    {
+      "codigo": "43754",
+      "nombre": "Colección Aimee",
+      "precio": 119900,
+      "pagina": 37,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=37"
+    },
+    {
+      "codigo": "43735",
+      "nombre": "Aretes Aimee Rouge",
+      "precio": 64900,
+      "pagina": 37,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=37"
+    },
+    {
+      "codigo": "43756",
+      "nombre": "Set Aretes Aimee",
+      "precio": 119900,
+      "pagina": 37,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=37"
+    },
+    {
+      "codigo": "43734",
+      "nombre": "Argollas Aimee Corazón",
+      "precio": 89900,
+      "pagina": 39,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=39"
+    },
+    {
+      "codigo": "43739",
+      "nombre": "Collar Aimee Cristal",
+      "precio": 104900,
+      "pagina": 39,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=39"
+    },
+    {
+      "codigo": "43758",
+      "nombre": "Set Aretes Aimee Rouge",
+      "precio": 79900,
+      "pagina": 39,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=39"
+    },
+    {
+      "codigo": "43755",
+      "nombre": "Set Collares Aimee Cruz",
+      "precio": 236900,
+      "pagina": 39,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=39"
+    },
+    {
+      "codigo": "43558",
+      "nombre": "Collar Classic Doré",
+      "precio": 74900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43673",
+      "nombre": "Set Aretes Classy Cristaly",
+      "precio": 116900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43764",
+      "nombre": "Dije Corazón Dorezzi",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43575",
+      "nombre": "Dije Dorezzi P",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43582",
+      "nombre": "Dije Dorezzi X",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43565",
+      "nombre": "Dije Dorezzi F",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43577",
+      "nombre": "Dije Dorezzi S",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43579",
+      "nombre": "Dije Dorezzi U",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43564",
+      "nombre": "Dije Dorezzi E",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43576",
+      "nombre": "Dije Dorezzi R",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43571",
+      "nombre": "Dije Dorezzi L",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43572",
+      "nombre": "Dije Dorezzi M",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43569",
+      "nombre": "Dije Dorezzi J",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43568",
+      "nombre": "Dije Dorezzi I",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43566",
+      "nombre": "Dije Dorezzi G",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43561",
+      "nombre": "Dije Dorezzi B",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43567",
+      "nombre": "Dije Dorezzi H",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43574",
+      "nombre": "Dije Dorezzi O",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43563",
+      "nombre": "Dije Dorezzi D",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43560",
+      "nombre": "Dije Dorezzi A",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43578",
+      "nombre": "Dije Dorezzi T",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43562",
+      "nombre": "Dije Dorezzi C",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43580",
+      "nombre": "Dije Dorezzi V",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43573",
+      "nombre": "Dije Dorezzi N",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43570",
+      "nombre": "Dije Dorezzi K",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43581",
+      "nombre": "Dije Dorezzi W",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43583",
+      "nombre": "Dije Dorezzi Y",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43584",
+      "nombre": "Dije Dorezzi Z",
+      "precio": 59900,
+      "pagina": 41,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=41"
+    },
+    {
+      "codigo": "43333",
+      "nombre": "Collar Cruz Classy Perlé",
+      "precio": 102900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "39979",
+      "nombre": "Collar Cruz Dorezzi",
+      "precio": 102900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43512",
+      "nombre": "Pulsera Inicial Doretti X",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43494",
+      "nombre": "Pulsera Inicial Doretti E",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43242",
+      "nombre": "Collar Inicial Dorezzi L",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43245",
+      "nombre": "Collar Inicial Dorezzi O",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43510",
+      "nombre": "Pulsera Inicial Doretti V",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43514",
+      "nombre": "Pulsera Inicial Doretti Z",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43234",
+      "nombre": "Collar Inicial Dorezzi D",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43253",
+      "nombre": "Collar Inicial Dorezzi Y",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43235",
+      "nombre": "Collar Inicial Dorezzi E",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43236",
+      "nombre": "Collar Inicial Dorezzi F",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43503",
+      "nombre": "Pulsera Inicial Doretti N",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43493",
+      "nombre": "Pulsera Inicial Doretti D",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43248",
+      "nombre": "Collar Inicial Dorezzi S",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43508",
+      "nombre": "Pulsera Inicial Doretti T",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43502",
+      "nombre": "Pulsera Inicial Doretti M",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43240",
+      "nombre": "Collar Inicial Dorezzi J",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43239",
+      "nombre": "Collar Inicial Dorezzi I",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43498",
+      "nombre": "Pulsera Inicial Doretti I",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43233",
+      "nombre": "Collar Inicial Dorezzi C",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43237",
+      "nombre": "Collar Inicial Dorezzi G",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43495",
+      "nombre": "Pulsera Inicial Doretti F",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43492",
+      "nombre": "Pulsera Inicial Doretti C",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43499",
+      "nombre": "Pulsera Inicial Doretti J",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43246",
+      "nombre": "Collar Inicial Dorezzi P",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43251",
+      "nombre": "Collar Inicial Dorezzi W",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43491",
+      "nombre": "Pulsera Inicial Doretti B",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43513",
+      "nombre": "Pulsera Inicial Doretti Y",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43501",
+      "nombre": "Pulsera Inicial Doretti L",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43243",
+      "nombre": "Collar Inicial Dorezzi M",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43506",
+      "nombre": "Pulsera Inicial Doretti R",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43241",
+      "nombre": "Collar Inicial Dorezzi K",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43507",
+      "nombre": "Pulsera Inicial Doretti S",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43504",
+      "nombre": "Pulsera Inicial Doretti O",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43231",
+      "nombre": "Collar Inicial Dorezzi A",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43497",
+      "nombre": "Pulsera Inicial Doretti H",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43500",
+      "nombre": "Pulsera Inicial Doretti K",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43250",
+      "nombre": "Collar Inicial Dorezzi V",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43252",
+      "nombre": "Collar Inicial Dorezzi X",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43511",
+      "nombre": "Pulsera Inicial Doretti W",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43505",
+      "nombre": "Pulsera Inicial Doretti P",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43247",
+      "nombre": "Collar Inicial Dorezzi R",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43244",
+      "nombre": "Collar Inicial Dorezzi N",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43232",
+      "nombre": "Collar Inicial Dorezzi B",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43249",
+      "nombre": "Collar Inicial Dorezzi T",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43496",
+      "nombre": "Pulsera Inicial Doretti G",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43238",
+      "nombre": "Collar Inicial Dorezzi H",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43490",
+      "nombre": "Pulsera Inicial Doretti A",
+      "precio": 99900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43254",
+      "nombre": "Collar Inicial Dorezzi Z",
+      "precio": 95900,
+      "pagina": 42,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=42"
+    },
+    {
+      "codigo": "43330",
+      "nombre": "Aretes Zirconi Dorezzi",
+      "precio": 69900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "43624",
+      "nombre": "Collar Relicario Dorezzi",
+      "precio": 154900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "43623",
+      "nombre": "Collar Zirconi",
+      "precio": 102900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "43053",
+      "nombre": "Argollas Platinium Cristal",
+      "precio": 57900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "43331",
+      "nombre": "Aretes Zirconi Platinium",
+      "precio": 69900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "39784",
+      "nombre": "Argollas Classy Dorezzi",
+      "precio": 57900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "43052",
+      "nombre": "Argollas Dorezzi Cristal",
+      "precio": 57900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "43625",
+      "nombre": "Aretes Dorezzi Gota",
+      "precio": 53900,
+      "pagina": 43,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=43"
+    },
+    {
+      "codigo": "6362",
+      "nombre": "Serum Primer Relleno y Efecto Lift",
+      "precio": 55000,
+      "pagina": 49,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=49"
+    },
+    {
+      "codigo": "5113",
+      "nombre": "Base Líquida Antiedad 5C",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5107",
+      "nombre": "Base Líquida Antiedad 2N",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5114",
+      "nombre": "Base Líquida Antiedad 5N",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5109",
+      "nombre": "Base Líquida Antiedad 3N",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "6016",
+      "nombre": "Corrector Líquido Antiedad Tono 4",
+      "precio": 40500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "6013",
+      "nombre": "Corrector Líquido Antiedad Tono 1",
+      "precio": 40500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "6014",
+      "nombre": "Corrector Líquido Antiedad Tono 2",
+      "precio": 40500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5108",
+      "nombre": "Base Líquida Antiedad 2C",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5106",
+      "nombre": "Base Líquida Antiedad 1N",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "6015",
+      "nombre": "Corrector Líquido Antiedad Tono 3",
+      "precio": 40500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5112",
+      "nombre": "Base Líquida Antiedad 4C",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5115",
+      "nombre": "Base Líquida Antiedad 6N",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "6017",
+      "nombre": "Corrector Líquido Antiedad Tono 5",
+      "precio": 40500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "6018",
+      "nombre": "Corrector Líquido Antiedad Tono 6",
+      "precio": 40500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5110",
+      "nombre": "Base Antiedad Efecto Lifting 3C",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5111",
+      "nombre": "Base Líquida Antiedad 4N",
+      "precio": 74500,
+      "pagina": 50,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=50"
+    },
+    {
+      "codigo": "5189",
+      "nombre": "Base Líquida Hidratante 2C",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5190",
+      "nombre": "Base Líquida Hidratante 3C",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5204",
+      "nombre": "Base Líquida Matificante 5N",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5187",
+      "nombre": "Base Líquida Hidratante 1N",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5193",
+      "nombre": "Base Líquida Hidratante 4C",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5194",
+      "nombre": "Base Líquida Hidratante 5N",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5201",
+      "nombre": "Base Líquida Matificante 3N",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5486",
+      "nombre": "Base Líquida Matificante 5C",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5202",
+      "nombre": "Base Líquida Matificante 4N",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5200",
+      "nombre": "Base Líquida Matificante 3C",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5195",
+      "nombre": "Base Líquida Hidratante 5C",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5188",
+      "nombre": "Base Líquida Hidratante 2N",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5196",
+      "nombre": "Base Líquida Hidratante 6N",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5197",
+      "nombre": "Base Líquida Matificante 1N",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5192",
+      "nombre": "Base Líquida Hidratante 4N",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5198",
+      "nombre": "Base Líquida Matificante 2N",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5487",
+      "nombre": "Base Líquida Matificante 6N",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5191",
+      "nombre": "Base Líquida Hidratante 3N",
+      "precio": 55000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5203",
+      "nombre": "Base Líquida Matificante 4C",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "5199",
+      "nombre": "Base Líquida Matificante 2C",
+      "precio": 66000,
+      "pagina": 51,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=51"
+    },
+    {
+      "codigo": "6345",
+      "nombre": "Iluminador Líquido Rostro y Cuerpo Bronze Glow",
+      "precio": 55000,
+      "pagina": 52,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=52"
+    },
+    {
+      "codigo": "6361",
+      "nombre": "Rubor Compacto Sunglow",
+      "precio": 63500,
+      "pagina": 52,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=52"
+    },
+    {
+      "codigo": "4015",
+      "nombre": "Rubor Compacto Rosa Irresistible",
+      "precio": 63500,
+      "pagina": 52,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=52"
+    },
+    {
+      "codigo": "6142",
+      "nombre": "Rubor Compacto Brownie",
+      "precio": 63500,
+      "pagina": 52,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=52"
+    },
+    {
+      "codigo": "4017",
+      "nombre": "Rubor Compacto Bronzage",
+      "precio": 63500,
+      "pagina": 52,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=52"
+    },
+    {
+      "codigo": "4012",
+      "nombre": "Rubor Compacto Petal Rose",
+      "precio": 63500,
+      "pagina": 52,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=52"
+    },
+    {
+      "codigo": "4018",
+      "nombre": "Rubor Compacto Champagne",
+      "precio": 63500,
+      "pagina": 52,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=52"
+    },
+    {
+      "codigo": "182",
+      "nombre": "Polvos Compactos Antiedad Tono 2-3",
+      "precio": 55000,
+      "pagina": 53,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=53"
+    },
+    {
+      "codigo": "181",
+      "nombre": "Polvos Compactos Antiedad Tono 1",
+      "precio": 55000,
+      "pagina": 53,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=53"
+    },
+    {
+      "codigo": "184",
+      "nombre": "Polvos Compactos Antiedad Tono 6-7",
+      "precio": 55000,
+      "pagina": 53,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=53"
+    },
+    {
+      "codigo": "183",
+      "nombre": "Polvos Compactos Antiedad Tono 4-5",
+      "precio": 55000,
+      "pagina": 53,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=53"
+    },
+    {
+      "codigo": "60053",
+      "nombre": "Set de Brochas x4",
+      "precio": 109500,
+      "pagina": 54,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=54"
+    },
+    {
+      "codigo": "6268",
+      "nombre": "Paleta Multifuncional Juntas Somos Poderosas",
+      "precio": 58500,
+      "pagina": 55,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=55"
+    },
+    {
+      "codigo": "6188",
+      "nombre": "Paleta de Sombras Ultra Pigmentación Larga Duración Neutral Nudes",
+      "precio": 65000,
+      "pagina": 55,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=55"
+    },
+    {
+      "codigo": "60054",
+      "nombre": "Brocha Dual Sombras N 201",
+      "precio": 37000,
+      "pagina": 55,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=55"
+    },
+    {
+      "codigo": "6187",
+      "nombre": "Paleta de Sombras Ultra Pigmentación Larga Duración Alma Rosé",
+      "precio": 65000,
+      "pagina": 55,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=55"
+    },
+    {
+      "codigo": "6189",
+      "nombre": "Paleta de Sombras Ultra Pigmentación Larga Duración Sexy Glam",
+      "precio": 65000,
+      "pagina": 55,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=55"
+    },
+    {
+      "codigo": "6190",
+      "nombre": "Paleta de Sombras Ultra Pigmentación Larga Duración Viva el Color",
+      "precio": 65000,
+      "pagina": 55,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=55"
+    },
+    {
+      "codigo": "5488",
+      "nombre": "Delineador Punta Inteligente Negro",
+      "precio": 29500,
+      "pagina": 56,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=56"
+    },
+    {
+      "codigo": "5489",
+      "nombre": "Delineador Punta Inteligente Negro Mate",
+      "precio": 29500,
+      "pagina": 56,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=56"
+    },
+    {
+      "codigo": "5491",
+      "nombre": "Delineador Punta Inteligente Azul",
+      "precio": 29500,
+      "pagina": 56,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=56"
+    },
+    {
+      "codigo": "5490",
+      "nombre": "Delineador Punta Inteligente Marrón",
+      "precio": 29500,
+      "pagina": 56,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=56"
+    },
+    {
+      "codigo": "5472",
+      "nombre": "Delineador en Gel a Prueba de Agua Blanco",
+      "precio": 25000,
+      "pagina": 57,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=57"
+    },
+    {
+      "codigo": "6238",
+      "nombre": "Delineador en Gel a Prueba de Agua Celeste Metálico",
+      "precio": 25000,
+      "pagina": 57,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=57"
+    },
+    {
+      "codigo": "5319",
+      "nombre": "Delineador en Gel a Prueba de Agua Verde",
+      "precio": 25000,
+      "pagina": 57,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=57"
+    },
+    {
+      "codigo": "5316",
+      "nombre": "Delineador en Gel a Prueba de Agua Negro",
+      "precio": 25000,
+      "pagina": 57,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=57"
+    },
+    {
+      "codigo": "5318",
+      "nombre": "Delineador en Gel a Prueba de Agua Azul Profundo",
+      "precio": 25000,
+      "pagina": 57,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=57"
+    },
+    {
+      "codigo": "5317",
+      "nombre": "Delineador en Gel a Prueba de Agua Marrón",
+      "precio": 25000,
+      "pagina": 57,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=57"
+    },
+    {
+      "codigo": "5104",
+      "nombre": "Delineador Plumón Tattoo Ultra Negro",
+      "precio": 28000,
+      "pagina": 58,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=58"
+    },
+    {
+      "codigo": "5013",
+      "nombre": "Máscara Alargadora a Prueba de Agua Uniquecil Extra XL Marrón",
+      "precio": 27000,
+      "pagina": 58,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=58"
+    },
+    {
+      "codigo": "4683",
+      "nombre": "Máscara Alargadora a Prueba de Agua Uniquecil Extra XL Negro",
+      "precio": 27000,
+      "pagina": 58,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=58"
+    },
+    {
+      "codigo": "6414",
+      "nombre": "Uniquecil Ultra Resist Máscara Larga Duración APA",
+      "precio": 33000,
+      "pagina": 59,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=59"
+    },
+    {
+      "codigo": "1816",
+      "nombre": "Yanbal Iron Infinity Negro",
+      "precio": 32000,
+      "pagina": 60,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=60"
+    },
+    {
+      "codigo": "4681",
+      "nombre": "Máscara Alargadora Crece Extreme Negro",
+      "precio": 39500,
+      "pagina": 60,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=60"
+    },
+    {
+      "codigo": "4714",
+      "nombre": "Dúo de Ojos y Cejas Marrón, Negro Humo",
+      "precio": 54500,
+      "pagina": 61,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=61"
+    },
+    {
+      "codigo": "4801",
+      "nombre": "Delineador Retráctil para Cejas Marrón Cenizo",
+      "precio": 32000,
+      "pagina": 61,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=61"
+    },
+    {
+      "codigo": "5163",
+      "nombre": "Delineador Retráctil para Cejas Marrón",
+      "precio": 32000,
+      "pagina": 61,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=61"
+    },
+    {
+      "codigo": "6280",
+      "nombre": "Hydra-Lip Labial Líquido Satinado Hot Wine",
+      "precio": 31000,
+      "pagina": 62,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=62"
+    },
+    {
+      "codigo": "6274",
+      "nombre": "Hydra-Lip Labial Líquido Satinado Terra Mystic",
+      "precio": 31000,
+      "pagina": 62,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=62"
+    },
+    {
+      "codigo": "6281",
+      "nombre": "Hydra-Lip Labial Líquido Satinado Rojo Pasión",
+      "precio": 31000,
+      "pagina": 62,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=62"
+    },
+    {
+      "codigo": "6282",
+      "nombre": "Hydra-Lip Labial Líquido Satinado Fucsia Encendido",
+      "precio": 31000,
+      "pagina": 62,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=62"
+    },
+    {
+      "codigo": "6275",
+      "nombre": "Hydra-Lip Labial Líquido Satinado Caramel Rose",
+      "precio": 31000,
+      "pagina": 62,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=62"
+    },
+    {
+      "codigo": "6283",
+      "nombre": "Hydra-Lip Labial Líquido Satinado Iconic 67",
+      "precio": 31000,
+      "pagina": 62,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=62"
+    },
+    {
+      "codigo": "5045",
+      "nombre": "Hydra-Lip Labial Líquido Mate Berry Diva",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4892",
+      "nombre": "Hydra-Lip Labial Líquido Mate Malvalate",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "5043",
+      "nombre": "Hydra-Lip Labial Líquido Mate Capuccino",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "5044",
+      "nombre": "Hydra-Lip Labial Líquido Mate Hot Paprika",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4897",
+      "nombre": "Hydra-Lip Labial Líquido Mate Choconut",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4893",
+      "nombre": "Hydra-Lip Labial Líquido Mate So Fucsia",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "6271",
+      "nombre": "Hydra-Lip Labial Líquido Mate Iconic 67",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4894",
+      "nombre": "Hydra-Lip Labial Líquido Mate Amore Rojo",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4977",
+      "nombre": "Hydra-Lip Labial Líquido Mate Lola Rose",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4896",
+      "nombre": "Hydra-Lip Labial Líquido Mate Oh My Wine",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4890",
+      "nombre": "Hydra-Lip Labial Líquido Mate Caramel Nude",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "4895",
+      "nombre": "Hydra-Lip Labial Líquido Mate Red Velvet",
+      "precio": 31000,
+      "pagina": 63,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63"
+    },
+    {
+      "codigo": "5175",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Orquidea Pink",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5165",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Ambre",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "6309",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Iconic 67",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5172",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Chocolate",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5173",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Tierra de Rosas",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5164",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Terciopelo Negro",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5166",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Tentación",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5171",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Ultra Red",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5167",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Rosa Toscana",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "5169",
+      "nombre": "Hydra-Lip Labial Intense Tint Infused Creme Nude",
+      "precio": 28500,
+      "pagina": 64,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64"
+    },
+    {
+      "codigo": "6257",
+      "nombre": "Delineador Retráctil para Labios Vino Rojizo",
+      "precio": 25000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6303",
+      "nombre": "Hydra-Lip Labial Larga Duración Pink Coral",
+      "precio": 26000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6255",
+      "nombre": "Delineador Retráctil para Labios Rojo",
+      "precio": 25000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6258",
+      "nombre": "Delineador Retráctil para Labios Chocolate",
+      "precio": 25000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6259",
+      "nombre": "Delineador Retráctil para Labios Toffee",
+      "precio": 25000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "4084",
+      "nombre": "Hydra-Lip Labial Larga Duración Beso Gitano",
+      "precio": 26000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6254",
+      "nombre": "Delineador Retráctil para Labios Vino",
+      "precio": 25000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6302",
+      "nombre": "Hydra-Lip Labial Larga Duración Cinnabrown",
+      "precio": 26000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "4082",
+      "nombre": "Hydra-Lip Labial Larga Duración Rosa de mis Sueños",
+      "precio": 26000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6305",
+      "nombre": "Hydra-Lip Labial Larga Duración Iconic 67",
+      "precio": 26000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "4724",
+      "nombre": "Hydra-Lip Labial Larga Duración Rosa Nude",
+      "precio": 26000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6256",
+      "nombre": "Delineador Retráctil para Labios Nude",
+      "precio": 25000,
+      "pagina": 65,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=65"
+    },
+    {
+      "codigo": "6391",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Fucsia Bold",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "6387",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Red Bloom",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "6390",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Iconic 67",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "5206",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Ruby Shine",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "6392",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Nude Lips",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "6389",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Vino Bomb",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "5207",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Latte Vibes",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "6388",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Dream Rose",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "5208",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Glow Honey",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "5205",
+      "nombre": "Hydra-Lip Brillo Labial Volumen Blush Glow",
+      "precio": 32500,
+      "pagina": 66,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=66"
+    },
+    {
+      "codigo": "4854",
+      "nombre": "Base Fortalecedora de Uñas",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "4190",
+      "nombre": "Brillo Secante y Protector de Esmalte",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "4601",
+      "nombre": "Esmalte de Uñas Burgundy",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "4729",
+      "nombre": "Esmalte de Uñas Pasión",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6340",
+      "nombre": "Esmalte de Uñas Sunset Coral",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6421",
+      "nombre": "Esmalte de Uñas Beige",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6420",
+      "nombre": "Esmalte de Uñas Cielo",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6419",
+      "nombre": "Esmalte de Uñas Rojo Carmesí",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6195",
+      "nombre": "Esmalte de Uñas Fucsia Encanto",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5057",
+      "nombre": "Esmalte de Uñas Arena",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6415",
+      "nombre": "Esmalte de Uñas Iconic 67",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5054",
+      "nombre": "Esmalte de Uñas Red Cava",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5060",
+      "nombre": "Esmalte de Uñas Blanco Nube",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5055",
+      "nombre": "Esmalte de Uñas Lila Love",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "4186",
+      "nombre": "Esmalte de Uñas Te Quiero Rosa",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "774",
+      "nombre": "Esmalte de Uñas Butter Yellow",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "4183",
+      "nombre": "Esmalte de Uñas Blanco Nieve",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5062",
+      "nombre": "Esmalte de Uñas Cisne Negro",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6417",
+      "nombre": "Esmalte de Uñas Mocha Mousse",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "6418",
+      "nombre": "Esmalte de Uñas Espresso",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5059",
+      "nombre": "Esmalte de Uñas Toffee",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "4167",
+      "nombre": "Esmalte de Uñas Amantes de Media Noche",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5070",
+      "nombre": "Esmalte de Uñas Denim Blue",
+      "precio": 19500,
+      "pagina": 67,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67"
+    },
+    {
+      "codigo": "5433",
+      "nombre": "Ya! Delineador Líquido a Prueba de Agua Negro",
+      "precio": 19000,
+      "pagina": 68,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=68"
+    },
+    {
+      "codigo": "6412",
+      "nombre": "Ya! Máscara Dúo Multiusos",
+      "precio": 27000,
+      "pagina": 68,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=68"
+    },
+    {
+      "codigo": "5441",
+      "nombre": "Ya! Barra Multiusos Rosa",
+      "precio": 29500,
+      "pagina": 69,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=69"
+    },
+    {
+      "codigo": "5442",
+      "nombre": "Ya! Barra Multiusos Bronce",
+      "precio": 29500,
+      "pagina": 69,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=69"
+    },
+    {
+      "codigo": "5443",
+      "nombre": "Ya! Barra Multiusos Coral",
+      "precio": 29500,
+      "pagina": 69,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=69"
+    },
+    {
+      "codigo": "6262",
+      "nombre": "Barra Multiusos Ya! de Yanbal Toasted Orange",
+      "precio": 29500,
+      "pagina": 69,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=69"
+    },
+    {
+      "codigo": "6260",
+      "nombre": "Barra Multiusos Ya! de Yanbal Marrón",
+      "precio": 29500,
+      "pagina": 69,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=69"
+    },
+    {
+      "codigo": "6140",
+      "nombre": "Ya! Barra Multiusos Rosa Nude",
+      "precio": 29500,
+      "pagina": 69,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=69"
+    },
+    {
+      "codigo": "6261",
+      "nombre": "Ya! Barra Multiusos Sunset Bronzer",
+      "precio": 29500,
+      "pagina": 69,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=69"
+    },
+    {
+      "codigo": "6334",
+      "nombre": "Ya! Labial Multibeneficios Choco Late",
+      "precio": 27500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "5458",
+      "nombre": "Ya! Tinta de Labios Rojo Carmín",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "5463",
+      "nombre": "Ya! Tinta de Labios Rojo Fuego",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "5457",
+      "nombre": "Ya! Tinta de Labios Coral Rosa",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "6337",
+      "nombre": "Ya! Labial Multibeneficios Esencia Nude",
+      "precio": 27500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "5459",
+      "nombre": "Ya! Tinta de Labios Rosa Moka",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "6332",
+      "nombre": "Ya! Labial Multibeneficios Beso Merlot",
+      "precio": 27500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "5464",
+      "nombre": "Ya! Tinta de Labios Fucsia",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "6333",
+      "nombre": "Ya! Labial Multibeneficios Corazón Rojo",
+      "precio": 27500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "6231",
+      "nombre": "Ya! Tinta de Labios Burgundy",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "6335",
+      "nombre": "Ya! Labial Multibeneficios Core Rosé",
+      "precio": 27500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "5461",
+      "nombre": "Ya! Tinta de Labios Rosa Pop",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "6251",
+      "nombre": "Ya! Tinta de Labios Dark Nude",
+      "precio": 28500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "6336",
+      "nombre": "Ya! Labial Multibeneficios Latido Fucsia",
+      "precio": 27500,
+      "pagina": 70,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70"
+    },
+    {
+      "codigo": "5440",
+      "nombre": "Ya! Labial Mate Cereza",
+      "precio": 21000,
+      "pagina": 71,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=71"
+    },
+    {
+      "codigo": "6264",
+      "nombre": "Ya! Labial Mate Vino",
+      "precio": 21000,
+      "pagina": 71,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=71"
+    },
+    {
+      "codigo": "6263",
+      "nombre": "Ya! Labial Mate Caramelo",
+      "precio": 21000,
+      "pagina": 71,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=71"
+    },
+    {
+      "codigo": "5437",
+      "nombre": "Ya! Labial Mate Palo Rosa",
+      "precio": 21000,
+      "pagina": 71,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=71"
+    },
+    {
+      "codigo": "5436",
+      "nombre": "Ya! Labial Mate Ciruela",
+      "precio": 21000,
+      "pagina": 71,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=71"
+    },
+    {
+      "codigo": "5438",
+      "nombre": "Ya! Labial Mate Canela",
+      "precio": 21000,
+      "pagina": 71,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=71"
+    },
+    {
+      "codigo": "33",
+      "nombre": "Genactive Serum Reafirmante Antigravedad",
+      "precio": 157000,
+      "pagina": 73,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=73"
+    },
+    {
+      "codigo": "152",
+      "nombre": "Hidratante Reparador Intensivo Crema Extracto Divino",
+      "precio": 91000,
+      "pagina": 74,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=74"
+    },
+    {
+      "codigo": "151",
+      "nombre": "Limpiador en Espuma Extracto Divino",
+      "precio": 45000,
+      "pagina": 74,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=74"
+    },
+    {
+      "codigo": "143",
+      "nombre": "Crema Reparadora Intensiva Extracto Divino",
+      "precio": 203000,
+      "pagina": 75,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=75"
+    },
+    {
+      "codigo": "167",
+      "nombre": "Crema reparadora intensiva para ojos",
+      "precio": 127000,
+      "pagina": 75,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=75"
+    },
+    {
+      "codigo": "17",
+      "nombre": "Crema Rejuvenecedora Elixir de Vida",
+      "precio": 166000,
+      "pagina": 76,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=76"
+    },
+    {
+      "codigo": "154",
+      "nombre": "Limpiador en Gel Elixir de Vida",
+      "precio": 39000,
+      "pagina": 76,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=76"
+    },
+    {
+      "codigo": "187",
+      "nombre": "Suero Antiarrugas",
+      "precio": 105000,
+      "pagina": 77,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=77"
+    },
+    {
+      "codigo": "3",
+      "nombre": "Limpiador Acción Antimanchas Pigment Control",
+      "precio": 42000,
+      "pagina": 78,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=78"
+    },
+    {
+      "codigo": "24",
+      "nombre": "Crema Antimanchas Día SPF50+ Pigment Control",
+      "precio": 65000,
+      "pagina": 79,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=79"
+    },
+    {
+      "codigo": "1802",
+      "nombre": "Suero Antimanchas",
+      "precio": 105000,
+      "pagina": 79,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=79"
+    },
+    {
+      "codigo": "1808",
+      "nombre": "Limpiador Hidratante en Gel con Ácido Hialurónico Aqua Fix",
+      "precio": 38000,
+      "pagina": 80,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=80"
+    },
+    {
+      "codigo": "169",
+      "nombre": "Suero Ultra Hidratante",
+      "precio": 126000,
+      "pagina": 80,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=80"
+    },
+    {
+      "codigo": "1810",
+      "nombre": "Crema Ultra Hidratante SPF 30 Aquafix",
+      "precio": 60000,
+      "pagina": 80,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=80"
+    },
+    {
+      "codigo": "1809",
+      "nombre": "Gel Ultra Hidratante con Ácido Hialurónico Aqua Fix",
+      "precio": 105000,
+      "pagina": 81,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=81"
+    },
+    {
+      "codigo": "199",
+      "nombre": "Suero Antigrasa",
+      "precio": 136500,
+      "pagina": 82,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=82"
+    },
+    {
+      "codigo": "1812",
+      "nombre": "Perfect Balance Limpiador",
+      "precio": 35000,
+      "pagina": 82,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=82"
+    },
+    {
+      "codigo": "1813",
+      "nombre": "Hidratante Matificante Perfect Balance",
+      "precio": 65000,
+      "pagina": 82,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=82"
+    },
+    {
+      "codigo": "13",
+      "nombre": "Exfoliante Antigrasa Ácido Salicílico",
+      "precio": 40000,
+      "pagina": 83,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=83"
+    },
+    {
+      "codigo": "14",
+      "nombre": "Mascarilla Antigrasa Carbón Activo",
+      "precio": 40000,
+      "pagina": 83,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=83"
+    },
+    {
+      "codigo": "77",
+      "nombre": "Hidratante Ligera para Piel Sensible Sensi Derm",
+      "precio": 60000,
+      "pagina": 84,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=84"
+    },
+    {
+      "codigo": "32",
+      "nombre": "Agua Micelar Piel Sensible",
+      "precio": 41000,
+      "pagina": 84,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=84"
+    },
+    {
+      "codigo": "76",
+      "nombre": "Leche Limpiadora para Piel Sensible Sensi Derm",
+      "precio": 42000,
+      "pagina": 84,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=84"
+    },
+    {
+      "codigo": "11",
+      "nombre": "Desmaquillador Doble Fase",
+      "precio": 47000,
+      "pagina": 85,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=85"
+    },
+    {
+      "codigo": "68",
+      "nombre": "Gel Desmaquillador para Ojos",
+      "precio": 39500,
+      "pagina": 85,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=85"
+    },
+    {
+      "codigo": "176",
+      "nombre": "BB Cream Hidratante Claro",
+      "precio": 71500,
+      "pagina": 86,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=86"
+    },
+    {
+      "codigo": "7",
+      "nombre": "BB Cream Hidratante Mediano",
+      "precio": 71500,
+      "pagina": 86,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=86"
+    },
+    {
+      "codigo": "174",
+      "nombre": "BB Cream Matificante Claro",
+      "precio": 71500,
+      "pagina": 86,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=86"
+    },
+    {
+      "codigo": "67",
+      "nombre": "BB Cream Matificante Mediano",
+      "precio": 71500,
+      "pagina": 86,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=86"
+    },
+    {
+      "codigo": "170",
+      "nombre": "BB Lips Bálsamo Hidratante para Labios Natural",
+      "precio": 25500,
+      "pagina": 87,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=87"
+    },
+    {
+      "codigo": "1815",
+      "nombre": "BB Lips Bálsamo Hidratante para Labios Black Cherry",
+      "precio": 25500,
+      "pagina": 87,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=87"
+    },
+    {
+      "codigo": "6399",
+      "nombre": "BB Cream Antiedad con Color Claro",
+      "precio": 61000,
+      "pagina": 87,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=87"
+    },
+    {
+      "codigo": "172",
+      "nombre": "BB Lips Bálsamo Hidratante para Labios Natural Pink",
+      "precio": 25500,
+      "pagina": 87,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=87"
+    },
+    {
+      "codigo": "6400",
+      "nombre": "BB Cream Antiedad con Color Mediano",
+      "precio": 61000,
+      "pagina": 87,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=87"
+    },
+    {
+      "codigo": "28",
+      "nombre": "Crema Aclarante 100g Totalist+ Concha de Nacar Vitamina B3",
+      "precio": 29000,
+      "pagina": 88,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=88"
+    },
+    {
+      "codigo": "160",
+      "nombre": "Crema Ultra Hidratante 100g Totalist+ Aguacate Ácido Hialurónico",
+      "precio": 29000,
+      "pagina": 88,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=88"
+    },
+    {
+      "codigo": "150",
+      "nombre": "Crema Antiarrugas 100g Totalist+ Jalea Real Colágeno Vegano",
+      "precio": 29000,
+      "pagina": 88,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=88"
+    },
+    {
+      "codigo": "81",
+      "nombre": "Totalist+ Gel Multiacción Control Brillo",
+      "precio": 29000,
+      "pagina": 89,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=89"
+    },
+    {
+      "codigo": "331",
+      "nombre": "Protector Solar Total Block Ultraprotección SPF 100",
+      "precio": 54500,
+      "pagina": 91,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=91"
+    },
+    {
+      "codigo": "517",
+      "nombre": "Protector Solar Total Block Ultraprotección SPF 100 Jumbo",
+      "precio": 101000,
+      "pagina": 91,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=91"
+    },
+    {
+      "codigo": "725",
+      "nombre": "Protector Solar Total Block Ultraprotección Sport SPF 100",
+      "precio": 101000,
+      "pagina": 92,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=92"
+    },
+    {
+      "codigo": "536",
+      "nombre": "Protector Solar Total Block Ultraprotección Kids SPF 100",
+      "precio": 101000,
+      "pagina": 92,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=92"
+    },
+    {
+      "codigo": "748",
+      "nombre": "Total Block Protector Solar Matificante con Color SPF100",
+      "precio": 61000,
+      "pagina": 93,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=93"
+    },
+    {
+      "codigo": "515",
+      "nombre": "Total Block Protector Solar Matificante SPF100",
+      "precio": 64000,
+      "pagina": 93,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=93"
+    },
+    {
+      "codigo": "696",
+      "nombre": "Total Block Compacto SPF100 Claro",
+      "precio": 83000,
+      "pagina": 94,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=94"
+    },
+    {
+      "codigo": "695",
+      "nombre": "Total Block Compacto SPF100 Mediano 2",
+      "precio": 83000,
+      "pagina": 94,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=94"
+    },
+    {
+      "codigo": "694",
+      "nombre": "Total Block Compacto SPF100 Mediano 1",
+      "precio": 83000,
+      "pagina": 94,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=94"
+    },
+    {
+      "codigo": "711",
+      "nombre": "Fotoprotector Solar Fluido SPF50+ Total Block Dermafusión",
+      "precio": 102000,
+      "pagina": 95,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=95"
+    },
+    {
+      "codigo": "712",
+      "nombre": "Fotoprotector Facial Fluido c/Color TotalBlock Derma SPF 50+",
+      "precio": 102000,
+      "pagina": 95,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=95"
+    },
+    {
+      "codigo": "743",
+      "nombre": "Fotoprotector Solar Fluido SPF50+ Total Block Dermafusión Gel Velvet",
+      "precio": 104500,
+      "pagina": 95,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=95"
+    },
+    {
+      "codigo": "627",
+      "nombre": "Loción de Seda Ámbar y Miel Crema Iluminadora Perfumada",
+      "precio": 38500,
+      "pagina": 96,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=96"
+    },
+    {
+      "codigo": "677",
+      "nombre": "Loción de Seda Magnolia y Vainilla Crema Iluminadora Perfumada",
+      "precio": 38500,
+      "pagina": 97,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=97"
+    },
+    {
+      "codigo": "628",
+      "nombre": "Loción de Seda Rosa y Musk Crema Iluminadora Perfumada",
+      "precio": 38500,
+      "pagina": 97,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=97"
+    },
+    {
+      "codigo": "676",
+      "nombre": "Loción de Seda Lima y Jazmín Crema Iluminadora Perfumada",
+      "precio": 38500,
+      "pagina": 97,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=97"
+    },
+    {
+      "codigo": "304",
+      "nombre": "Crema Corporal Body Spa Uña de Gato",
+      "precio": 59000,
+      "pagina": 98,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=98"
+    },
+    {
+      "codigo": "603",
+      "nombre": "Limpiador Exfoliante en Gel Body Spa Uña de Gato",
+      "precio": 55000,
+      "pagina": 98,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=98"
+    },
+    {
+      "codigo": "778",
+      "nombre": "Set Crema de Manos Body Spa",
+      "precio": 45000,
+      "pagina": 99,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=99"
+    },
+    {
+      "codigo": "634",
+      "nombre": "Crema Corporal Body Spa Cacao",
+      "precio": 59000,
+      "pagina": 99,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=99"
+    },
+    {
+      "codigo": "79816",
+      "nombre": "Set Biomilk Mora Arándanos: Crema Corporal + Jabón en Barra",
+      "precio": 71500,
+      "pagina": 100,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=100"
+    },
+    {
+      "codigo": "79833",
+      "nombre": "Set Biomilk Original: Crema Corporal + Jabón en Barra",
+      "precio": 71500,
+      "pagina": 100,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=100"
+    },
+    {
+      "codigo": "722",
+      "nombre": "Shampoo Blum Protección Total",
+      "precio": 29000,
+      "pagina": 102,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=102"
+    },
+    {
+      "codigo": "700",
+      "nombre": "Shampoo Control Caspa Blum",
+      "precio": 33000,
+      "pagina": 102,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=102"
+    },
+    {
+      "codigo": "723",
+      "nombre": "Acondicionador Blum Protección Total",
+      "precio": 29000,
+      "pagina": 102,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=102"
+    },
+    {
+      "codigo": "691",
+      "nombre": "Shampoo Reparación Blum",
+      "precio": 29000,
+      "pagina": 102,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=102"
+    },
+    {
+      "codigo": "692",
+      "nombre": "Acondicionador Reparación Blum",
+      "precio": 29000,
+      "pagina": 102,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=102"
+    },
+    {
+      "codigo": "727",
+      "nombre": "Serum Reparador de Puntas y Control Frizz Blum Nutri-Control",
+      "precio": 33000,
+      "pagina": 103,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=103"
+    },
+    {
+      "codigo": "728",
+      "nombre": "Crema Moldeadora de Rizos Blum",
+      "precio": 30500,
+      "pagina": 104,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=104"
+    },
+    {
+      "codigo": "729",
+      "nombre": "Gel Fijador de Rizos Blum",
+      "precio": 30500,
+      "pagina": 104,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=104"
+    },
+    {
+      "codigo": "702",
+      "nombre": "Desodorante Antitranspirante Cielo",
+      "precio": 12500,
+      "pagina": 105,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=105"
+    },
+    {
+      "codigo": "351",
+      "nombre": "Ccori Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 105,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=105"
+    },
+    {
+      "codigo": "358",
+      "nombre": "Osadía Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 105,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=105"
+    },
+    {
+      "codigo": "354",
+      "nombre": "Gaïa Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 105,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=105"
+    },
+    {
+      "codigo": "505",
+      "nombre": "Ccori Rosé Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 105,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=105"
+    },
+    {
+      "codigo": "355",
+      "nombre": "Temptation Desodorante Perfumado Roll on Mujer",
+      "precio": 12500,
+      "pagina": 105,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=105"
+    },
+    {
+      "codigo": "516",
+      "nombre": "Desodorante Antitranspirante Roll On Effective Clinical",
+      "precio": 13500,
+      "pagina": 106,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=106"
+    },
+    {
+      "codigo": "346",
+      "nombre": "Desodorante Antitranspirante Roll On Effective Original",
+      "precio": 12500,
+      "pagina": 106,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=106"
+    },
+    {
+      "codigo": "347",
+      "nombre": "Desodorante Antitranspirante Roll On Effective Brisa Floral",
+      "precio": 12500,
+      "pagina": 106,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=106"
+    },
+    {
+      "codigo": "613",
+      "nombre": "Desodorante Antitranspirante Roll On Effective Sensitive",
+      "precio": 13500,
+      "pagina": 106,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=106"
+    },
+    {
+      "codigo": "472",
+      "nombre": "Desodorante Antitranspirante Roll On Effective Aclarante",
+      "precio": 12500,
+      "pagina": 106,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=106"
+    },
+    {
+      "codigo": "732",
+      "nombre": "Desodorante Antitranspirante en Aerosol Effective Aclarante",
+      "precio": 26000,
+      "pagina": 107,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=107"
+    },
+    {
+      "codigo": "731",
+      "nombre": "Desodorante Antitranspirante en Aerosol Effective Original",
+      "precio": 26000,
+      "pagina": 107,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=107"
+    },
+    {
+      "codigo": "733",
+      "nombre": "Desodorante Antitranspirante en Aerosol Effective Clinical",
+      "precio": 28000,
+      "pagina": 107,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=107"
+    },
+    {
+      "codigo": "2037",
+      "nombre": "Ohm Now Parfum",
+      "precio": 136000,
+      "pagina": 109,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=109"
+    },
+    {
+      "codigo": "205",
+      "nombre": "43N Paralel Parfum",
+      "precio": 185500,
+      "pagina": 110,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=110"
+    },
+    {
+      "codigo": "79896",
+      "nombre": "Set Zentro : Eau de Parfum+desodorante perfumado",
+      "precio": 125000,
+      "pagina": 111,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=111"
+    },
+    {
+      "codigo": "79934",
+      "nombre": "Set Solo: Parfum+Desodorante fraganciado+Jabón en barra.",
+      "precio": 129000,
+      "pagina": 112,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=112"
+    },
+    {
+      "codigo": "2213",
+      "nombre": "Solo Elixir Parfum",
+      "precio": 119000,
+      "pagina": 113,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=113"
+    },
+    {
+      "codigo": "2192",
+      "nombre": "Temptation Black Eau de Parfum",
+      "precio": 119000,
+      "pagina": 115,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=115"
+    },
+    {
+      "codigo": "208",
+      "nombre": "Temptation Eau de Parfum",
+      "precio": 149500,
+      "pagina": 116,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=116"
+    },
+    {
+      "codigo": "6403",
+      "nombre": "Jabón en Barra Perfumado Temptation Hombre",
+      "precio": 12500,
+      "pagina": 116,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=116"
+    },
+    {
+      "codigo": "60116",
+      "nombre": "Bolsa Chica Hombre",
+      "precio": 3000,
+      "pagina": 117,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=117"
+    },
+    {
+      "codigo": "79892",
+      "nombre": "Set Arom: Eau de Parfum + Desodorante Antitranspirante",
+      "precio": 114500,
+      "pagina": 117,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=117"
+    },
+    {
+      "codigo": "2201",
+      "nombre": "Dendur Destiny Eau de Parfum",
+      "precio": 149500,
+      "pagina": 118,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=118"
+    },
+    {
+      "codigo": "206",
+      "nombre": "Dendur Eau de Parfum",
+      "precio": 149500,
+      "pagina": 118,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=118"
+    },
+    {
+      "codigo": "216",
+      "nombre": "Musk Hombre Eau de Parfum",
+      "precio": 83000,
+      "pagina": 119,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=119"
+    },
+    {
+      "codigo": "2161",
+      "nombre": "Selecto Eau de Toilette",
+      "precio": 110500,
+      "pagina": 119,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=119"
+    },
+    {
+      "codigo": "217",
+      "nombre": "Adrenaline Eau de Toilette Hombre",
+      "precio": 78000,
+      "pagina": 120,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=120"
+    },
+    {
+      "codigo": "43763",
+      "nombre": "Esclava San José Padre",
+      "precio": 135000,
+      "pagina": 121,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=121"
+    },
+    {
+      "codigo": "43762",
+      "nombre": "Cadena San José Padre",
+      "precio": 160000,
+      "pagina": 121,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=121"
+    },
+    {
+      "codigo": "507",
+      "nombre": "Arom Absolute Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "821",
+      "nombre": "Temptation Black Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "393",
+      "nombre": "Ohm Black Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "390",
+      "nombre": "Solo Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "389",
+      "nombre": "Arom Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "724",
+      "nombre": "Desodorante Antitranspirante Roll On Dendur Destiny",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "392",
+      "nombre": "Ohm Desodorante Perfumado Roll on",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "387",
+      "nombre": "Temptation Desodorante Perfumado Roll on Hombre",
+      "precio": 12500,
+      "pagina": 122,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=122"
+    },
+    {
+      "codigo": "476",
+      "nombre": "Yanbal Men Shampoo",
+      "precio": 41500,
+      "pagina": 123,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=123"
+    },
+    {
+      "codigo": "477",
+      "nombre": "Yanbal Men Jabón en Barra",
+      "precio": 12500,
+      "pagina": 123,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=123"
+    },
+    {
+      "codigo": "43760",
+      "nombre": "Set Aretes Aimee Petite",
+      "precio": 89900,
+      "pagina": 124,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=124"
+    },
+    {
+      "codigo": "43759",
+      "nombre": "Colección Aimee Petite",
+      "precio": 89900,
+      "pagina": 124,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=124"
+    },
+    {
+      "codigo": "60099",
+      "nombre": "Yanbal Kids Bolsa Regalable",
+      "precio": 3000,
+      "pagina": 124,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=124"
+    },
+    {
+      "codigo": "43761",
+      "nombre": "Set Aretes Aimee Cruz",
+      "precio": 82900,
+      "pagina": 124,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=124"
+    },
+    {
+      "codigo": "679",
+      "nombre": "Colonia para Niño Yanbal Kids",
+      "precio": 31000,
+      "pagina": 125,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=125"
+    },
+    {
+      "codigo": "680",
+      "nombre": "Yanbal Kids Shampoo",
+      "precio": 29000,
+      "pagina": 125,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=125"
+    },
+    {
+      "codigo": "678",
+      "nombre": "Colonia para Niña Yanbal Kids",
+      "precio": 31000,
+      "pagina": 125,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=125"
+    },
+    {
+      "codigo": "735",
+      "nombre": "Baño Líquido Yanbal Baby",
+      "precio": 27500,
+      "pagina": 126,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=126"
+    },
+    {
+      "codigo": "734",
+      "nombre": "Shampoo Acondicionador Yanbal Baby",
+      "precio": 27500,
+      "pagina": 126,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=126"
+    },
+    {
+      "codigo": "60100",
+      "nombre": "Bolsa Yanbal Baby",
+      "precio": 3000,
+      "pagina": 126,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=126"
+    },
+    {
+      "codigo": "736",
+      "nombre": "Agua de Colonia Yanbal Baby",
+      "precio": 43000,
+      "pagina": 127,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=127"
+    },
+    {
+      "codigo": "623",
+      "nombre": "Crema Hidratante Yanbal Baby",
+      "precio": 27000,
+      "pagina": 127,
+      "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=127"
+    }
+  ]
+}

@@ -36,3 +36,6 @@ pnpm-debug.log*
 *.swp
 .DS_Store
 Thumbs.db
+
+# Datos extraídos (se regeneran con los scripts)
+data/*.csv
