@@ -1,0 +1,29 @@
+{
+  "name": "alejandria",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Catálogo y tienda de Alejandría — venta directa de Yanbal y Natura en Colombia.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "clasificar:yanbal": "node scripts/clasificar.mjs data/yanbal-col-2026-c09-normalizado.json",
+    "clasificar:natura": "node scripts/clasificar.mjs data/natura-revista-ciclo-13-normalizado.json"
+  },
+  "dependencies": {
+    "next": "16.3.4",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "26.4.1",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.7",
+    "eslint": "^10.10.0",
+    "eslint-config-next": "16.3.4",
+    "tailwindcss": "4.3.3",
+    "typescript": "^6.0.3"
+  }
+}

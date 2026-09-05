@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ground: #eef1ea;
+  --color-surface: #ffffff;
+  --color-ink: #2b2e26;
+  --color-secondary: #56604f;
+  --color-accent: #3f5a3c;
+  --color-accent-dark: #2e4230;
+  --color-line: #d6dcce;
+  --color-whatsapp: #25d366;
+  --color-whatsapp-ink: #06281a;
+  --color-available: #e3ebdf;
+  --color-available-ink: #3f5a3c;
+  --color-unavailable: #f6e4dd;
+  --color-unavailable-ink: #a34328;
+
+  --font-display: var(--font-gloock), Georgia, "Times New Roman", serif;
+  --font-body: var(--font-albert-sans), system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@layer base {
+  body {
+    background: var(--color-ground);
+    color: var(--color-ink);
+  }
+
+  a {
+    color: var(--color-accent);
+  }
+  a:hover {
+    color: var(--color-accent-dark);
+  }
+}
