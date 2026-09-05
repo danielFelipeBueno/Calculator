@@ -57,10 +57,30 @@ público; esos necesitan fotografía propia.
 
 ### Natura y Avon
 
-Pendiente. Corren sobre `digital-catalogue.com` y exponen una capa de texto por
-página (palabra a palabra, con coordenadas) en
-`.../view/common/data/<página>.json`. Extraer productos ahí requiere agrupar por
-`paragraph_id` y posición: bastante más trabajo que Yanbal.
+Corren sobre `digital-catalogue.com`, que no publica datos estructurados: solo una
+capa de texto por página, palabra a palabra y con coordenadas.
+
+```bash
+node scripts/extract-natura.mjs                     # Natura, ciclo vigente
+node scripts/extract-natura.mjs <url-revista> Avon  # Avon
+```
+
+Los productos se reconstruyen por geometría: un párrafo de nombre y, debajo y en
+la misma columna, un párrafo de datos con el código entre paréntesis.
+
+```
+Shampoo restauración 300 ml           <- nombre   (y=585, x=40)
+(167286) 7 pts $ 40.500 ml a $ 135    <- datos    (y=612, x=40)
+```
+
+Con descuento los datos se parten en `de $ 33.500` (lista) y `a 25.100 $` (oferta).
+Se descartan los precios unitarios, que llevan coma decimal, y los sellos
+promocionales ("20 % de descuento"), que compiten con el nombre por estar en la
+misma columna.
+
+Resultado del ciclo 13: **Natura 366 productos**, **Avon 130**. Verificado a mano
+contra la página 36 de Natura: 7 de 7 con código, puntos, precio y descuento
+correctos. Ninguna de las dos marcas expone fotos ni stock por esta vía.
 
 ## Decisiones tomadas
 

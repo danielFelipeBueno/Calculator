@@ -1,0 +1,2935 @@
+{
+  "marca": "Natura",
+  "origen": "https://co.natura.digital-catalogue.com/co/2026/13/revista/ciclo-13/view",
+  "extraido": "2026-09-05T05:22:27.508Z",
+  "productos": [
+    {
+      "codigo": "174206",
+      "nombre": "Shampoo de tratamiento antiseñales 300 ml",
+      "precio": 42900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 28
+    },
+    {
+      "codigo": "176050",
+      "nombre": "Serúm de prevención antiseñales 100 ml",
+      "precio": 68900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 28
+    },
+    {
+      "codigo": "174212",
+      "nombre": "Acondicionador antiseñales* 300 ml",
+      "precio": 42900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 29
+    },
+    {
+      "codigo": "174196",
+      "nombre": "Máscara antiseñales 250 ml",
+      "precio": 64900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 29
+    },
+    {
+      "codigo": "148459",
+      "nombre": "Con acción antidaños, previene en hasta 2x el quiebre durante el cepillado.",
+      "precio": 38100,
+      "precioLista": 54500,
+      "puntos": 9,
+      "pagina": 32
+    },
+    {
+      "codigo": "148167",
+      "nombre": "Natura Lumina Esencia 30 ml",
+      "precio": 57900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 32
+    },
+    {
+      "codigo": "148176",
+      "nombre": "Shampoo revitalizante 300 ml",
+      "precio": 32400,
+      "precioLista": 40500,
+      "puntos": 7,
+      "pagina": 33
+    },
+    {
+      "codigo": "148433",
+      "nombre": "Acondicionador protector 300 ml",
+      "precio": 32400,
+      "precioLista": 40500,
+      "puntos": 7,
+      "pagina": 33
+    },
+    {
+      "codigo": "148410",
+      "nombre": "Máscara de blindaje 220 ml",
+      "precio": 45600,
+      "precioLista": 60900,
+      "puntos": 10,
+      "pagina": 33
+    },
+    {
+      "codigo": "148449",
+      "nombre": "Spray antidecoloración y brillo 150 ml",
+      "precio": 47900,
+      "precioLista": 63900,
+      "puntos": 10,
+      "pagina": 33
+    },
+    {
+      "codigo": "147412",
+      "nombre": "1. Repuesto Shampoo nutritivo 300 ml",
+      "precio": 25100,
+      "precioLista": 33500,
+      "puntos": 5,
+      "pagina": 35
+    },
+    {
+      "codigo": "147410",
+      "nombre": "2. Repuesto Acondicionador polinutrición 300 ml",
+      "precio": 25100,
+      "precioLista": 33500,
+      "puntos": 5,
+      "pagina": 35
+    },
+    {
+      "codigo": "147447",
+      "nombre": "4. Repuesto Máscara reparadora 250 ml",
+      "precio": 36300,
+      "precioLista": 48500,
+      "puntos": 8,
+      "pagina": 35
+    },
+    {
+      "codigo": "147406",
+      "nombre": "3. Repuesto Crema para peinar selladora de cutículas 250 ml",
+      "precio": 40900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 35
+    },
+    {
+      "codigo": "147411",
+      "nombre": "1. Shampoo nutritivo 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 35
+    },
+    {
+      "codigo": "147448",
+      "nombre": "4. Ampolletas reparación instantánea 1 caja con 4 ampollas de 20 ml cada una",
+      "precio": 62900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 35
+    },
+    {
+      "codigo": "147440",
+      "nombre": "2. Acondicionador polinutrición 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 35
+    },
+    {
+      "codigo": "147418",
+      "nombre": "5. Máscara reparadora 250 ml",
+      "precio": 60900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 35
+    },
+    {
+      "codigo": "147453",
+      "nombre": "3. Crema para peinar selladora de cutículas 250 ml",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 35
+    },
+    {
+      "codigo": "167285",
+      "nombre": "Repuesto Acondicionador 300 ml",
+      "precio": 25100,
+      "precioLista": 33500,
+      "puntos": 5,
+      "pagina": 36
+    },
+    {
+      "codigo": "167294",
+      "nombre": "Repuesto Shampoo restauración 300 ml",
+      "precio": 25100,
+      "precioLista": 33500,
+      "puntos": 5,
+      "pagina": 36
+    },
+    {
+      "codigo": "167295",
+      "nombre": "Repuesto Mascarilla acondicionadora 250 ml",
+      "precio": 48500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 36
+    },
+    {
+      "codigo": "167286",
+      "nombre": "Shampoo restauración 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 36
+    },
+    {
+      "codigo": "167291",
+      "nombre": "Acondicionador 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 36
+    },
+    {
+      "codigo": "167289",
+      "nombre": "Mascarilla acondicionadora 250 ml",
+      "precio": 60900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 36
+    },
+    {
+      "codigo": "167288",
+      "nombre": "Spray de aminoácidos pre secado 150 ml",
+      "precio": 63900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 36
+    },
+    {
+      "codigo": "148161",
+      "nombre": "Shampoo cremoso 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 37
+    },
+    {
+      "codigo": "148411",
+      "nombre": "Acondicionador hidratante 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 37
+    },
+    {
+      "codigo": "148437",
+      "nombre": "Crema para peinar modeladora 300 ml",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 37
+    },
+    {
+      "codigo": "148162",
+      "nombre": "Shampoo cremoso 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 37
+    },
+    {
+      "codigo": "148413",
+      "nombre": "Acondicionador hidratante 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 37
+    },
+    {
+      "codigo": "148403",
+      "nombre": "Crema para peinar modeladora 300 ml",
+      "precio": 40900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 37
+    },
+    {
+      "codigo": "148440",
+      "nombre": "Máscara recuperadora 250 ml",
+      "precio": 60900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 37
+    },
+    {
+      "codigo": "148419",
+      "nombre": "Spray humidificador reactivador 150 ml",
+      "precio": 63900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 37
+    },
+    {
+      "codigo": "148406",
+      "nombre": "Máscara recuperadora 250 ml",
+      "precio": 48500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 37
+    },
+    {
+      "codigo": "148171",
+      "nombre": "1. Shampoo hidratante 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 37
+    },
+    {
+      "codigo": "148417",
+      "nombre": "3. Máscara reconstrucción 250 ml",
+      "precio": 60900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 37
+    },
+    {
+      "codigo": "148409",
+      "nombre": "2. Acondicionador nutritivo 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 37
+    },
+    {
+      "codigo": "148436",
+      "nombre": "4. Crema para peinar 300 ml",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 37
+    },
+    {
+      "codigo": "148443",
+      "nombre": "RECONSTRUCCIÓN DE HASTA 89%",
+      "precio": 48500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 38
+    },
+    {
+      "codigo": "148421",
+      "nombre": "3. Sérum regenerador progresivo 100 ml",
+      "precio": 64500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 38
+    },
+    {
+      "codigo": "148170",
+      "nombre": "1. Shampoo reestructurante 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 38
+    },
+    {
+      "codigo": "148412",
+      "nombre": "4. Máscara regeneradora 250 ml",
+      "precio": 60900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 38
+    },
+    {
+      "codigo": "148448",
+      "nombre": "5. Tratamiento Pro-reconstructor 1 máscara potencializadora x 220 ml 1 primer concentrado x 100 ml",
+      "precio": 82500,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 38
+    },
+    {
+      "codigo": "148177",
+      "nombre": "1. Shampoo reestructurante 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 38
+    },
+    {
+      "codigo": "148442",
+      "nombre": "2. Acondicionador provitalidad 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 38
+    },
+    {
+      "codigo": "148399",
+      "nombre": "2. Acondicionador provitalidad 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 38
+    },
+    {
+      "codigo": "148450",
+      "nombre": "Fluido matizador multibeneficios 150 ml",
+      "precio": 73900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 38
+    },
+    {
+      "codigo": "148158",
+      "nombre": "Shampoo matizador 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 38
+    },
+    {
+      "codigo": "148159",
+      "nombre": "Ampolletas restauración antiamarillamiento 1 caja con 4 ampollas de 20 ml cada una",
+      "precio": 62900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 38
+    },
+    {
+      "codigo": "148157",
+      "nombre": "Shampoo matizador 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 38
+    },
+    {
+      "codigo": "147416",
+      "nombre": "Shampoo purificante 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 39
+    },
+    {
+      "codigo": "147434",
+      "nombre": "Spray para peinar antipolución 150 ml",
+      "precio": 53500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 39
+    },
+    {
+      "codigo": "147414",
+      "nombre": "Shampoo purificante 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 39
+    },
+    {
+      "codigo": "200649",
+      "nombre": "Máscara 250 ml",
+      "precio": 60900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 39
+    },
+    {
+      "codigo": "147446",
+      "nombre": "Acondicionador protector 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 39
+    },
+    {
+      "codigo": "200647",
+      "nombre": "Máscara 250 ml",
+      "precio": 48500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 39
+    },
+    {
+      "codigo": "147402",
+      "nombre": "Acondicionador protector 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 39
+    },
+    {
+      "codigo": "147420",
+      "nombre": "Shampoo reequilibrante 300 ml",
+      "precio": 42900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 39
+    },
+    {
+      "codigo": "147449",
+      "nombre": "Shampoo equilibrante 300 ml",
+      "precio": 42900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 39
+    },
+    {
+      "codigo": "147401",
+      "nombre": "Acondicionador suave 300 ml",
+      "precio": 42900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 39
+    },
+    {
+      "codigo": "147408",
+      "nombre": "Shampoo reequilibrante 300 ml",
+      "precio": 34900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 39
+    },
+    {
+      "codigo": "147442",
+      "nombre": "Shampoo equilibrante 300 ml",
+      "precio": 34900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 39
+    },
+    {
+      "codigo": "147445",
+      "nombre": "Acondicionador suave 300 ml",
+      "precio": 34900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 39
+    },
+    {
+      "codigo": "147421",
+      "nombre": "Shampoo estimulante 300 ml",
+      "precio": 42900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 40
+    },
+    {
+      "codigo": "147427",
+      "nombre": "Shampoo estimulante 300 ml",
+      "precio": 68900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 40
+    },
+    {
+      "codigo": "147444",
+      "nombre": "Acondicionador fortificante 300 ml",
+      "precio": 42900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 40
+    },
+    {
+      "codigo": "147417",
+      "nombre": "Máscara antiquiebre 250 ml",
+      "precio": 64900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 40
+    },
+    {
+      "codigo": "147451",
+      "nombre": "Acondicionador fortificante 300 ml",
+      "precio": 34900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 40
+    },
+    {
+      "codigo": "147407",
+      "nombre": "Máscara antiquiebre 250 ml",
+      "precio": 51900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 40
+    },
+    {
+      "codigo": "164516",
+      "nombre": "Shampoo fuerza y reparación 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 40
+    },
+    {
+      "codigo": "164505",
+      "nombre": "Máscara fuerza y reparación 250 ml",
+      "precio": 60900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 40
+    },
+    {
+      "codigo": "164517",
+      "nombre": "Acondicionador fuerza y reparación 300 ml",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 40
+    },
+    {
+      "codigo": "164518",
+      "nombre": "Protector térmico fuerza y reparación 150 ml",
+      "precio": 59500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 40
+    },
+    {
+      "codigo": "164508",
+      "nombre": "Sérum nocturno fuerza y reparación 100 ml",
+      "precio": 64500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 40
+    },
+    {
+      "codigo": "164509",
+      "nombre": "Shampoo fuerza y reparación 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 40
+    },
+    {
+      "codigo": "164506",
+      "nombre": "Máscara fuerza y reparación 250 ml",
+      "precio": 48500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 40
+    },
+    {
+      "codigo": "164512",
+      "nombre": "Acondicionador fuerza y reparación 300 ml",
+      "precio": 33500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 40
+    },
+    {
+      "codigo": "218168",
+      "nombre": "Haz tu regalo aun más especial sumando una",
+      "precio": 1500,
+      "precioLista": null,
+      "puntos": null,
+      "pagina": 49
+    },
+    {
+      "codigo": "242282",
+      "nombre": "LANZAMIENTO",
+      "precio": 39900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 52
+    },
+    {
+      "codigo": "218169",
+      "nombre": "Haz tu regalo aun más especial sumando una",
+      "precio": 2000,
+      "precioLista": null,
+      "puntos": null,
+      "pagina": 57
+    },
+    {
+      "codigo": "257593",
+      "nombre": "el Crossbody by Sacré",
+      "precio": 24900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 58
+    },
+    {
+      "codigo": "154851",
+      "nombre": "Caja vivara",
+      "precio": 9000,
+      "precioLista": null,
+      "puntos": 0,
+      "pagina": 59
+    },
+    {
+      "codigo": "57351",
+      "nombre": "Eau de toilette masculino Homem Clásico 100 ml",
+      "precio": 160900,
+      "precioLista": null,
+      "puntos": 26,
+      "pagina": 65
+    },
+    {
+      "codigo": "151022",
+      "nombre": "Bálsamo post barba multifuncional Homem 75 ml",
+      "precio": 46000,
+      "precioLista": 57600,
+      "puntos": 9,
+      "pagina": 67
+    },
+    {
+      "codigo": "152277",
+      "nombre": "Gel para afeitar Homem 75 g",
+      "precio": 30300,
+      "precioLista": 37900,
+      "puntos": 6,
+      "pagina": 67
+    },
+    {
+      "codigo": "151021",
+      "nombre": "Crema de afeitar multifuncional Homem 75 ml",
+      "precio": 46000,
+      "precioLista": 57600,
+      "puntos": 9,
+      "pagina": 68
+    },
+    {
+      "codigo": "152331",
+      "nombre": "Aceite para barba Homem 30 ml",
+      "precio": 55600,
+      "precioLista": 69500,
+      "puntos": 11,
+      "pagina": 68
+    },
+    {
+      "codigo": "160273",
+      "nombre": "Jabón facial exfoliante 75 ml",
+      "precio": 44900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 69
+    },
+    {
+      "codigo": "152330",
+      "nombre": "Hidratante manos y zonas secas 50 ml",
+      "precio": 30900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 69
+    },
+    {
+      "codigo": "151019",
+      "nombre": "Crema antiseñales 40 g",
+      "precio": 102500,
+      "precioLista": null,
+      "puntos": 17,
+      "pagina": 69
+    },
+    {
+      "codigo": "151023",
+      "nombre": "Jabones de tocador en barra cuerpo y barba 3 unidades x 110 g cada uno",
+      "precio": 50500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 69
+    },
+    {
+      "codigo": "93619",
+      "nombre": "Eau de parfum masculino Oud 100 ml",
+      "precio": 251900,
+      "precioLista": null,
+      "puntos": 41,
+      "pagina": 70
+    },
+    {
+      "codigo": "108218",
+      "nombre": "Eau de parfum masculino Essencial Mirra 100 ml",
+      "precio": 251900,
+      "precioLista": null,
+      "puntos": 41,
+      "pagina": 70
+    },
+    {
+      "codigo": "121945",
+      "nombre": "Repuesto",
+      "precio": 201900,
+      "precioLista": null,
+      "puntos": 33,
+      "pagina": 70
+    },
+    {
+      "codigo": "93617",
+      "nombre": "Eau de parfum masculino Exclusivo 100 ml",
+      "precio": 251900,
+      "precioLista": null,
+      "puntos": 41,
+      "pagina": 70
+    },
+    {
+      "codigo": "118463",
+      "nombre": "Eau de parfum masculino Único 90 ml",
+      "precio": 299900,
+      "precioLista": null,
+      "puntos": 48,
+      "pagina": 70
+    },
+    {
+      "codigo": "110250",
+      "nombre": "Repuesto",
+      "precio": 201900,
+      "precioLista": null,
+      "puntos": 33,
+      "pagina": 70
+    },
+    {
+      "codigo": "111175",
+      "nombre": "Eau de toilette masculino Kaiak Océano* 100 ml",
+      "precio": 153900,
+      "precioLista": null,
+      "puntos": 25,
+      "pagina": 71
+    },
+    {
+      "codigo": "69198",
+      "nombre": "Eau de toilette masculino Sr. N Clásico 100 ml",
+      "precio": 138900,
+      "precioLista": null,
+      "puntos": 22,
+      "pagina": 72
+    },
+    {
+      "codigo": "20834",
+      "nombre": "Eau de toilette unisex Humor liberta 75 ml",
+      "precio": 149900,
+      "precioLista": null,
+      "puntos": 24,
+      "pagina": 73
+    },
+    {
+      "codigo": "178907",
+      "nombre": "Eau de parfum femenino Aura Alba 75 ml",
+      "precio": 299900,
+      "precioLista": null,
+      "puntos": 48,
+      "pagina": 75
+    },
+    {
+      "codigo": "184829",
+      "nombre": "Jabones de tocador en barra cremoso perfumado Aura Alba 2 unidades x 90 g cada uno",
+      "precio": 20000,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 75
+    },
+    {
+      "codigo": "204688",
+      "nombre": "Producto vegano.",
+      "precio": 276900,
+      "precioLista": null,
+      "puntos": 45,
+      "pagina": 77
+    },
+    {
+      "codigo": "108217",
+      "nombre": "Eau de parfum femenino Essencial Mirra 50 ml",
+      "precio": 218900,
+      "precioLista": null,
+      "puntos": 35,
+      "pagina": 79
+    },
+    {
+      "codigo": "93623",
+      "nombre": "Eau de parfum femenino Oud 50 ml",
+      "precio": 218900,
+      "precioLista": null,
+      "puntos": 35,
+      "pagina": 79
+    },
+    {
+      "codigo": "121948",
+      "nombre": "Repuesto",
+      "precio": 174900,
+      "precioLista": null,
+      "puntos": 28,
+      "pagina": 79
+    },
+    {
+      "codigo": "118459",
+      "nombre": "Eau de parfum femenino Único 90 ml",
+      "precio": 299900,
+      "precioLista": null,
+      "puntos": 48,
+      "pagina": 79
+    },
+    {
+      "codigo": "93622",
+      "nombre": "Eau de parfum femenino Exclusivo 50 ml",
+      "precio": 218900,
+      "precioLista": null,
+      "puntos": 35,
+      "pagina": 79
+    },
+    {
+      "codigo": "93624",
+      "nombre": "Eau de parfum femenino Exclusivo floral 50 ml",
+      "precio": 218900,
+      "precioLista": null,
+      "puntos": 35,
+      "pagina": 79
+    },
+    {
+      "codigo": "110253",
+      "nombre": "Eau de parfum femenino Exclusivo 50 ml",
+      "precio": 174900,
+      "precioLista": null,
+      "puntos": 28,
+      "pagina": 79
+    },
+    {
+      "codigo": "121946",
+      "nombre": "Eau de parfum femenino Exclusivo floral 50 ml",
+      "precio": 174900,
+      "precioLista": null,
+      "puntos": 28,
+      "pagina": 79
+    },
+    {
+      "codigo": "64746",
+      "nombre": "Eau de toilette femenino Humor Primeiro* 75 ml",
+      "precio": 149900,
+      "precioLista": null,
+      "puntos": 24,
+      "pagina": 83
+    },
+    {
+      "codigo": "64749",
+      "nombre": "Eau de toilette femenino Humor Próprio 75 ml",
+      "precio": 149900,
+      "precioLista": null,
+      "puntos": 24,
+      "pagina": 83
+    },
+    {
+      "codigo": "111176",
+      "nombre": "Eau de toilette femenino Kaiak Clásico 100 ml",
+      "precio": 153900,
+      "precioLista": null,
+      "puntos": 25,
+      "pagina": 84
+    },
+    {
+      "codigo": "95808",
+      "nombre": "Colonia Violeta 150 ml",
+      "precio": 74900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 86
+    },
+    {
+      "codigo": "95810",
+      "nombre": "Colonia Jabuticaba 150 ml",
+      "precio": 74900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 86
+    },
+    {
+      "codigo": "55104",
+      "nombre": "Pincel pro Base líquida 1 unidad",
+      "precio": 83200,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 92
+    },
+    {
+      "codigo": "105718",
+      "nombre": "Esponja pro maquillaje 1 unidad",
+      "precio": 53500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 92
+    },
+    {
+      "codigo": "118797",
+      "nombre": "1. Primer facial FPS 40 30 ml",
+      "precio": 84900,
+      "precioLista": null,
+      "puntos": 14,
+      "pagina": 94
+    },
+    {
+      "codigo": "153720",
+      "nombre": "Producto vegano.",
+      "precio": 86900,
+      "precioLista": null,
+      "puntos": 14,
+      "pagina": 94
+    },
+    {
+      "codigo": "59313",
+      "nombre": "2. Primer blur 30 ml",
+      "precio": 84900,
+      "precioLista": null,
+      "puntos": 14,
+      "pagina": 94
+    },
+    {
+      "codigo": "21454",
+      "nombre": "Producto vegano.",
+      "precio": 108500,
+      "precioLista": null,
+      "puntos": 18,
+      "pagina": 95
+    },
+    {
+      "codigo": "24865",
+      "nombre": "Producto vegano.",
+      "precio": 77000,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 95
+    },
+    {
+      "codigo": "55100",
+      "nombre": "Pincel pro rubor 1 unidad",
+      "precio": 93500,
+      "precioLista": null,
+      "puntos": 15,
+      "pagina": 95
+    },
+    {
+      "codigo": "55105",
+      "nombre": "Pincel pro Polvo compacto 1 unidad",
+      "precio": 105800,
+      "precioLista": null,
+      "puntos": 17,
+      "pagina": 95
+    },
+    {
+      "codigo": "206730",
+      "nombre": "Producto vegano.",
+      "precio": 61500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 96
+    },
+    {
+      "codigo": "205934",
+      "nombre": "Producto vegano.",
+      "precio": 117500,
+      "precioLista": null,
+      "puntos": 19,
+      "pagina": 96
+    },
+    {
+      "codigo": "140742",
+      "nombre": "Producto vegano.",
+      "precio": 61500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 97
+    },
+    {
+      "codigo": "34262",
+      "nombre": "Delineador en fibra para ojos negro 1 ml",
+      "precio": 56700,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 97
+    },
+    {
+      "codigo": "95757",
+      "nombre": "Producto vegano.",
+      "precio": 55000,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 98
+    },
+    {
+      "codigo": "124319",
+      "nombre": "Paleta multifuncional personalizada con los colores y acabados que quieras.",
+      "precio": 57000,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 99
+    },
+    {
+      "codigo": "105716",
+      "nombre": "Pincel pro ojos precisión 1 unidad",
+      "precio": 54000,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 99
+    },
+    {
+      "codigo": "105715",
+      "nombre": "Pincel pro ojos difuminador 1 unidad",
+      "precio": 54000,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 99
+    },
+    {
+      "codigo": "72978",
+      "nombre": "Sacapuntas 1 unidad",
+      "precio": 23200,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 99
+    },
+    {
+      "codigo": "192103",
+      "nombre": "Producto vegano.",
+      "precio": 62500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 100
+    },
+    {
+      "codigo": "106122",
+      "nombre": "Producto vegano.",
+      "precio": 61500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 100
+    },
+    {
+      "codigo": "106121",
+      "nombre": "Producto vegano.",
+      "precio": 61500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 100
+    },
+    {
+      "codigo": "174921",
+      "nombre": "Producto vegano.",
+      "precio": 61500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 100
+    },
+    {
+      "codigo": "164824",
+      "nombre": "Labios más voluminosos con acción refrescante.",
+      "precio": 56900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 101
+    },
+    {
+      "codigo": "15825",
+      "nombre": "Base Primer 3D Gel 8 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 104
+    },
+    {
+      "codigo": "15826",
+      "nombre": "Top Coat 3D Gel 8 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 104
+    },
+    {
+      "codigo": "67666",
+      "nombre": "Pestañina mega fantástica Negra 7 ml",
+      "precio": 33900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 106
+    },
+    {
+      "codigo": "65830",
+      "nombre": "Delineador para ojos negro 1 ml",
+      "precio": 31300,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 106
+    },
+    {
+      "codigo": "10155",
+      "nombre": "Delineador líquido negro 3,5 ml",
+      "precio": 38300,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 106
+    },
+    {
+      "codigo": "67647",
+      "nombre": "Pestañina para ojos y cejas Incolora 7 ml",
+      "precio": 24600,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 107
+    },
+    {
+      "codigo": "10159",
+      "nombre": "Lápiz para cejas Castaño 1,14 g",
+      "precio": 34900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 107
+    },
+    {
+      "codigo": "89381",
+      "nombre": "Lápiz dúo para ojos y cejas 1 g",
+      "precio": 24700,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 107
+    },
+    {
+      "codigo": "67661",
+      "nombre": "Mini lápiz para ojos ultra negro 800 mg",
+      "precio": 20000,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 108
+    },
+    {
+      "codigo": "167182",
+      "nombre": "Gloss brillo labial Multicolor 7 g",
+      "precio": 25200,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 109
+    },
+    {
+      "codigo": "174175",
+      "nombre": "Paleta de sombras 4,2 g",
+      "precio": 47900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 109
+    },
+    {
+      "codigo": "169245",
+      "nombre": "Sérum intensivo antioxidante* 15 ml",
+      "precio": 116000,
+      "precioLista": null,
+      "puntos": 27,
+      "pagina": 119
+    },
+    {
+      "codigo": "169223",
+      "nombre": "Sérum intensivo antioxidante* 15 ml",
+      "precio": 116000,
+      "precioLista": null,
+      "puntos": 19,
+      "pagina": 119
+    },
+    {
+      "codigo": "168744",
+      "nombre": "Limpieza purificante antioleosidad 130 g",
+      "precio": 49900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 120
+    },
+    {
+      "codigo": "169229",
+      "nombre": "Sérum intensivo reductor de oleosidad 30 ml",
+      "precio": 163600,
+      "precioLista": null,
+      "puntos": 26,
+      "pagina": 120
+    },
+    {
+      "codigo": "168743",
+      "nombre": "DÍA Protector antioleosidad reductor de poros FPS 30 Incoloro 50 ml",
+      "precio": 93200,
+      "precioLista": null,
+      "puntos": 15,
+      "pagina": 120
+    },
+    {
+      "codigo": "169244",
+      "nombre": "Sérum intensivo reductor de oleosidad 30 ml",
+      "precio": 109500,
+      "precioLista": null,
+      "puntos": 18,
+      "pagina": 120
+    },
+    {
+      "codigo": "190899",
+      "nombre": "1. Polvo de limpieza enzimático 50 g",
+      "precio": 70900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 120
+    },
+    {
+      "codigo": "187709",
+      "nombre": "2. Doble esencia de tratamiento Multiaclaradora y luminosidad 100 ml",
+      "precio": 132500,
+      "precioLista": null,
+      "puntos": 21,
+      "pagina": 120
+    },
+    {
+      "codigo": "169222",
+      "nombre": "3. Sérum intensivo multiaclarador de manchas DÍA 30 ml / NOCHE",
+      "precio": 173100,
+      "precioLista": null,
+      "puntos": 28,
+      "pagina": 120
+    },
+    {
+      "codigo": "169235",
+      "nombre": "Repuesto",
+      "precio": 117200,
+      "precioLista": null,
+      "puntos": 19,
+      "pagina": 120
+    },
+    {
+      "codigo": "169247",
+      "nombre": "intensivo y firmeza* 30 ml",
+      "precio": 186600,
+      "precioLista": null,
+      "puntos": 30,
+      "pagina": 121
+    },
+    {
+      "codigo": "168819",
+      "nombre": "intensivo y firmeza* 30 ml",
+      "precio": 82800,
+      "precioLista": 127400,
+      "puntos": 21,
+      "pagina": 121
+    },
+    {
+      "codigo": "179454",
+      "nombre": "Súper sérum reductor de arrugas mini* 10 ml",
+      "precio": 135000,
+      "precioLista": null,
+      "puntos": 22,
+      "pagina": 122
+    },
+    {
+      "codigo": "135043",
+      "nombre": "Esencia de tratamiento 100 ml",
+      "precio": 132500,
+      "precioLista": null,
+      "puntos": 21,
+      "pagina": 122
+    },
+    {
+      "codigo": "169264",
+      "nombre": "Súper sérum reductor de arrugas* 30 ml",
+      "precio": 234000,
+      "precioLista": null,
+      "puntos": 38,
+      "pagina": 122
+    },
+    {
+      "codigo": "134586",
+      "nombre": "Mousse de limpieza intensiva 85 g",
+      "precio": 79500,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 122
+    },
+    {
+      "codigo": "169258",
+      "nombre": "Súper sérum para ojos reductor de arrugas y flacidez 15 ml",
+      "precio": 143700,
+      "precioLista": null,
+      "puntos": 23,
+      "pagina": 122
+    },
+    {
+      "codigo": "134189",
+      "nombre": "Súper sérum reductor de arrugas* 30 ml",
+      "precio": 139900,
+      "precioLista": null,
+      "puntos": 23,
+      "pagina": 122
+    },
+    {
+      "codigo": "135037",
+      "nombre": "Esencia de tratamiento 100 ml",
+      "precio": 105000,
+      "precioLista": null,
+      "puntos": 17,
+      "pagina": 122
+    },
+    {
+      "codigo": "179452",
+      "nombre": "Sérum rellenador hidratante mini* 10 ml",
+      "precio": 112500,
+      "precioLista": null,
+      "puntos": 18,
+      "pagina": 123
+    },
+    {
+      "codigo": "169233",
+      "nombre": "Sérum rellenador hidratante* 30 ml",
+      "precio": 179000,
+      "precioLista": null,
+      "puntos": 29,
+      "pagina": 123
+    },
+    {
+      "codigo": "91849",
+      "nombre": "Hidratante acqua renovador 40 g",
+      "precio": 127400,
+      "precioLista": null,
+      "puntos": 21,
+      "pagina": 123
+    },
+    {
+      "codigo": "168818",
+      "nombre": "Sérum rellenador hidratante* 30 ml",
+      "precio": 122900,
+      "precioLista": null,
+      "puntos": 20,
+      "pagina": 123
+    },
+    {
+      "codigo": "91819",
+      "nombre": "Hidratante acqua renovador 40 g",
+      "precio": 90300,
+      "precioLista": null,
+      "puntos": 15,
+      "pagina": 123
+    },
+    {
+      "codigo": "137976",
+      "nombre": "Desmaquillante intensivo bifásico 150 ml",
+      "precio": 73300,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 126
+    },
+    {
+      "codigo": "135058",
+      "nombre": "Desmaquillante intensivo bifásico 150 ml",
+      "precio": 58700,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 126
+    },
+    {
+      "codigo": "133503",
+      "nombre": "Agua micelar desmaquillante suave 150 ml",
+      "precio": 73300,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 126
+    },
+    {
+      "codigo": "134588",
+      "nombre": "Agua micelar desmaquillante suave 150 ml",
+      "precio": 41000,
+      "precioLista": 58700,
+      "puntos": 9,
+      "pagina": 126
+    },
+    {
+      "codigo": "171365",
+      "nombre": "Aceite de limpieza desmaquillante 125 ml",
+      "precio": 74900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 126
+    },
+    {
+      "codigo": "135057",
+      "nombre": "Triple exfoliante peeling antiseñales 50 g",
+      "precio": 57600,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 126
+    },
+    {
+      "codigo": "135060",
+      "nombre": "Espuma de limpieza suave 150 ml",
+      "precio": 54500,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 127
+    },
+    {
+      "codigo": "137981",
+      "nombre": "Espuma de limpieza suave 150 ml",
+      "precio": 54500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 127
+    },
+    {
+      "codigo": "117124",
+      "nombre": "Desmaquillante para rostro* 120 ml",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 128
+    },
+    {
+      "codigo": "118910",
+      "nombre": "Gel booster hidratante facial 35 g",
+      "precio": 52200,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 128
+    },
+    {
+      "codigo": "189563",
+      "nombre": "Hidratante intensivo 50 ml",
+      "precio": 41700,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 128
+    },
+    {
+      "codigo": "128752",
+      "nombre": "Bálsamo desmaquillante para rostro** 45 g",
+      "precio": 57000,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 128
+    },
+    {
+      "codigo": "166354",
+      "nombre": "Sérum uniformizador 35 g",
+      "precio": 36400,
+      "precioLista": 52100,
+      "puntos": 8,
+      "pagina": 129
+    },
+    {
+      "codigo": "166351",
+      "nombre": "Secante reduce granitos* 15 g",
+      "precio": 22000,
+      "precioLista": 31500,
+      "puntos": 5,
+      "pagina": 129
+    },
+    {
+      "codigo": "166353",
+      "nombre": "Hidratante matificante 50 ml",
+      "precio": 41700,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 129
+    },
+    {
+      "codigo": "166352",
+      "nombre": "Gel de limpieza control de grasa 120 g",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 129
+    },
+    {
+      "codigo": "100090",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 133
+    },
+    {
+      "codigo": "100383",
+      "nombre": "Repuesto Crema nutritiva para el cuerpo 400 ml",
+      "precio": 57500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 133
+    },
+    {
+      "codigo": "111325",
+      "nombre": "Aceite bifásico corporal 120 ml",
+      "precio": 69500,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 134
+    },
+    {
+      "codigo": "100535",
+      "nombre": "Jabones en barra puro vegetal 5 unidades x 90 g cada uno",
+      "precio": 46800,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 134
+    },
+    {
+      "codigo": "100526",
+      "nombre": "Jabón líquido corporal 300 ml",
+      "precio": 51500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 134
+    },
+    {
+      "codigo": "100530",
+      "nombre": "Desodorante antitranspirante en crema 80 g",
+      "precio": 28500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 134
+    },
+    {
+      "codigo": "189407",
+      "nombre": "Desodorante antitranspirante Roll-on 70 ml",
+      "precio": 28500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 134
+    },
+    {
+      "codigo": "174918",
+      "nombre": "Bálsamo labial 2,7 g",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 135
+    },
+    {
+      "codigo": "100423",
+      "nombre": "Crema nutritiva para el cuerpo 200 ml",
+      "precio": 32600,
+      "precioLista": 43500,
+      "puntos": 7,
+      "pagina": 135
+    },
+    {
+      "codigo": "148016",
+      "nombre": "Crema nutritiva para manos 50 ml",
+      "precio": 21300,
+      "precioLista": 38900,
+      "puntos": 6,
+      "pagina": 135
+    },
+    {
+      "codigo": "241273",
+      "nombre": "LANZAMIENTO",
+      "precio": 39900,
+      "precioLista": null,
+      "puntos": null,
+      "pagina": 137
+    },
+    {
+      "codigo": "74897",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 138
+    },
+    {
+      "codigo": "74900",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 138
+    },
+    {
+      "codigo": "23083",
+      "nombre": "Crema nutritiva para el cuerpo 200 ml",
+      "precio": 43500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 138
+    },
+    {
+      "codigo": "219299",
+      "nombre": "Exfoliante para el cuerpo 190 g",
+      "precio": 67500,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 139
+    },
+    {
+      "codigo": "205935",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 139
+    },
+    {
+      "codigo": "206230",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 57500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 139
+    },
+    {
+      "codigo": "205941",
+      "nombre": "Crema merengue para el cuerpo 250 g",
+      "precio": 81900,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 139
+    },
+    {
+      "codigo": "206231",
+      "nombre": "Aceite bifásico corporal 120 ml",
+      "precio": 69500,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 139
+    },
+    {
+      "codigo": "205939",
+      "nombre": "Jabones en barra puro vegetal 5 unidades x 90 g cada uno",
+      "precio": 46800,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 139
+    },
+    {
+      "codigo": "181015",
+      "nombre": "Jabones en barra puro vegetal 5 unidades x 90 g cada uno",
+      "precio": 46800,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 140
+    },
+    {
+      "codigo": "181014",
+      "nombre": "Bálsamo labial 10 ml",
+      "precio": 35500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 140
+    },
+    {
+      "codigo": "190395",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 140
+    },
+    {
+      "codigo": "75363",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 140
+    },
+    {
+      "codigo": "71596",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 57500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 140
+    },
+    {
+      "codigo": "95937",
+      "nombre": "Crema nutritiva para manos 50 ml",
+      "precio": 38900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 141
+    },
+    {
+      "codigo": "99183",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 141
+    },
+    {
+      "codigo": "100605",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 57500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 141
+    },
+    {
+      "codigo": "23218",
+      "nombre": "Crema nutritiva para el cuerpo 200 ml",
+      "precio": 43500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 141
+    },
+    {
+      "codigo": "174612",
+      "nombre": "Manteca corporal perfumada 200 ml",
+      "precio": 68900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 141
+    },
+    {
+      "codigo": "95840",
+      "nombre": "Jabones en barra puro vegetal 5 unidades x 90g cada uno",
+      "precio": 46800,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 141
+    },
+    {
+      "codigo": "21307",
+      "nombre": "Aceite bifásico corporal 120 ml",
+      "precio": 69500,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 141
+    },
+    {
+      "codigo": "95843",
+      "nombre": "Jabón líquido corporal 300 ml",
+      "precio": 51500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 141
+    },
+    {
+      "codigo": "174922",
+      "nombre": "Bálsamo labial 2,7 g",
+      "precio": 40500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 141
+    },
+    {
+      "codigo": "190453",
+      "nombre": "Exfoliante nutritivo 190 g",
+      "precio": 56900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 142
+    },
+    {
+      "codigo": "190393",
+      "nombre": "Manteca uniformadora de tono 200 g",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 142
+    },
+    {
+      "codigo": "206232",
+      "nombre": "Nutre y ayuda en la recuperación de la uniformidad de la piel.",
+      "precio": 57500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 142
+    },
+    {
+      "codigo": "86022",
+      "nombre": "Jabón líquido corporal 300 ml",
+      "precio": 51500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 142
+    },
+    {
+      "codigo": "74848",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 142
+    },
+    {
+      "codigo": "74852",
+      "nombre": "Jabones en barra puro vegetal 5 unidades x 90 g cada uno",
+      "precio": 46800,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 142
+    },
+    {
+      "codigo": "74849",
+      "nombre": "Crema nutritiva para el cuerpo 400 ml",
+      "precio": 57500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 142
+    },
+    {
+      "codigo": "132965",
+      "nombre": "Spray de ambientes 200 ml",
+      "precio": 54900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 143
+    },
+    {
+      "codigo": "121969",
+      "nombre": "Jabones en barra puro vegetal 5 unidades x 90 g cada uno",
+      "precio": 46800,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 143
+    },
+    {
+      "codigo": "121962",
+      "nombre": "Crema hidratante nocturna para el cuerpo 400 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 143
+    },
+    {
+      "codigo": "121961",
+      "nombre": "Crema hidratante nocturna para el cuerpo 400 ml",
+      "precio": 57500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 143
+    },
+    {
+      "codigo": "121967",
+      "nombre": "Crema hidratante nocturna para el cuerpo 200 ml",
+      "precio": 43500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 143
+    },
+    {
+      "codigo": "121958",
+      "nombre": "Crema nube relajante para el cuerpo 200 ml",
+      "precio": 68900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 143
+    },
+    {
+      "codigo": "83641",
+      "nombre": "Jabón líquido íntimo suave confort 200 ml",
+      "precio": 44500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 143
+    },
+    {
+      "codigo": "174493",
+      "nombre": "Jabón líquido íntimo Cereza y avellana 200 ml",
+      "precio": 44500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 143
+    },
+    {
+      "codigo": "220916",
+      "nombre": "Eau de toilette femenino Maracuyá naturaleza de los sueños 150 ml",
+      "precio": 110500,
+      "precioLista": null,
+      "puntos": 18,
+      "pagina": 147
+    },
+    {
+      "codigo": "220145",
+      "nombre": "Jabones en barra cremosos Maracuyá naturaleza de los sueños 4 unidades x 100 g cada uno",
+      "precio": 55500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 147
+    },
+    {
+      "codigo": "231779",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 74100,
+      "precioLista": 98900,
+      "puntos": 16,
+      "pagina": 148
+    },
+    {
+      "codigo": "231781",
+      "nombre": "Pulpa hidratante para manos 75 g",
+      "precio": 38100,
+      "precioLista": 50900,
+      "puntos": 8,
+      "pagina": 148
+    },
+    {
+      "codigo": "203478",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 98900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 150
+    },
+    {
+      "codigo": "206217",
+      "nombre": "Jabones de tocador cremoso 4 unidades x 100 g cada uno",
+      "precio": 55500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 150
+    },
+    {
+      "codigo": "203476",
+      "nombre": "Pulpa hidratante para manos 75 g",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 150
+    },
+    {
+      "codigo": "204785",
+      "nombre": "Crema exfoliante para los glúteos 190 g",
+      "precio": 98900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 150
+    },
+    {
+      "codigo": "199393",
+      "nombre": "Jabones de tocador 4 unidades x 100 g cada uno",
+      "precio": 64500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 150
+    },
+    {
+      "codigo": "203401",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 98900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 151
+    },
+    {
+      "codigo": "203381",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 75500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 151
+    },
+    {
+      "codigo": "70408",
+      "nombre": "Jabón líquido cremoso para el cuerpo* 195 ml",
+      "precio": 59900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 151
+    },
+    {
+      "codigo": "70402",
+      "nombre": "Jabón líquido para manos* 250 ml",
+      "precio": 66900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 151
+    },
+    {
+      "codigo": "70396",
+      "nombre": "Jabón líquido cremoso para el cuerpo* 195 ml",
+      "precio": 48500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 151
+    },
+    {
+      "codigo": "70389",
+      "nombre": "Jabón líquido para manos* 250 ml",
+      "precio": 53500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 151
+    },
+    {
+      "codigo": "69817",
+      "nombre": "Pulpa hidratante para pies* 75 g",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 152
+    },
+    {
+      "codigo": "70981",
+      "nombre": "Pulpa exfoliante manos y pies* 60 g",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 152
+    },
+    {
+      "codigo": "70983",
+      "nombre": "Pulpa hidratante para manos* 75 g",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 152
+    },
+    {
+      "codigo": "95133",
+      "nombre": "Pulpa hidratante para manos* 40 g",
+      "precio": 32100,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 152
+    },
+    {
+      "codigo": "145471",
+      "nombre": "Formato innovador y práctico para llevar contigo.",
+      "precio": 41500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 152
+    },
+    {
+      "codigo": "203390",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 98900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 153
+    },
+    {
+      "codigo": "163706",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 98900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 153
+    },
+    {
+      "codigo": "203397",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 75500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 153
+    },
+    {
+      "codigo": "162093",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 75500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 153
+    },
+    {
+      "codigo": "162090",
+      "nombre": "Exfoliante térmico relajante 100 g",
+      "precio": 69900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 153
+    },
+    {
+      "codigo": "19904",
+      "nombre": "Pulpa hidratante para manos* 75 g",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 153
+    },
+    {
+      "codigo": "123735",
+      "nombre": "Bálsamo concentrado corporal* 200 g",
+      "precio": 98900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 153
+    },
+    {
+      "codigo": "73214",
+      "nombre": "Fluido para masajes 100 g",
+      "precio": 56900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 153
+    },
+    {
+      "codigo": "80967",
+      "nombre": "Pulpa hidratante para manos* 75 g",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 154
+    },
+    {
+      "codigo": "203383",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 98900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 154
+    },
+    {
+      "codigo": "203404",
+      "nombre": "Pulpa hidratante corporal 200 ml",
+      "precio": 59900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 154
+    },
+    {
+      "codigo": "203386",
+      "nombre": "Pulpa hidratante corporal 400 ml",
+      "precio": 75500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 154
+    },
+    {
+      "codigo": "70410",
+      "nombre": "Jabón líquido para el cuerpo* 195 ml",
+      "precio": 59900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 154
+    },
+    {
+      "codigo": "95035",
+      "nombre": "Fluido de masajes* 100 g",
+      "precio": 56900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 154
+    },
+    {
+      "codigo": "97428",
+      "nombre": "Aceite trifásico corporal* 200 ml",
+      "precio": 100800,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 154
+    },
+    {
+      "codigo": "70405",
+      "nombre": "Jabón líquido exfoliante* 185 ml",
+      "precio": 64500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 154
+    },
+    {
+      "codigo": "70401",
+      "nombre": "Jabón líquido para manos* 250 ml",
+      "precio": 66900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 154
+    },
+    {
+      "codigo": "112783",
+      "nombre": "Aceite trifásico corporal* 200 ml",
+      "precio": 81300,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 154
+    },
+    {
+      "codigo": "70392",
+      "nombre": "Jabón líquido exfoliante* 185 ml",
+      "precio": 51500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 154
+    },
+    {
+      "codigo": "70388",
+      "nombre": "Jabón líquido para manos* 250 ml",
+      "precio": 53500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 154
+    },
+    {
+      "codigo": "70403",
+      "nombre": "Jabón líquido para manos* 250 ml",
+      "precio": 66900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 155
+    },
+    {
+      "codigo": "70407",
+      "nombre": "Jabón líquido para el ml a $ 267,60 cuerpo* 195 ml",
+      "precio": 59900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 155
+    },
+    {
+      "codigo": "70390",
+      "nombre": "Jabón líquido para manos* 250 ml",
+      "precio": 53500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 155
+    },
+    {
+      "codigo": "70394",
+      "nombre": "Jabón líquido para el ml a $ 267,60 cuerpo* 195 ml",
+      "precio": 48500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 155
+    },
+    {
+      "codigo": "95034",
+      "nombre": "Pulpa hidratante para manos* 75 g",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 155
+    },
+    {
+      "codigo": "134574",
+      "nombre": "Jabones en barra puro vegetal* Cremosos y exfoliantes. Castaña, Andiroba, Acaí, Maracuyá 4 unidades x 100 g cada uno",
+      "precio": 55500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 156
+    },
+    {
+      "codigo": "26441",
+      "nombre": "Jabón cremoso para manos 250 ml",
+      "precio": 56900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 157
+    },
+    {
+      "codigo": "28175",
+      "nombre": "Jabón cremoso para manos 250 ml",
+      "precio": 45900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 157
+    },
+    {
+      "codigo": "189412",
+      "nombre": "Desodorante antitranspirante Roll-on Secado rápido* 70 ml",
+      "precio": 28500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 157
+    },
+    {
+      "codigo": "189415",
+      "nombre": "Tecnología invisible no mancha ropa clara ni oscura.",
+      "precio": 3478,
+      "precioLista": null,
+      "puntos": null,
+      "pagina": 160
+    },
+    {
+      "codigo": "176909",
+      "nombre": "Protector solar facial piel mixta a grasa FPS 50 50 ml",
+      "precio": 77000,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 161
+    },
+    {
+      "codigo": "176913",
+      "nombre": "Protector solar facial piel normal a seca FPS 50 50 ml",
+      "precio": 77000,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 161
+    },
+    {
+      "codigo": "178858",
+      "nombre": "Protector solar facial stick todo tipo de piel FPS 50 15 g",
+      "precio": 97900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 161
+    },
+    {
+      "codigo": "186435",
+      "nombre": "Protector solar facial piel mixta a grasa FPS 70 50 ml",
+      "precio": 81500,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 161
+    },
+    {
+      "codigo": "176905",
+      "nombre": "Protector solar facial piel normal a seca FPS 70 50 ml",
+      "precio": 81500,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 161
+    },
+    {
+      "codigo": "176908",
+      "nombre": "Protector solar corporal FPS 70 200 ml",
+      "precio": 114500,
+      "precioLista": null,
+      "puntos": 19,
+      "pagina": 162
+    },
+    {
+      "codigo": "176914",
+      "nombre": "Protector solar corporal FPS 50 200 ml",
+      "precio": 106500,
+      "precioLista": null,
+      "puntos": 18,
+      "pagina": 162
+    },
+    {
+      "codigo": "176907",
+      "nombre": "Protector solar corporal y facial para niños FPS 50 200 ml",
+      "precio": 131500,
+      "precioLista": null,
+      "puntos": 21,
+      "pagina": 162
+    },
+    {
+      "codigo": "178865",
+      "nombre": "Gel hidratante post solar alivio inmediato 120 g",
+      "precio": 56500,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 162
+    },
+    {
+      "codigo": "177404",
+      "nombre": "Protector solar bifásico FPS 30 200 ml",
+      "precio": 131500,
+      "precioLista": null,
+      "puntos": 21,
+      "pagina": 162
+    },
+    {
+      "codigo": "155601",
+      "nombre": "Shampoo reparador 300 ml",
+      "precio": 24400,
+      "precioLista": 30500,
+      "puntos": 5,
+      "pagina": 163
+    },
+    {
+      "codigo": "154876",
+      "nombre": "Acondicionador reparador 280 ml",
+      "precio": 24400,
+      "precioLista": 30500,
+      "puntos": 5,
+      "pagina": 163
+    },
+    {
+      "codigo": "156233",
+      "nombre": "Crema para peinar reparadora 180 ml",
+      "precio": 30000,
+      "precioLista": 37500,
+      "puntos": 6,
+      "pagina": 163
+    },
+    {
+      "codigo": "156234",
+      "nombre": "ml a $ 166,70 Cuidado desde la raíz hasta las puntas",
+      "precio": 29900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 163
+    },
+    {
+      "codigo": "154869",
+      "nombre": "1. Shampoo nutritivo 300 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 165
+    },
+    {
+      "codigo": "154870",
+      "nombre": "2. Acondicionador nutritivo 280 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 165
+    },
+    {
+      "codigo": "156237",
+      "nombre": "3. Crema para peinar nutritiva 180 ml",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 165
+    },
+    {
+      "codigo": "154867",
+      "nombre": "1. Shampoo nutritivo 300 ml",
+      "precio": 24500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 165
+    },
+    {
+      "codigo": "156236",
+      "nombre": "3. Crema para peinar nutritiva 180 ml",
+      "precio": 29900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 165
+    },
+    {
+      "codigo": "173588",
+      "nombre": "1. Shampoo rizos y afros 300 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 167
+    },
+    {
+      "codigo": "173581",
+      "nombre": "3. Crema para peinar cabellos rizados 280 ml",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 167
+    },
+    {
+      "codigo": "173585",
+      "nombre": "1. Shampoo rizos y afros 300 ml",
+      "precio": 24500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 167
+    },
+    {
+      "codigo": "173586",
+      "nombre": "3. Crema para peinar cabellos rizados 280 ml",
+      "precio": 29900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 167
+    },
+    {
+      "codigo": "173587",
+      "nombre": "ml a $ 106,80 2. Acondicionador para rizos y afros 280 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 167
+    },
+    {
+      "codigo": "173589",
+      "nombre": "ml a $ 106,80 2. Acondicionador para rizos y afros 280 ml",
+      "precio": 24500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 167
+    },
+    {
+      "codigo": "173583",
+      "nombre": "4. Spray acondicionador reactivador de rizos y afros 200 ml",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 167
+    },
+    {
+      "codigo": "154866",
+      "nombre": "Shampoo hidratante 300 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 167
+    },
+    {
+      "codigo": "154873",
+      "nombre": "Acondicionador hidratante 280 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 167
+    },
+    {
+      "codigo": "154868",
+      "nombre": "Shampoo hidratante 300 ml",
+      "precio": 24500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 167
+    },
+    {
+      "codigo": "154860",
+      "nombre": "Acondicionador hidratante 280 ml",
+      "precio": 24500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 167
+    },
+    {
+      "codigo": "156235",
+      "nombre": "Spray hidratante 200 ml",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 167
+    },
+    {
+      "codigo": "196324",
+      "nombre": "Shampoo detox 300 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 168
+    },
+    {
+      "codigo": "196328",
+      "nombre": "Acondicionador detox 280 ml",
+      "precio": 30500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 168
+    },
+    {
+      "codigo": "196327",
+      "nombre": "Shampoo detox 300 ml",
+      "precio": 24500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 168
+    },
+    {
+      "codigo": "196323",
+      "nombre": "Acondicionador detox 280 ml",
+      "precio": 24500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 168
+    },
+    {
+      "codigo": "174032",
+      "nombre": "Esencia para cabello Flor de ciruela 60 ml",
+      "precio": 45500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 168
+    },
+    {
+      "codigo": "113150",
+      "nombre": "Máscara pre shampoo* 100 g",
+      "precio": 63900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 169
+    },
+    {
+      "codigo": "113244",
+      "nombre": "Acondicionador** 300 ml",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 169
+    },
+    {
+      "codigo": "113243",
+      "nombre": "Shampoo** 300 ml",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 169
+    },
+    {
+      "codigo": "112775",
+      "nombre": "Acondicionador** 300 ml",
+      "precio": 41500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 169
+    },
+    {
+      "codigo": "112773",
+      "nombre": "Shampoo** 300 ml",
+      "precio": 41500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 169
+    },
+    {
+      "codigo": "112892",
+      "nombre": "Sérum nocturno 30 ml",
+      "precio": 64500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 169
+    },
+    {
+      "codigo": "112771",
+      "nombre": "Máscara de reconstrucción* 200 g",
+      "precio": 76500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 169
+    },
+    {
+      "codigo": "112770",
+      "nombre": "Crema para peinar* 150 ml",
+      "precio": 63500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 169
+    },
+    {
+      "codigo": "113409",
+      "nombre": "Shampoo* 300 ml",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 170
+    },
+    {
+      "codigo": "112779",
+      "nombre": "Shampoo* 300 ml",
+      "precio": 41500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 170
+    },
+    {
+      "codigo": "113245",
+      "nombre": "Acondicionador* 300 ml",
+      "precio": 50900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 170
+    },
+    {
+      "codigo": "112781",
+      "nombre": "Acondicionador* 300 ml",
+      "precio": 41500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 170
+    },
+    {
+      "codigo": "112777",
+      "nombre": "Máscara fortalecedora* 200 g",
+      "precio": 76500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 170
+    },
+    {
+      "codigo": "122499",
+      "nombre": "Aceite finalizador anticaída* 60 ml",
+      "precio": 81900,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 170
+    },
+    {
+      "codigo": "112776",
+      "nombre": "Tónico de crecimiento nocturno* 30 ml",
+      "precio": 74900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 170
+    },
+    {
+      "codigo": "102404",
+      "nombre": "Crema para peinar Cabello rizado y crespo 250 ml",
+      "precio": 32700,
+      "precioLista": 40900,
+      "puntos": 7,
+      "pagina": 171
+    },
+    {
+      "codigo": "106496",
+      "nombre": "Loción hidratante 125 ml",
+      "precio": 41500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 172
+    },
+    {
+      "codigo": "112788",
+      "nombre": "Jabones en barra Cuadraditos 5 unidades x 90 g cada uno",
+      "precio": 59500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 172
+    },
+    {
+      "codigo": "92808",
+      "nombre": "1. Emulsión para prevenir estrías 200 ml",
+      "precio": 85900,
+      "precioLista": null,
+      "puntos": 14,
+      "pagina": 173
+    },
+    {
+      "codigo": "92807",
+      "nombre": "2. Óleo vegetal para baño 200 ml",
+      "precio": 66500,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 173
+    },
+    {
+      "codigo": "92786",
+      "nombre": "Agua de colonia 100 ml",
+      "precio": 71500,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 173
+    },
+    {
+      "codigo": "92815",
+      "nombre": "Óleo para masajes en bebés 100 ml",
+      "precio": 51500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 173
+    },
+    {
+      "codigo": "92798",
+      "nombre": "Toallitas de limpieza 50 Unidades",
+      "precio": 36500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 174
+    },
+    {
+      "codigo": "92804",
+      "nombre": "Loción hidratante 200 ml",
+      "precio": 47500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 174
+    },
+    {
+      "codigo": "97955",
+      "nombre": "Crema protectora para bebé antipañalitis 60 g",
+      "precio": 41500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 174
+    },
+    {
+      "codigo": "106418",
+      "nombre": "Loción hidratante 200 ml",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 174
+    },
+    {
+      "codigo": "92800",
+      "nombre": "Jabón líquido 200 ml",
+      "precio": 47500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 174
+    },
+    {
+      "codigo": "92790",
+      "nombre": "Shampoo 200 ml",
+      "precio": 38900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 174
+    },
+    {
+      "codigo": "92802",
+      "nombre": "Jabón líquido 200 ml",
+      "precio": 37500,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 174
+    },
+    {
+      "codigo": "92791",
+      "nombre": "Shampoo 200 ml",
+      "precio": 28900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 174
+    },
+    {
+      "codigo": "92795",
+      "nombre": "Jabones en barra 5 unidades x 100 g cada uno",
+      "precio": 64500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 174
+    },
+    {
+      "codigo": "246363",
+      "nombre": "Composición: 100% poliéster. Medidas: 28 cm largo X 28 cm alto aproximadamente. Suave al tacto.",
+      "precio": 17900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 175
+    },
+    {
+      "codigo": "170702",
+      "nombre": "Material: 90% PET y 10% ABS. Medidas: alto 22 cm x diámetro 6,5 cm. Capacidad: 610 ml. Libre de BPA.",
+      "precio": 32900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 175
+    },
+    {
+      "codigo": "246358",
+      "nombre": "Medidas: 12 cm x 2 cm x 12 cm. Composición: 100% poliéster. Resistencia al peso: 300 gramos.",
+      "precio": 32900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 175
+    },
+    {
+      "codigo": "168236",
+      "nombre": "Set x 2 Diademas Mamá e Hija",
+      "precio": 25900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 175
+    },
+    {
+      "codigo": "246362",
+      "nombre": "Medidas: 11,5 cm de diámetro. Composición: 80% poliéster y 20% poliamida. Contiene: 2 pads.",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 175
+    },
+    {
+      "codigo": "267071",
+      "nombre": "Dimensiones: 2.6 cm x 3,5 cm Composición: metal 94%, vidrio 5% y oro 1%",
+      "precio": 21500,
+      "precioLista": 26900,
+      "puntos": 4,
+      "pagina": 176
+    },
+    {
+      "codigo": "246357",
+      "nombre": "Dimensiones: 9.5 cm x 10 cm x 19 cm. Composición: 90% MDF de 5mm y 10% adhesivo.",
+      "precio": 23900,
+      "precioLista": 29900,
+      "puntos": 5,
+      "pagina": 176
+    },
+    {
+      "codigo": "213856",
+      "nombre": "Set por 2 bolsas de regalo* Medianas",
+      "precio": 10900,
+      "precioLista": null,
+      "puntos": 2,
+      "pagina": 176
+    },
+    {
+      "codigo": "213858",
+      "nombre": "Set de librería",
+      "precio": 45900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 176
+    }
+  ]
+}

@@ -1,0 +1,1047 @@
+{
+  "marca": "Avon",
+  "origen": "https://co.natura-avon.digital-catalogue.com/co/2026/13/revista/avon-ciclo-13/view",
+  "extraido": "2026-09-05T05:23:03.429Z",
+  "productos": [
+    {
+      "codigo": "248624",
+      "nombre": "MÁS DEL",
+      "precio": 11990,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 7
+    },
+    {
+      "codigo": "248627",
+      "nombre": "MÁS DEL",
+      "precio": 19990,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 9
+    },
+    {
+      "codigo": "193808",
+      "nombre": "FRESITA BRILLO PARA LABIOS",
+      "precio": 25500,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 19
+    },
+    {
+      "codigo": "222149",
+      "nombre": "Una fórmula que contiene el Complejo Vita Complex que ayuda a restaurar la luminosidad y unificar el tono* de la piel.",
+      "precio": 31200,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 24
+    },
+    {
+      "codigo": "222147",
+      "nombre": "MÁS DEL",
+      "precio": 18500,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 25
+    },
+    {
+      "codigo": "265042",
+      "nombre": "LLEVA EL LABIAL DE LARGA DURACIÓN FPS 15 / 1.5 g",
+      "precio": 15990,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 29
+    },
+    {
+      "codigo": "130861",
+      "nombre": "DELINEADOR LÍQUIDO",
+      "precio": 33200,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 35
+    },
+    {
+      "codigo": "127317",
+      "nombre": "D. LABIOS",
+      "precio": 26990,
+      "precioLista": null,
+      "puntos": null,
+      "pagina": 44
+    },
+    {
+      "codigo": "134035",
+      "nombre": "Incluye pomo",
+      "precio": 43990,
+      "precioLista": null,
+      "puntos": null,
+      "pagina": 52
+    },
+    {
+      "codigo": "185787",
+      "nombre": "RUTINA DE CUIDADO",
+      "precio": 22990,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 53
+    },
+    {
+      "codigo": "180314",
+      "nombre": "INTENSIDAD",
+      "precio": 87990,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 68
+    },
+    {
+      "codigo": "130808",
+      "nombre": "INTENSIDAD",
+      "precio": 59990,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 72
+    },
+    {
+      "codigo": "193805",
+      "nombre": "MÁS DEL",
+      "precio": 59990,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 73
+    },
+    {
+      "codigo": "152362",
+      "nombre": "INTENSIDAD",
+      "precio": 58990,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 74
+    },
+    {
+      "codigo": "152440",
+      "nombre": "FAR AWAY SPLENDORIA",
+      "precio": 82990,
+      "precioLista": null,
+      "puntos": 26,
+      "pagina": 77
+    },
+    {
+      "codigo": "264694",
+      "nombre": "45 DESCUENTO",
+      "precio": 66500,
+      "precioLista": null,
+      "puntos": 18,
+      "pagina": 78
+    },
+    {
+      "codigo": "254216",
+      "nombre": "45 DESCUENTO",
+      "precio": 91990,
+      "precioLista": null,
+      "puntos": 25,
+      "pagina": 79
+    },
+    {
+      "codigo": "265052",
+      "nombre": "MÁS DEL",
+      "precio": 67190,
+      "precioLista": null,
+      "puntos": 19,
+      "pagina": 81
+    },
+    {
+      "codigo": "254215",
+      "nombre": "40 DESCUENTO",
+      "precio": 68990,
+      "precioLista": null,
+      "puntos": 17,
+      "pagina": 82
+    },
+    {
+      "codigo": "265040",
+      "nombre": "MÁS DEL",
+      "precio": 65490,
+      "precioLista": null,
+      "puntos": 14,
+      "pagina": 83
+    },
+    {
+      "codigo": "254213",
+      "nombre": "MÁS DEL",
+      "precio": 47500,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 84
+    },
+    {
+      "codigo": "130709",
+      "nombre": "INTENSIDAD",
+      "precio": 68500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 84
+    },
+    {
+      "codigo": "254197",
+      "nombre": "MÁS DEL",
+      "precio": 54990,
+      "precioLista": null,
+      "puntos": 15,
+      "pagina": 87
+    },
+    {
+      "codigo": "254209",
+      "nombre": "45 DESCUENTO",
+      "precio": 62500,
+      "precioLista": null,
+      "puntos": 17,
+      "pagina": 89
+    },
+    {
+      "codigo": "254220",
+      "nombre": "45 DESCUENTO",
+      "precio": 56990,
+      "precioLista": null,
+      "puntos": 15,
+      "pagina": 97
+    },
+    {
+      "codigo": "170711",
+      "nombre": "Llévalo también en venta individual:",
+      "precio": 87500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 97
+    },
+    {
+      "codigo": "254221",
+      "nombre": "45 DESCUENTO",
+      "precio": 41990,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 99
+    },
+    {
+      "codigo": "130967",
+      "nombre": "Llévalo también en venta individual",
+      "precio": 59990,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 99
+    },
+    {
+      "codigo": "265016",
+      "nombre": "MÁS DEL",
+      "precio": 67690,
+      "precioLista": null,
+      "puntos": 15,
+      "pagina": 100
+    },
+    {
+      "codigo": "166403",
+      "nombre": "72 HIDRATACIÓN*** H",
+      "precio": 64000,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 104
+    },
+    {
+      "codigo": "166401",
+      "nombre": "Una opción económica y sustentable, con 89% menos empaque*****.",
+      "precio": 55990,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 104
+    },
+    {
+      "codigo": "170705",
+      "nombre": "Una opción económica y sustentable, con 89% menos empaque***.",
+      "precio": 46990,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 105
+    },
+    {
+      "codigo": "172819",
+      "nombre": "Triple acción antioxidante, ayuda a mejorar la apariencia de las líneas finas*.",
+      "precio": 52600,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 105
+    },
+    {
+      "codigo": "156924",
+      "nombre": "Exfoliación física y química que ayuda a eliminar las células muertas de la superficie de la piel.",
+      "precio": 34990,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 105
+    },
+    {
+      "codigo": "156923",
+      "nombre": "Con ácido glicólico, para ayudar a mejorar la luminosidad de la piel.",
+      "precio": 68500,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 105
+    },
+    {
+      "codigo": "254190",
+      "nombre": "MÁS DEL",
+      "precio": 96000,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 108
+    },
+    {
+      "codigo": "153981",
+      "nombre": "Formulado para ayudar a aumentar el colágeno dual*** y aportar ingredientes beneficiosos a la piel.",
+      "precio": 95500,
+      "precioLista": null,
+      "puntos": 14,
+      "pagina": 109
+    },
+    {
+      "codigo": "185791",
+      "nombre": "Ayuda a reducir la apariencia Directo al punto de manchas oscuras. al combatir manchas.",
+      "precio": 49500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 110
+    },
+    {
+      "codigo": "185790",
+      "nombre": "35 FPS Crema día",
+      "precio": 65990,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 110
+    },
+    {
+      "codigo": "185789",
+      "nombre": "Ayuda a reducir la apariencia de manchas causadas por el sol y la edad.",
+      "precio": 73500,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 110
+    },
+    {
+      "codigo": "184781",
+      "nombre": "30 70 FPS FPS",
+      "precio": 53990,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 111
+    },
+    {
+      "codigo": "154626",
+      "nombre": "FACIAL CUIDADO",
+      "precio": 36990,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 112
+    },
+    {
+      "codigo": "193812",
+      "nombre": "Remueve maquillaje de larga duración y a prueba de agua.",
+      "precio": 31990,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 112
+    },
+    {
+      "codigo": "222152",
+      "nombre": "Matifica la piel y ayuda a reducir la apariencia de los poros*",
+      "precio": 23990,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 115
+    },
+    {
+      "codigo": "222151",
+      "nombre": "Piel suave e hidratada al despertar. Apariencia de piel más luminosa**",
+      "precio": 34500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 115
+    },
+    {
+      "codigo": "222153",
+      "nombre": "Limpia e hidrata en un solo paso. Remueve el maquillaje y elimina las impurezas.",
+      "precio": 29500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 115
+    },
+    {
+      "codigo": "254223",
+      "nombre": "MÁS DEL",
+      "precio": 29990,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 116
+    },
+    {
+      "codigo": "222154",
+      "nombre": "Para una piel de apariencia renovada y luminosa, con textura suave sin sensación de tirantez por resequedad.",
+      "precio": 20500,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 117
+    },
+    {
+      "codigo": "216770",
+      "nombre": "Limpia, remueve impurezas, refresca y suaviza la piel en un solo paso.",
+      "precio": 20500,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 117
+    },
+    {
+      "codigo": "216771",
+      "nombre": "Piel nutrida y una humectación intensiva, a la vez que hidrata, acondiciona, suaviza y revitaliza.",
+      "precio": 20500,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 117
+    },
+    {
+      "codigo": "224574",
+      "nombre": "E ROSTRO CON VITAMINA E*",
+      "precio": 18200,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 117
+    },
+    {
+      "codigo": "216786",
+      "nombre": "NUEVA IMAGEN",
+      "precio": 18400,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 118
+    },
+    {
+      "codigo": "222150",
+      "nombre": "NUEVA IMAGEN",
+      "precio": 51400,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 118
+    },
+    {
+      "codigo": "164943",
+      "nombre": "DERMATOLÓGICAMENTE TESTEADO",
+      "precio": 27990,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 118
+    },
+    {
+      "codigo": "127103",
+      "nombre": "Úsalo 2 veces al día • Contiene manzanilla",
+      "precio": 26990,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 120
+    },
+    {
+      "codigo": "127133",
+      "nombre": "Extracto de cica y avena • Ácido láctico y salicílico",
+      "precio": 32500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 120
+    },
+    {
+      "codigo": "130992",
+      "nombre": "MASCARILLA CON ARCILLA ROSADA Absorbe el exceso de oleosidad y remueve impurezas.",
+      "precio": 32500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 120
+    },
+    {
+      "codigo": "131008",
+      "nombre": "JABÓN DE LIMPIEZA PROFUNDA Limpia y controla la grasa.",
+      "precio": 32500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 120
+    },
+    {
+      "codigo": "127107",
+      "nombre": "MASCARILLA NEGRA CON CARBON Desobstruye los poros",
+      "precio": 32500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 121
+    },
+    {
+      "codigo": "130702",
+      "nombre": "REMOVEDOR DE PUNTOS NEGROS Remueve puntos negros dejando sensación de suavidad en la piel.",
+      "precio": 19990,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 121
+    },
+    {
+      "codigo": "153254",
+      "nombre": "JABÓN PURIFICANTE Limpia los poros profundamente y controla la grasa",
+      "precio": 32500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 121
+    },
+    {
+      "codigo": "153253",
+      "nombre": "JABÓN EXFOLIANTE CON TECNOLOGÍA BLACKHEAD CLEARING Remueve la suciedad, corrige imperfecciones y deja la piel radiante.",
+      "precio": 32500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 121
+    },
+    {
+      "codigo": "131146",
+      "nombre": "MASCARILLA PEEL-OFF Ayuda remover impurezas y puntos negros, con divertido efecto holográfico*.",
+      "precio": 32500,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 121
+    },
+    {
+      "codigo": "161403",
+      "nombre": "HUMECTACIÓN NUTRITIVA CON GLICERINA Y ACEITE DE ALMENDRAS",
+      "precio": 1000,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 125
+    },
+    {
+      "codigo": "156918",
+      "nombre": "ÚLTIMO CICLO DE VENTA",
+      "precio": 29200,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 125
+    },
+    {
+      "codigo": "156920",
+      "nombre": "ÚLTIMO CICLO DE VENTA",
+      "precio": 23600,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 125
+    },
+    {
+      "codigo": "161396",
+      "nombre": "MÁS DEL",
+      "precio": 43990,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 127
+    },
+    {
+      "codigo": "172820",
+      "nombre": "HIDRATACIÓN ANTIOXIDANTE CON DULCE AROMA A CEREZA***",
+      "precio": 1000,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 130
+    },
+    {
+      "codigo": "172822",
+      "nombre": "DIARIOS CUIDADOS",
+      "precio": 23600,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 130
+    },
+    {
+      "codigo": "153978",
+      "nombre": "MÁS DEL",
+      "precio": 35400,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 133
+    },
+    {
+      "codigo": "216756",
+      "nombre": "HIDRATACIÓN RADIANTE CON AROMA A FRUTOS ROJOS Para todo tipo de piel",
+      "precio": 25000,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 134
+    },
+    {
+      "codigo": "216757",
+      "nombre": "PROTECCIÓN UVA/UVB 80 minutos de resistencia al agua*",
+      "precio": 50500,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 134
+    },
+    {
+      "codigo": "264695",
+      "nombre": "POR LA COMPRA DEL PRODUCTO DE LA PÁGINA 131.",
+      "precio": 12500,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 135
+    },
+    {
+      "codigo": "177148",
+      "nombre": "CUIDADO NOCTURNO • Crema hidratante nocturna. • Con extracto de té verde. • Humectación toda la noche.",
+      "precio": 25000,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 137
+    },
+    {
+      "codigo": "201565",
+      "nombre": "que ayuda a eliminar olores.",
+      "precio": 25990,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 138
+    },
+    {
+      "codigo": "177145",
+      "nombre": "Deja la piel con aspecto y sensación suave y tersa.",
+      "precio": 27800,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 138
+    },
+    {
+      "codigo": "156917",
+      "nombre": "pH balanceado • Frescura todo el día • Para uso diario",
+      "precio": 26700,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 139
+    },
+    {
+      "codigo": "152408",
+      "nombre": "PROTECTOR SOLAR FPS 60",
+      "precio": 59990,
+      "precioLista": null,
+      "puntos": 20,
+      "pagina": 141
+    },
+    {
+      "codigo": "130821",
+      "nombre": "con la delicadeza de la Avena y la Manzanilla.",
+      "precio": 44600,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 142
+    },
+    {
+      "codigo": "265021",
+      "nombre": "40 DESCUENTO",
+      "precio": 58990,
+      "precioLista": null,
+      "puntos": 14,
+      "pagina": 149
+    },
+    {
+      "codigo": "130800",
+      "nombre": "Llévalos también en venta individual:",
+      "precio": 45000,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 149
+    },
+    {
+      "codigo": "130804",
+      "nombre": "SIN SAL",
+      "precio": 45000,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 151
+    },
+    {
+      "codigo": "130969",
+      "nombre": "SIN SAL",
+      "precio": 28600,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 151
+    },
+    {
+      "codigo": "131043",
+      "nombre": "Remueve el exceso de grasa e impurezas dejando tu cuero cabelludo limpio y fresco.",
+      "precio": 28600,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 151
+    },
+    {
+      "codigo": "193842",
+      "nombre": "Para cabellos dañados o químicamente tratados.",
+      "precio": 34300,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 155
+    },
+    {
+      "codigo": "265010",
+      "nombre": "MÁS DEL",
+      "precio": 59990,
+      "precioLista": null,
+      "puntos": 13,
+      "pagina": 159
+    },
+    {
+      "codigo": "242621",
+      "nombre": "MÁS DEL",
+      "precio": 27900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 163
+    },
+    {
+      "codigo": "242648",
+      "nombre": "MÁS DEL",
+      "precio": 31900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 164
+    },
+    {
+      "codigo": "232613",
+      "nombre": "bien cuidado tu rostro",
+      "precio": 28900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 164
+    },
+    {
+      "codigo": "139494",
+      "nombre": "Peina y pule tu cabello para que siempre esté increíble.",
+      "precio": 39900,
+      "precioLista": null,
+      "puntos": 6,
+      "pagina": 168
+    },
+    {
+      "codigo": "162467",
+      "nombre": "Voluminizadores, rizadores y sujetadores de raíz, que ayudan dar volumen, sin aplicación de calor.",
+      "precio": 46900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 169
+    },
+    {
+      "codigo": "157610",
+      "nombre": "BIENESTAR",
+      "precio": 37900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 170
+    },
+    {
+      "codigo": "236511",
+      "nombre": "EXTREMO OVALADO",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 171
+    },
+    {
+      "codigo": "169496",
+      "nombre": "Un brillo espectacular que tus uñas de manos y pies estaban esperando.",
+      "precio": 35900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 171
+    },
+    {
+      "codigo": "155238",
+      "nombre": "lo funcional y el estilo",
+      "precio": 72900,
+      "precioLista": null,
+      "puntos": 11,
+      "pagina": 175
+    },
+    {
+      "codigo": "216396",
+      "nombre": "LIBRE DE NÍQUEL",
+      "precio": 118900,
+      "precioLista": null,
+      "puntos": 17,
+      "pagina": 176
+    },
+    {
+      "codigo": "133173",
+      "nombre": "Carga máxima 1 kg.",
+      "precio": 140900,
+      "precioLista": null,
+      "puntos": 20,
+      "pagina": 176
+    },
+    {
+      "codigo": "130587",
+      "nombre": "Carga máxima 1 kg.",
+      "precio": 127900,
+      "precioLista": null,
+      "puntos": 19,
+      "pagina": 178
+    },
+    {
+      "codigo": "232639",
+      "nombre": "LANZAMIENTO",
+      "precio": 65000,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 180
+    },
+    {
+      "codigo": "133170",
+      "nombre": "ESTILO",
+      "precio": 79900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 182
+    },
+    {
+      "codigo": "194650",
+      "nombre": "Carga máxima 1 kg.",
+      "precio": 79900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 183
+    },
+    {
+      "codigo": "215355",
+      "nombre": "NUEVA",
+      "precio": 55900,
+      "precioLista": null,
+      "puntos": 8,
+      "pagina": 184
+    },
+    {
+      "codigo": "218453",
+      "nombre": "Filtro UV400",
+      "precio": 58900,
+      "precioLista": null,
+      "puntos": 9,
+      "pagina": 186
+    },
+    {
+      "codigo": "187792",
+      "nombre": "Hasta agotar existencias, 79 unidades disponibles.",
+      "precio": 65900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 186
+    },
+    {
+      "codigo": "155236",
+      "nombre": "Filtro UV400",
+      "precio": 65900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 186
+    },
+    {
+      "codigo": "215370",
+      "nombre": "Carga máxima 500 g.",
+      "precio": 45900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 188
+    },
+    {
+      "codigo": "215371",
+      "nombre": "Carga máxima 500 g.",
+      "precio": 45900,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 188
+    },
+    {
+      "codigo": "151593",
+      "nombre": "Carga máxima 1 kg.",
+      "precio": 68900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 189
+    },
+    {
+      "codigo": "232605",
+      "nombre": "NUEVAS",
+      "precio": 65900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 190
+    },
+    {
+      "codigo": "169501",
+      "nombre": "Carga máxima 1 kg.",
+      "precio": 80900,
+      "precioLista": null,
+      "puntos": 12,
+      "pagina": 192
+    },
+    {
+      "codigo": "155237",
+      "nombre": "Carga máxima 2 kg.",
+      "precio": 109900,
+      "precioLista": null,
+      "puntos": 16,
+      "pagina": 193
+    },
+    {
+      "codigo": "156896",
+      "nombre": "No incluye relojes",
+      "precio": 70900,
+      "precioLista": null,
+      "puntos": 10,
+      "pagina": 193
+    },
+    {
+      "codigo": "216758",
+      "nombre": "Fórmula suave que limpia y acondiciona. • Cabello más suave, manejable y brillante.",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 195
+    },
+    {
+      "codigo": "216760",
+      "nombre": "VERDE FOUGÈRE ¡Frescor con mucha aventura! Combina notas cítricas y florales con un toque ligero de madera y almizcle.",
+      "precio": 26900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 195
+    },
+    {
+      "codigo": "216759",
+      "nombre": "Con suaves notas de manzana roja, lavanda y un fondo de almizcle.",
+      "precio": 26900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 195
+    },
+    {
+      "codigo": "247111",
+      "nombre": "Hasta 399 unidades disponibles.",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 197
+    },
+    {
+      "codigo": "162654",
+      "nombre": "El cuidado",
+      "precio": 26900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 198
+    },
+    {
+      "codigo": "130576",
+      "nombre": "SIN LÁGRIMAS",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 198
+    },
+    {
+      "codigo": "198429",
+      "nombre": "Lleva el Shampoo y el Gel también en venta individual:",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 199
+    },
+    {
+      "codigo": "139498",
+      "nombre": "Logra un cabello limpio, suave y fácil de peinar.",
+      "precio": 35900,
+      "precioLista": null,
+      "puntos": 5,
+      "pagina": 200
+    },
+    {
+      "codigo": "198428",
+      "nombre": "SIN BRILLO*",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 201
+    },
+    {
+      "codigo": "133994",
+      "nombre": "Llévala también en venta individual:",
+      "precio": 18900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 201
+    },
+    {
+      "codigo": "198425",
+      "nombre": "Llévalos también en venta individual:",
+      "precio": 26900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 203
+    },
+    {
+      "codigo": "170718",
+      "nombre": "NIÑEZ",
+      "precio": 26900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 204
+    },
+    {
+      "codigo": "133671",
+      "nombre": "Sin sensación grasosa",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 204
+    },
+    {
+      "codigo": "139499",
+      "nombre": "SIN LÁGRIMAS",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 205
+    },
+    {
+      "codigo": "139500",
+      "nombre": "Ayuda a desenredar el cabello para crear peinados fabulosos.",
+      "precio": 23900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 205
+    },
+    {
+      "codigo": "268136",
+      "nombre": "50 DESCUENTO",
+      "precio": 25400,
+      "precioLista": null,
+      "puntos": 7,
+      "pagina": 207
+    },
+    {
+      "codigo": "203200",
+      "nombre": "Lleva el Spray Desenredante y la Colonia también en venta individual:",
+      "precio": 26900,
+      "precioLista": null,
+      "puntos": 4,
+      "pagina": 207
+    },
+    {
+      "codigo": "130589",
+      "nombre": "SIN LÁGRIMAS",
+      "precio": 21900,
+      "precioLista": null,
+      "puntos": 3,
+      "pagina": 208
+    }
+  ]
+}
