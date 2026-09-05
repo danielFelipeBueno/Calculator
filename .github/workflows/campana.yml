@@ -1,0 +1,214 @@
+# Revisa a diario si Yanbal o Natura publicaron una campaña nueva y, si la hay,
+# corre el pipeline y abre un PR con los datos.
+#
+# Abre un PR en vez de commitear directo a propósito: este pipeline ya falló en
+# silencio antes (ver scripts/verificar-cobertura.mjs). El PR trae las cifras de
+# cobertura para poder mirar qué cambió antes de que llegue al sitio.
+#
+# OJO con dos cosas al mergear:
+#
+#  1. Las marcas publican la campaña siguiente ANTES de que entre en vigencia.
+#     Un PR abierto no significa que ya haya que publicarlo: mergéalo el día que
+#     la campaña vieja vence, o el sitio mostrará precios que todavía no rigen.
+#
+#  2. Natura llega SIN FOTOS. natura.com.co responde 403 a cualquier IP de
+#     datacenter, y eso incluye a los runners de GitHub. Este workflow extrae la
+#     revista de Natura (precios y códigos, que sí se alcanzan) pero no puede
+#     enriquecerla, así que no toca el archivo que lee la tienda. Ese tramo hay
+#     que correrlo desde una conexión residencial colombiana.
+
+name: Campaña
+
+on:
+  schedule:
+    # 12:00 UTC = 7:00 en Colombia. Diario: las campañas cambian una vez al mes,
+    # pero preguntar es barato y así la novedad no espera nunca más de un día.
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: "Correr el pipeline aunque no se detecte campaña nueva"
+        type: boolean
+        default: false
+
+# Dos corridas a la vez se pisarían los archivos de data/.
+concurrency:
+  group: campana
+  cancel-in-progress: false
+
+jobs:
+  detectar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      hay_novedad: ${{ steps.detectar.outputs.hay_novedad }}
+      yanbal_nueva: ${{ steps.detectar.outputs.yanbal_nueva }}
+      yanbal_url: ${{ steps.detectar.outputs.yanbal_url }}
+      natura_nueva: ${{ steps.detectar.outputs.natura_nueva }}
+      natura_url: ${{ steps.detectar.outputs.natura_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Buscar campaña nueva
+        id: detectar
+        run: node scripts/detectar-campana.mjs
+
+  actualizar:
+    needs: detectar
+    if: needs.detectar.outputs.hay_novedad == 'true' || inputs.forzar
+    runs-on: ubuntu-latest
+    # indexar-yanbal recorre 121 categorías paginándolas; no es rápido.
+    timeout-minutes: 60
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Crear rama
+        id: rama
+        run: |
+          rama="datos/campana-$(date -u +%Y%m%d-%H%M)"
+          git switch -c "$rama"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "nombre=$rama" >> "$GITHUB_OUTPUT"
+
+      # ---------------------------------------------------------------- Yanbal
+      # Se alcanza entera desde la nube: revista y tienda responden 200.
+      - name: Yanbal — extraer, enriquecer, normalizar y clasificar
+        if: needs.detectar.outputs.yanbal_nueva == 'true'
+        id: yanbal
+        env:
+          URL: ${{ needs.detectar.outputs.yanbal_url }}
+        run: |
+          set -euo pipefail
+
+          anterior=$(ls data/yanbal-*-clasificado.json | sort | tail -1)
+          echo "anterior=$anterior" >> "$GITHUB_OUTPUT"
+
+          node scripts/extract-yanbal.mjs "$URL"
+
+          # El nombre del archivo lo decide la campaña que declara el flipbook,
+          # así que no se puede escribir a mano: es el .json que acaba de nacer.
+          crudo=$(git status --porcelain data/ \
+            | awk '/^\?\?/ {print $2}' \
+            | grep '\.json$' \
+            | grep -v -- '-enriquecido\|-normalizado\|-clasificado' \
+            | head -1)
+          if [ -z "$crudo" ]; then
+            echo "::error::extract-yanbal no dejó ningún archivo nuevo en data/"
+            exit 1
+          fi
+          echo "Extraído: $crudo"
+
+          node scripts/indexar-yanbal.mjs
+          node scripts/enrich-yanbal.mjs "$crudo"
+          node scripts/normalizar.mjs "${crudo%.json}-enriquecido.json"
+          node scripts/clasificar.mjs "${crudo%.json}-normalizado.json"
+
+          echo "nuevo=${crudo%.json}-clasificado.json" >> "$GITHUB_OUTPUT"
+
+      - name: Yanbal — comparar cobertura contra la campaña vigente
+        if: needs.detectar.outputs.yanbal_nueva == 'true'
+        id: cobertura
+        continue-on-error: true
+        run: |
+          {
+            echo "### Yanbal"
+            echo
+            node scripts/verificar-cobertura.mjs \
+              "${{ steps.yanbal.outputs.nuevo }}" \
+              "${{ steps.yanbal.outputs.anterior }}"
+          } | tee cobertura-yanbal.txt
+
+      # ---------------------------------------------------------------- Natura
+      # Solo la revista. El enriquecimiento (fotos, descripciones, stock) necesita
+      # una IP residencial colombiana; ver la nota de arriba.
+      - name: Natura — extraer solo la revista
+        if: needs.detectar.outputs.natura_nueva == 'true'
+        env:
+          URL: ${{ needs.detectar.outputs.natura_url }}
+        run: node scripts/extract-natura.mjs "$URL" Natura
+
+      # ------------------------------------------------------- Comprobación real
+      # Que el sitio siga compilando con los datos nuevos. Si el formato cambió,
+      # aquí se cae — y es mucho mejor que se caiga aquí que en producción.
+      - name: Comprobar que el sitio compila con los datos nuevos
+        run: |
+          npm ci
+          npm run build
+
+      - name: Abrir PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RAMA: ${{ steps.rama.outputs.nombre }}
+          COBERTURA_OK: ${{ steps.cobertura.outcome }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "No cambió ningún archivo de datos; no hay PR que abrir."
+            exit 0
+          fi
+
+          git add data/
+          git commit -m "Datos: campaña nueva detectada el $(date -u +%Y-%m-%d)"
+          git push -u origin "$RAMA"
+
+          {
+            echo "Detectado automáticamente por \`.github/workflows/campana.yml\`."
+            echo
+
+            if [ "${{ needs.detectar.outputs.yanbal_nueva }}" = "true" ]; then
+              echo "**Yanbal** — ${{ needs.detectar.outputs.yanbal_url }}"
+              echo
+              if [ -f cobertura-yanbal.txt ]; then
+                sed '1,2d' cobertura-yanbal.txt
+              fi
+              echo
+              if [ "$COBERTURA_OK" = "failure" ]; then
+                echo "> [!WARNING]"
+                echo "> La cobertura cayó más de lo tolerado. **No mergear sin revisar**:"
+                echo "> puede que la marca aún no publique las fichas del ciclo nuevo,"
+                echo "> o que algo del pipeline se haya roto en silencio."
+                echo
+              fi
+            fi
+
+            if [ "${{ needs.detectar.outputs.natura_nueva }}" = "true" ]; then
+              echo "**Natura** — ${{ needs.detectar.outputs.natura_url }}"
+              echo
+              echo "Solo se extrajo la revista (precios y códigos). **Falta enriquecer**:"
+              echo "\`natura.com.co\` responde 403 a las IPs de GitHub, así que las fotos,"
+              echo "descripciones y stock hay que traerlos desde una conexión residencial"
+              echo "colombiana. El archivo que lee la tienda no se tocó."
+              echo
+            fi
+
+            echo "---"
+            echo
+            echo "**Antes de mergear:** las marcas publican la campaña siguiente por"
+            echo "adelantado. Si la campaña vieja sigue vigente, mergear esto haría que"
+            echo "el sitio muestre precios que todavía no rigen."
+            echo
+            echo "El sitio compila con estos datos (\`npm run build\` pasó en CI)."
+          } > cuerpo.md
+
+          titulo="Datos: campaña nueva"
+          if [ "$COBERTURA_OK" = "failure" ]; then
+            titulo="Datos: campaña nueva — ⚠️ revisar cobertura"
+          fi
+
+          gh pr create \
+            --title "$titulo" \
+            --body-file cuerpo.md \
+            --base "${{ github.ref_name }}" \
+            --head "$RAMA"

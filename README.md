@@ -235,6 +235,63 @@ Para incluirla haría falta una de estas, y ninguna es gratis:
 | Fotografiar y nombrar a mano los 130 | Trabajo manual por ciclo, no una sola vez |
 | Que Avon abra un sitio con catálogo | No depende de nosotros |
 
+### Actualización automática de campaña
+
+```bash
+npm run campana:detectar    # ¿hay campaña nueva publicada?
+```
+
+Las dos marcas numeran sus revistas de forma consecutiva, así que **no hace falta
+que nadie pase la URL**: se pide el número siguiente y se mira si responde.
+
+| Marca | Patrón |
+|---|---|
+| Yanbal | `docs.yanbal.com/cdigital/co/<año>/c<n>/oficial/` |
+| Natura | `co.natura.digital-catalogue.com/co/<año>/<n>/revista/ciclo-<n>/view` |
+
+**Las dos publican la campaña siguiente antes de que entre en vigencia.** El 5 de
+septiembre de 2026, con la C09 corriendo hasta el 11, la C10 de Yanbal y el ciclo
+14 de Natura ya respondían. Eso da margen para preparar los datos, pero también
+significa que *detectada* no es *vigente*: publicar apenas aparece haría que el
+sitio muestre precios que todavía no rigen.
+
+`.github/workflows/campana.yml` corre esa detección a diario y, si hay novedad,
+ejecuta el pipeline y **abre un PR** —no commitea directo—. El PR trae la tabla de
+cobertura comparada contra la campaña vigente:
+
+```bash
+node scripts/verificar-cobertura.mjs <nuevo.json> <anterior.json> [--puntos 10]
+```
+
+Compara **porcentajes, no cantidades**: una campaña nueva legítimamente trae más o
+menos productos, pero no tiene por qué bajar la proporción de los que llevan foto.
+Si alguna medida cae más de 10 puntos porcentuales, el PR se marca con una
+advertencia. No es paranoia: este pipeline ya terminó con código 0 y cara de éxito
+dos veces mientras entregaba basura —un precio tachado leído como precio real, que
+inventó descuentos del 45 %, y un merge que dejó 14 descripciones de 367—. Contar
+antes y después es lo único que los delató.
+
+El workflow también corre `npm run build` con los datos nuevos, así que un cambio
+de formato en la fuente se cae en CI y no en producción.
+
+#### Qué queda fuera del automatismo
+
+| Tramo | ¿Corre en la nube? |
+|---|---|
+| Revista de Yanbal | ✅ |
+| Tienda `yanbal.com` (fotos, stock) | ✅ |
+| Revista de Natura | ✅ |
+| Tienda `natura.com.co` (fotos, stock) | ❌ **403** |
+
+`natura.com.co` rechaza toda IP de datacenter, y eso incluye a los runners de
+GitHub. El workflow extrae la revista de Natura —precios y códigos sí se
+alcanzan— pero **no toca el archivo que lee la tienda**, porque sustituir 352
+productos con foto por 366 sin foto los sacaría a todos del sitio.
+
+Ese tramo necesita una conexión residencial colombiana. Las opciones son un
+*self-hosted runner* en una máquina propia, correr el comando a mano cada ciclo,
+o un proxy residencial. Sin decidir.
+
 ### Normalización
 
 ```bash
