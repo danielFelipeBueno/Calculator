@@ -1,0 +1,74 @@
+
+Sonda de catálogos — Alejandría
+Node 22.22.1 · 2026-09-05T14:00:02.970Z
+
+Copia TODA la salida y pégala en el chat.
+
+────────────────────────────────────────────────────────────────────────
+NATURA  —  ¿responde desde tu conexión?
+────────────────────────────────────────────────────────────────────────
+  [OK ] 200 portada                            1011776 bytes
+
+  ✓ Natura SÍ responde. Servidor: no declarado
+  Plataforma detectada: Next.js, Salesforce Commerce
+  Rutas de producto encontradas (1), muestra:
+      /p/amor-y-amistad-2026-tododia-manzana-caramelizada/NATCOL-241246
+────────────────────────────────────────────────────────────────────────
+¿HAY UNA API DE CATÁLOGO?  —  esto es lo que decide todo
+────────────────────────────────────────────────────────────────────────
+  [── ] 404 VTEX · listado                     59243 bytes
+  [── ] 404 VTEX · por código de referencia    59029 bytes
+  [── ] 404 VTEX · búsqueda por término        59294 bytes
+  [OK ] 200 VTEX · autocompletar               2629 bytes
+  [── ] 404 VTEX · búsqueda inteligente        59062 bytes
+  [OK ] 200 Hybris · autocompletar             2629 bytes
+  [OK ] 200 Página de búsqueda                 2629 bytes
+
+  ✗ Ninguna API de catálogo respondió con JSON.
+    Quedan las páginas HTML de producto como vía, que es más frágil.
+────────────────────────────────────────────────────────────────────────
+¿SE PUEDE LLEGAR A UN PRODUCTO POR SU CÓDIGO DE CATÁLOGO?
+────────────────────────────────────────────────────────────────────────
+  Producto de prueba: (167286) Shampoo restauración 300 ml — $40.500
+
+  [OK ] 200 por código en la ruta              2629 bytes
+  [── ] 404 por código como NATCOL             59223 bytes
+  [OK ] 200 búsqueda del código                2629 bytes
+  [OK ] 200 búsqueda del nombre                2629 bytes
+────────────────────────────────────────────────────────────────────────
+AVON  —  ¿responde desde tu conexión?
+────────────────────────────────────────────────────────────────────────
+  [── ] 504 portada                            276 bytes
+
+  ✗ Avon NO responde desde tu máquina tampoco (504).
+────────────────────────────────────────────────────────────────────────
+AVON (.CO)  —  ¿responde desde tu conexión?
+────────────────────────────────────────────────────────────────────────
+  [OK ] 200 portada                            32852 bytes
+
+  ✓ Avon (.co) SÍ responde. Servidor: Kestrel
+  Plataforma detectada: no identificada
+  Sin rutas /p/ visibles en la portada (puede cargarlas por JavaScript).
+────────────────────────────────────────────────────────────────────────
+¿HAY UNA API DE CATÁLOGO?  —  esto es lo que decide todo
+────────────────────────────────────────────────────────────────────────
+  [── ] 404 VTEX · listado                     20573 bytes
+  [── ] 404 VTEX · por código de referencia    20563 bytes
+  [── ] 404 VTEX · búsqueda por término        20553 bytes
+  [── ] 404 VTEX · autocompletar               20563 bytes
+  [── ] 404 VTEX · búsqueda inteligente        20563 bytes
+  [── ] 404 Hybris · autocompletar             20553 bytes
+  [── ] 404 Página de búsqueda                 20553 bytes
+
+  ✗ Ninguna API de catálogo respondió con JSON.
+    Quedan las páginas HTML de producto como vía, que es más frágil.
+════════════════════════════════════════════════════════════════════════
+RESUMEN
+════════════════════════════════════════════════════════════════════════
+  · Natura: responde (200)
+  · Natura: plataforma Next.js+Salesforce Commerce
+  · Natura: 1 rutas /p/ en portada
+  · Avon (.co): responde (200)
+
+Listo. Pega esta salida completa en el chat.
+

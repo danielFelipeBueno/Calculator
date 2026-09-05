@@ -99,6 +99,80 @@ Resultado del ciclo 13: **Natura 366 productos**, **Avon 130**. Verificado a man
 contra la página 36 de Natura: 7 de 7 con código, puntos, precio y descuento
 correctos. Ninguna de las dos marcas expone fotos ni stock por esta vía.
 
+### Enriquecimiento de Natura desde el sitio público
+
+```bash
+node scripts/indexar-natura.mjs                                  # primero el índice
+node scripts/enrich-natura.mjs data/natura-revista-ciclo-13.json # luego el cruce
+```
+
+Mismo patrón que Yanbal —un índice del sitio para foto y precio, una segunda
+fuente para descripción y stock— pero el emparejamiento es mucho más firme: el
+código que la revista imprime entre paréntesis **es** el identificador del
+sitio, y `/p/<slug>/NATCOL-<código>` responde con cualquier slug. Así que no hay
+que adivinar qué ficha corresponde a qué producto; hay que comprobar que el
+sitio devolvió lo que se le pidió, y para eso está el `canonical`.
+
+| Fuente | Qué da | Límite |
+|---|---|---|
+| Índice de categorías | Foto (hasta 2 ángulos), precio, precio tachado y stock | Sin descripción; solo cubre 170 de los 366 |
+| Ficha del producto | Descripción, nombre canónico, precio y stock | Una sola foto; una petición por producto |
+
+`indexar-natura.mjs` recorre las 177 categorías del menú y deja
+`data/natura-sitio-indice.json` con **378 productos**. No es opcional ni
+sustituible por un buscador: en natura.com.co **el buscador está bloqueado**.
+
+Resultado sobre el ciclo 13: **352 de 366 productos (96 %)** con foto, 351 con
+descripción, 129 con dos ángulos. Los 14 restantes dan 404 en el sitio —son de
+revista, no de tienda—. Confianza alta en 289, media en 55 y baja en 8.
+
+Cuatro cosas que cuestan caro si se ignoran:
+
+- **Akamai responde "Access Denied" con status 200.** Las rutas de API que
+  probaría cualquiera —`/api/catalog_system/...`, `/busca`, `/search`, el
+  autocompletado— devuelven todas el mismo cuerpo de 2.629 bytes con un 200
+  encima. Mirar el código de respuesta no basta: hay que mirar el cuerpo.
+- **Sin las cabeceras `Sec-Fetch-*` la portada responde 403.** Con ellas, 200.
+- **En el JSON del sitio hay dos precios, y el nombre engaña.** `price.sales` es
+  lo que se cobra y `price.list` el tachado, que vale `null` si no hay
+  descuento. Peor todavía en `variations[].price`: ahí el tachado se llama
+  `listPrice` y vale **0** cuando no hay descuento, así que tomarlo como precio
+  da un producto de cero pesos.
+- **La ficha cuelga vitrinas de productos similares con sus propios precios.**
+  Anclarse en la posición del texto —"el precio más cercano al nombre"— lee el
+  precio de otro producto: el del principal puede estar a cuatro mil caracteres.
+  La variación se identifica por `productId` *y* por que su `salePrice` sea el
+  que ya publicó el JSON-LD; si no concuerdan, se descarta el tachado. Un
+  tachado equivocado es peor que ninguno, porque inventa un descuento que no
+  existe.
+
+**El precio confirma el emparejamiento**, como en Yanbal, pero aquí hay que
+compararlo contra los dos: **329 de 352 (93 %)** coinciden con el precio de
+venta o con el tachado —209 con el de venta, 120 con el tachado, porque el sitio
+trae en oferta lo que la revista publica a precio de lista—.
+
+De los 23 que no cuadran contra ninguno, 14 caen en razones limpias de 0,80,
+0,75 y 0,70: son descuentos de la revista del ciclo que el sitio no tiene. El
+resto son productos donde el extractor de la revista falló —capturó como nombre
+una frase de publicidad ("LANZAMIENTO", "Con acción antidaños") y con ella un
+precio que no era—. Por eso conviene preferir `nombreSitio` sobre `nombre`
+cuando `similitud` es baja.
+
+### Avon: sin fuente
+
+No se pudo enriquecer, y no por un bloqueo que se pueda sortear:
+
+- `avon.com.co` devuelve **504** en todos los intentos, también desde una
+  conexión residencial colombiana. No es un 403 ni un reto de JavaScript: no hay
+  nada que responda al otro lado.
+- `avon.co` sí responde, pero es el sitio institucional (ASP.NET/Kestrel): tiene
+  historia de la marca y formulario de consultoras, y **cero precios y cero
+  códigos** del catálogo. Solo enlaza de vuelta a la revista de
+  `digital-catalogue.com`, que es de donde ya salen los datos.
+
+Los 130 productos de `data/avon-revista-avon-ciclo-13.json` se quedan sin foto,
+descripción ni stock hasta que aparezca otra fuente.
+
 ## Decisiones tomadas
 
 - **Precio de venta = precio de catálogo**, por ahora. El margen vive en el
@@ -109,8 +183,11 @@ correctos. Ninguna de las dos marcas expone fotos ni stock por esta vía.
 
 ## Pendientes
 
-- Fotos propias para los 26 productos que el sitio no publica.
-- Adaptador de Natura y Avon.
+- Fotos propias para los 26 productos de Yanbal y los 14 de Natura que los
+  sitios no publican.
+- Fuente de fotos y descripciones para Avon: hoy no hay ninguna.
+- Revisar los productos de Natura con `similitud` baja: el código empareja bien,
+  pero el nombre que trae la revista es una frase de publicidad.
 - Verificar el descuento de consultora por marca y calcular márgenes reales.
 - Revisar derechos de uso de imágenes y textos de las marcas, y las cláusulas de
   reventa en línea del contrato de consultora.
