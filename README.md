@@ -39,14 +39,24 @@ El buscador de `yanbal.com` expone un endpoint de autocompletado que devuelve JS
 con **foto (hasta 500x500), descripción, resumen, precio y estado de stock**. El
 script cruza cada producto del catálogo contra él.
 
-Resultado sobre la C09: **353 de 468 productos (75 %)** con foto, descripción y
-disponibilidad — 311 de confianza alta, 42 media.
+Resultado sobre la C09: **367 de 468 productos (78 %)** con foto, descripción y
+disponibilidad — 328 de confianza alta, 39 media.
 
-Dos detalles del emparejamiento:
+De esos 367, **274 tienen foto del producto exacto** y **93 tienen foto de línea**:
+varias entradas del catálogo apuntan a una sola ficha del sitio porque son
+variantes —las 23 letras de un dije, los tonos de un corrector—. El emparejamiento
+es correcto, pero la foto no distingue la variante, así que van marcados con
+`fotoDeLinea` para que la ficha pueda advertirlo.
 
-- La búsqueda es difusa y razona por token: mandarle el nombre completo trae ruido
-  porque "Yanbal" domina el ranking. Por eso se prueban varias consultas cortas
-  por producto y se agrupan los candidatos.
+Tres detalles del emparejamiento:
+
+- **El endpoint devuelve máximo 4 resultados.** La consulta tiene que ser
+  específica o el producto correcto ni siquiera aparece entre los candidatos.
+- La búsqueda es difusa y razona por token: la palabra de categoría arrastra
+  resultados de toda la categoría. Por eso se generan **todas las ventanas de dos
+  palabras consecutivas**, no solo las de los extremos: en "Delineador Punta
+  Inteligente Negro" la única consulta que acierta es "punta inteligente", que
+  está en el medio.
 - **El precio valida el emparejamiento, no solo lo desempata.** Dentro de una misma
   colección de joyería los nombres se parecen demasiado ("Collar Amira" contra
   "Collar Amira Cristal") y solo el precio distingue la pieza. Sin esa regla el

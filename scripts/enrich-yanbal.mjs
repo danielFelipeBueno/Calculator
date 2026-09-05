@@ -52,27 +52,36 @@ function similitud(a, b) {
 }
 
 /**
- * Consultas candidatas, de más a menos distintiva. La búsqueda difusa responde
- * mejor a dos o tres palabras raras que al nombre completo.
+ * Consultas candidatas, de más a menos distintiva.
+ *
+ * El endpoint devuelve como máximo 4 resultados, así que la consulta tiene que
+ * ser específica o el producto correcto ni siquiera aparece. Y es difusa por
+ * token: la palabra de categoría ("Delineador") arrastra resultados de toda la
+ * categoría y desplaza al producto buscado.
+ *
+ * Por eso se generan TODAS las ventanas de dos palabras consecutivas, no solo
+ * las de los extremos: en «Delineador Punta Inteligente Negro» la única que
+ * acierta es «punta inteligente», que está en el medio.
  */
 function consultas(nombre) {
   const t = tokens(nombre);
   const distintivos = t.filter((w) => !GENERICOS.has(w) && w.length > 2);
   const base = distintivos.length ? distintivos : t;
-  const out = [];
-  if (base.length >= 2) {
-    out.push(base.slice(-2).join(" "));   // cola: suele ser la variante o el aroma
-    out.push(base.slice(0, 2).join(" ")); // cabeza: suele ser la línea
-  }
+
+  const bigramas = [];
+  for (let i = 0; i + 1 < base.length; i++) bigramas.push(base.slice(i, i + 2).join(" "));
+
+  // Las ventanas del medio y del final discriminan más que la inicial, que
+  // suele ser la categoría del producto.
+  bigramas.sort((a, b) => base.indexOf(b.split(" ")[0]) - base.indexOf(a.split(" ")[0]));
+
+  const out = [...bigramas, base.join(" ")];
   if (base.length >= 3) out.push(base.slice(0, 3).join(" "));
-  out.push(base.join(" "));
-  // Tokens sueltos: recuperan los productos cuyo nombre en el sitio difiere
-  // del nombre del catálogo salvo por una palabra distintiva.
   if (base.length) {
+    out.push(base[base.length - 1]);
     out.push(base[0]);
-    if (base.length > 1) out.push(base[base.length - 1]);
   }
-  return [...new Set(out)].slice(0, 6);
+  return [...new Set(out)].slice(0, 8);
 }
 
 const cache = new Map();
@@ -189,6 +198,18 @@ async function main() {
     return r;
   });
 
+  // Varias entradas del catálogo pueden apuntar a una sola ficha del sitio:
+  // las 23 letras de un dije, los tonos de un corrector. El emparejamiento es
+  // correcto, pero la foto es de la línea y no de la variante concreta — la
+  // ficha tiene que poder advertirlo.
+  const usos = new Map();
+  for (const p of productos) {
+    if (p.sitioCodigo) usos.set(p.sitioCodigo, (usos.get(p.sitioCodigo) ?? 0) + 1);
+  }
+  for (const p of productos) {
+    if (p.sitioCodigo && usos.get(p.sitioCodigo) > 1) p.fotoDeLinea = true;
+  }
+
   const por = (c) => productos.filter((p) => p.confianza === c).length;
   const conFoto = productos.filter((p) => p.imagenes?.grande).length;
   const conDesc = productos.filter((p) => p.descripcion).length;
@@ -203,6 +224,7 @@ async function main() {
   console.log(`  Con foto:        ${conFoto} (${pct(conFoto)})`);
   console.log(`  Con descripción: ${conDesc} (${pct(conDesc)})`);
   console.log(`  Agotados en el sitio: ${agotados}`);
+  console.log(`  Con foto de línea (variante no distinguible): ${productos.filter((p) => p.fotoDeLinea).length}`);
   console.log(`\n  ${salida}`);
 }
 

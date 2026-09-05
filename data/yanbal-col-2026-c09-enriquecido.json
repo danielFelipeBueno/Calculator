@@ -2,7 +2,7 @@
   "marca": "Yanbal",
   "campana": "COL 2026 C09",
   "origen": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/",
-  "extraido": "2026-09-05T02:53:01.706Z",
+  "extraido": "2026-09-05T12:44:47.377Z",
   "productos": [
     {
       "codigo": "4719",
@@ -46,7 +46,19 @@
       "precio": 28500,
       "pagina": 2,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20014386",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014386/yanbal-lip-oil-balm-aura-rose",
+      "descripcion": "Su fórmula combina la nutrición de un aceite con el confort de un bálsamo, hidrata hasta por 10 horas, deja un color traslúcido modulable y un acabado glossy 3D que realza la forma natural de los labios.",
+      "resumen": "Bálsamo labial de Edición Limitada.",
+      "precioSitio": 28500,
+      "disponible": "outOfStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014386-01.jpg?context=bWFzdGVyfGltYWdlc3w0ODE4fGltYWdlL2pwZWd8YUdJNEwyZ3lPUzh4TlRReE16a3hNak13TlRZNU5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNemcyWHpBeExtcHdad3w2YmQ4YzFiYjUzZmJhMDI5YzQ1MDA2NTk3ZmZkYzRmN2YxZDEwMjkyY2FkMjlkNzU1MTA2NDhkZjk0MmM2OWVi",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014386-01.jpg?context=bWFzdGVyfGltYWdlc3w2MTYyfGltYWdlL2pwZWd8YUdJMkwyZ3lZeTh4TlRReE16a3hNakkwTURFMU9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNemcyWHpBeExtcHdad3w1MTNjNzRhNzljOGM4N2I2ZDI3MGNjZDMxZTBmNjkzZTVjYzY0NmQwOGFhMDA1ZTZiZjVlZDBkNmQ4OWRjZjcz",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014386-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTkzM3xpbWFnZS9qcGVnfGFHTTNMMmd5Wmk4eE5UUXhNemt4TWpFM05EWXlNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTXpnMlh6QXhMbXB3Wnd8OGZiYWEwYzYyOWEzNTcyZGRlOGM5N2E1OGQxZDMzNTBiNGQ0OGZhNjBmNWIwOTY5NzJiYjhiZGI2OGRiNTk5OA"
+      }
     },
     {
       "codigo": "5210",
@@ -135,17 +147,17 @@
       "pagina": 2,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=2",
       "confianza": "alta",
-      "similitud": 0.71,
-      "sitioCodigo": "20014388",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014388/yanbal-lip-oil-balm-berry-glow",
-      "descripcion": "Su fórmula combina la nutrición de un aceite con el confort de un bálsamo, hidrata hasta por 10 horas, deja un color traslúcido con destellos modulable y un acabado glossy 3D que realza la forma natural de los labios.",
+      "similitud": 1,
+      "sitioCodigo": "20014389",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014389/yanbal-lip-oil-balm-cinamoon-glow",
+      "descripcion": "Su fórmula combina la nutrición de un aceite con el confort de un bálsamo, hidrata hasta por 10 horas, deja un color traslúcido con destellosmodulable y un acabado glossy 3D que realza la forma natural de los labios.",
       "resumen": "Bálsamo labial de Edición Limitada.",
       "precioSitio": 28500,
       "disponible": "outOfStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014388-01.jpg?context=bWFzdGVyfGltYWdlc3w0Njg0fGltYWdlL2pwZWd8YURRekwyZzNaUzh4TlRReE16a3hNVGszT0RBeE5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNemc0WHpBeExtcHdad3xiOGE5N2Y3YzhkZjM5MWM2MDdlYzIwMjYwZmExMWZkMGY2ODIyY2U5ZDQ0ZDJhNjhkY2ZhMDU2OTYxZGRlNDBk",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014388-01.jpg?context=bWFzdGVyfGltYWdlc3w1OTAwfGltYWdlL2pwZWd8YUdZeEwyZzNaUzh4TlRReE16a3hNVGt4TWpRM09DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNemc0WHpBeExtcHdad3xhMDNiODVhMDE4Y2NmZGRhZDVkNTAxNTIxZDNjMGQ0NDJkNzRiNDdjNGM0ZWU0ZThkMTAyNzA4ZDMzMzM5YzZi",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014388-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTIyNHxpbWFnZS9qcGVnfGFEQXpMMmc0TWk4eE5UUXhNemt4TVRnME5qazBNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTXpnNFh6QXhMbXB3Wnd8ZjcyYjIyMzVjNWIzZWMwNjgxNThiZmU1OWY5OWJlZDBmY2Y4Y2MwMzRkNTRjNTYxZDQ5YTMxZTg5NjA2NDBjYw"
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014389-01.jpg?context=bWFzdGVyfGltYWdlc3w0Nzk5fGltYWdlL2pwZWd8YURZd0wyZzVOaTh4TlRReE16a3hNVEkxTnpFeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNemc1WHpBeExtcHdad3w3YmM0OTRkNDYxNWE1Nzk0NTk4ZTU0ZGJmMzc4NDRhMjQzODMyMDQ1YTA1ZDljNTgzMTNhZThiN2UxNDRhNWQx",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014389-01.jpg?context=bWFzdGVyfGltYWdlc3w2MTE3fGltYWdlL2pwZWd8YURWbEwyZzVPUzh4TlRReE16a3hNVEU1TVRVNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNemc1WHpBeExtcHdad3wyNWI0YmZiMTUxYTQ3NjM5ZmMwNDJiYmRlZTA5ZGFjZjZlZDM0MzBlYzBiMjYyNmU0NDU5YTMxMmE5Zjc3ZGI5",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014389-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTc1N3xpbWFnZS9qcGVnfGFERm1MMmc1WVM4eE5UUXhNemt4TVRFeU5qQTBOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTXpnNVh6QXhMbXB3Wnd8M2EwNzVkMDUwMWUwNzNkYjUwMjcyYjU2ZDZjMThhMjIxNTBkMjU2OGUzM2VmMTk2MjAwMzU0YzYxYjE1Y2VhMg"
       }
     },
     {
@@ -466,18 +478,18 @@
       "precio": 112500,
       "pagina": 11,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=11",
-      "confianza": "media",
-      "similitud": 0.42,
-      "sitioCodigo": "14700114",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/14700114/set-arom%3A-eau-de-parfum-%2B-desodorante-antitranspirante",
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "14700026",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/14700026/set-cielo%3A-eau-de-parfum%2Bjabon-en-barra%2Bdesodorante-fraganciado",
       "descripcion": ".",
       "resumen": "",
-      "precioSitio": 114500,
+      "precioSitio": 112500,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-14700114-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3w5MDY5fGltYWdlL2pwZWd8YUdFMEwyZ3lOUzh4TWpBMU5URTJPVEl3TkRJMU5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpFME56QXdNVEUwWDJWelgwTlBYekF4TG1wd1p3fDBmOWJjYzkwZmUyNGRmYzQ0YjExODRjNWZhYTljZjA4MDIxMDM0M2FiMTBjODkyMGMwMWUxNGIxYTZhYTM1NDA",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-14700114-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTMxMHxpbWFnZS9qcGVnfGFEa3pMMmd5TWk4eE1qQTFOVEUyT1RFek9EY3hPQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6RTBOekF3TVRFMFgyVnpYME5QWHpBeExtcHdad3wwYjY2YzZmNGZmMTg2ODBjMTFhN2RlYmNkYzVlMmMxZDRmNDEyNjc0Njc2ZmUxOTE3YWNlMWE3OTBkMGNhMGUy",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-14700114-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3w0MzM1MXxpbWFnZS9qcGVnfGFEazFMMmd4Wmk4eE1qQTFOVEUyT1RBM016RTRNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6RTBOekF3TVRFMFgyVnpYME5QWHpBeExtcHdad3wyMjFhZTk0MzJmNjQxMzRkZTAwNWRhMmQwMTY2ZWU4ZTA3MDdkODUwZDAwY2ZiYTQxYmNlN2JmMzU0Njk0Nzgw"
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-14700026-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDk1OHxpbWFnZS9qcGVnfGFHRmlMMmc1TkM4eE1UYzNORE16T0RFM01Ea3hNQzh4TkRWWGVERTBOVWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6RTBOekF3TURJMlgyVnpYME5QWHpBeExtcHdad3xlNDBhODVmYTkwMjZiZjc5NWZjMDE1NTE1M2UxMWFjNmJhZWEzOTFlNjA5YmQzNTZjMTNiNTYyMzAzYzhiNTli",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-14700026-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3wyODk5OXxpbWFnZS9qcGVnfGFHVmhMMmc1TXk4eE1UYzNORE16T0RFd05UTTNOQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6RTBOekF3TURJMlgyVnpYME5QWHpBeExtcHdad3xmNjUyMWQ1OWIxZmZkYjYwNWViZGY3OTc0OWQyZTM1ZDJmYzY1OTBmYWExNjMyMjgwOTk3MWM0MTJlZjc1NTZj",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-14700026-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3w5MDE1OHxpbWFnZS9qcGVnfGFHUTVMMmc1TUM4eE1UYzNORE16T0RBek9UZ3pPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6RTBOekF3TURJMlgyVnpYME5QWHpBeExtcHdad3xkOWI1OTNlNGE4NmY3YWNkMGY4NjEwMzRhOGUxZTNkY2EyMTI3Y2E5OTQyNjRhZWY0OGI5Y2VjMTU0MTNhMDg0"
       }
     },
     {
@@ -1558,7 +1570,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43575",
@@ -1578,7 +1591,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43582",
@@ -1598,7 +1612,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43565",
@@ -1618,7 +1633,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43577",
@@ -1638,7 +1654,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43579",
@@ -1658,7 +1675,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43564",
@@ -1698,7 +1716,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43571",
@@ -1718,7 +1737,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43572",
@@ -1738,7 +1758,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43569",
@@ -1758,7 +1779,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43568",
@@ -1778,7 +1800,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43566",
@@ -1798,7 +1821,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43561",
@@ -1818,7 +1842,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43567",
@@ -1838,7 +1863,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43574",
@@ -1858,7 +1884,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43563",
@@ -1898,7 +1925,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43578",
@@ -1918,7 +1946,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43562",
@@ -1958,7 +1987,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43573",
@@ -1978,7 +2008,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43570",
@@ -1998,7 +2029,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43581",
@@ -2018,7 +2050,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43583",
@@ -2038,7 +2071,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43584",
@@ -2058,7 +2092,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDUwfGltYWdlL2pwZWd8YUdFM0wyaGhZaTh4TXpRMk5Ua3pNakEzTURrME1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3w0OGE4NTdhODY3Zjc5YTUwNWM3NmRkYzU1ZjYwMWJlZTYwYTExZjUxNzA4ZjRkNTZmNGYxNTYzMGNiOGE2MWZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTY5fGltYWdlL2pwZWd8YURZNEwyaGhZeTh4TXpRMk5Ua3pNakF3TlRRd05pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpOVFl3WHpBeExtcHdad3xkOGUyY2Q4ODE3MGM1ODU0MmFmYmFkYzE3YjYzMmRkMWYzMmViZjlhZDM1MDgxMzE1M2IwZjI4ZTU2YmIxYzQ0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043560-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTkyNHxpbWFnZS9qcGVnfGFESTFMMmhtTnk4eE16UTJOVGt6TVRrek9UZzNNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TlRZd1h6QXhMbXB3Wnd8NmQyZjE2NjgzZmE4MTcwMmFjMzMwMGYzZjdjNTViYjk3YzY2YWQzODY3OTYzNDIzMTBjOTdjZmYwOTk2YzQ4MQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43333",
@@ -2106,7 +2141,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43494",
@@ -2126,7 +2162,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43242",
@@ -2162,7 +2199,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43514",
@@ -2182,7 +2220,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43234",
@@ -2234,7 +2273,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43493",
@@ -2282,7 +2322,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43502",
@@ -2302,7 +2343,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43240",
@@ -2338,7 +2380,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43233",
@@ -2374,7 +2417,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43492",
@@ -2414,7 +2458,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43246",
@@ -2470,7 +2515,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43501",
@@ -2490,7 +2536,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43243",
@@ -2518,7 +2565,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43241",
@@ -2546,7 +2594,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43504",
@@ -2566,7 +2615,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43231",
@@ -2594,7 +2644,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43500",
@@ -2614,7 +2665,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43250",
@@ -2650,7 +2702,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43505",
@@ -2670,7 +2723,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43247",
@@ -2722,7 +2776,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43238",
@@ -2750,7 +2805,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w2MDk0fGltYWdlL2pwZWd8YUdReUwyZ3lPQzh4TXpBNE9EYzVOelk0Tnpnek9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xmYzIwMTVhNGVmNmJmZTBiMTEwMDU4ZmU3MThiOTM0MjE0MjJjYzhhNTE2ZDY5MjVkNTI5OWUxM2YwZjEyMmE5",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3w5NTM1fGltYWdlL2pwZWd8YURkbUwyZ3lPUzh4TXpBNE9EYzVOell5TWpNd01pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJMU1EUXpORGt3WHpBeExtcHdad3xkYjYzOGM2NzQzNjcyOTc4YmRhNTk3ZThhYjRhMDJiZWJmYmQ4MGI1MzJlNDA1YzlmNGY0NDA4YmY0OGY0NzJj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-25043490-01.jpg?context=bWFzdGVyfGltYWdlc3wyMzY4NnxpbWFnZS9qcGVnfGFEa3hMMmd5WXk4eE16QTRPRGM1TnpVMU5qYzJOaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6STFNRFF6TkRrd1h6QXhMbXB3Wnd8MTFjZWYzMWFiMjI0NDkyNDFkZGY0Mjc5MDI1NzkxZWQzZjNjMzRkZmMyMGFkZmE2NTI5ZDcwY2EwZmNiM2RkNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "43254",
@@ -2974,7 +3030,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3w0NzU4fGltYWdlL2pwZWd8YURKa0wyZzVNUzh4TURNMk9EQXlOVEl6TVRNNU1DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNemd3WHpBeExtcHdad3xhZDM5MGZjNWUyYWZlMmRiZmFjODgzODlmMmM0MWZjYTNjZjI2YzA3YjYzODI0ZjhkZjVmYjYyMDQ0ZTBjNTZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODY4fGltYWdlL2pwZWd8YURObUwyZzVOQzh4TURNMk9EQXlOVEUyTlRnMU5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNemd3WHpBeExtcHdad3xmYmRiYWNmOThiMDBhMjg0ZGVmM2ZlNmY5NjE2YWJhZTU5YmZlZDI3Mjg4NTgyNGFiMmNmZjNhMGFiZDM2ODhk",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjA1M3xpbWFnZS9qcGVnfGFHVmpMMmc1TkM4eE1ETTJPREF5TlRFd01ETXhPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpnd1h6QXhMbXB3Wnd8YjhhZDQ1Yzc1MmIyMmU1NTM2YjU4NDVjYWNkMDJhMWUwN2E5ZWU3MWVkMzAwYzExZGYxNWNhOGRjMzJmYjhlOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6014",
@@ -3050,7 +3107,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013572-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDk4fGltYWdlL2pwZWd8YURNM0wyZzJOaTh4TXpjNE1ESTVPRFUyTXpZeE5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVGN5WHpBeExtcHdad3xjM2YyMGNhNmI4M2IyNGI3ZjkzOGY3NmUxZGZmOWJmNGUwOWU5YzRlNWJiYTI3MTA2MTE1NDEzOTVkNTNiZjMx",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013572-01.jpg?context=bWFzdGVyfGltYWdlc3w2ODc3fGltYWdlL2pwZWd8YURRNEwyZzJPUzh4TXpjNE1ESTVPRFE1T0RBM09DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVGN5WHpBeExtcHdad3wyYjE3Y2E4MDQ3YWZhOWJhYmZhZWYyNGNkNDA1ZmRhMzlmZjliNzFkODI5NDY4ODg4NTJiMGQxODVmYTk5MWIx",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013572-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTU4MXxpbWFnZS9qcGVnfGFHWTJMMmcyT1M4eE16YzRNREk1T0RRek1qVTBNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TlRjeVh6QXhMbXB3Wnd8MGU1YWY1MzA4MDJjNzg5NGRhMjcxMmU5YTY4NDViZTRkNTU5N2VjZDMzNTA3MDczMDY1NDhjOTIwNWQyYmQ2OQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5115",
@@ -3090,7 +3148,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3w0NzU4fGltYWdlL2pwZWd8YURKa0wyZzVNUzh4TURNMk9EQXlOVEl6TVRNNU1DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNemd3WHpBeExtcHdad3xhZDM5MGZjNWUyYWZlMmRiZmFjODgzODlmMmM0MWZjYTNjZjI2YzA3YjYzODI0ZjhkZjVmYjYyMDQ0ZTBjNTZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODY4fGltYWdlL2pwZWd8YURObUwyZzVOQzh4TURNMk9EQXlOVEUyTlRnMU5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNemd3WHpBeExtcHdad3xmYmRiYWNmOThiMDBhMjg0ZGVmM2ZlNmY5NjE2YWJhZTU5YmZlZDI3Mjg4NTgyNGFiMmNmZjNhMGFiZDM2ODhk",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjA1M3xpbWFnZS9qcGVnfGFHVmpMMmc1TkM4eE1ETTJPREF5TlRFd01ETXhPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpnd1h6QXhMbXB3Wnd8YjhhZDQ1Yzc1MmIyMmU1NTM2YjU4NDVjYWNkMDJhMWUwN2E5ZWU3MWVkMzAwYzExZGYxNWNhOGRjMzJmYjhlOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6018",
@@ -3110,7 +3169,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3w0NzU4fGltYWdlL2pwZWd8YURKa0wyZzVNUzh4TURNMk9EQXlOVEl6TVRNNU1DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNemd3WHpBeExtcHdad3xhZDM5MGZjNWUyYWZlMmRiZmFjODgzODlmMmM0MWZjYTNjZjI2YzA3YjYzODI0ZjhkZjVmYjYyMDQ0ZTBjNTZl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODY4fGltYWdlL2pwZWd8YURObUwyZzVOQzh4TURNMk9EQXlOVEUyTlRnMU5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNemd3WHpBeExtcHdad3xmYmRiYWNmOThiMDBhMjg0ZGVmM2ZlNmY5NjE2YWJhZTU5YmZlZDI3Mjg4NTgyNGFiMmNmZjNhMGFiZDM2ODhk",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013380-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjA1M3xpbWFnZS9qcGVnfGFHVmpMMmc1TkM4eE1ETTJPREF5TlRFd01ETXhPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpnd1h6QXhMbXB3Wnd8YjhhZDQ1Yzc1MmIyMmU1NTM2YjU4NDVjYWNkMDJhMWUwN2E5ZWU3MWVkMzAwYzExZGYxNWNhOGRjMzJmYjhlOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5110",
@@ -3130,7 +3190,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013572-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDk4fGltYWdlL2pwZWd8YURNM0wyZzJOaTh4TXpjNE1ESTVPRFUyTXpZeE5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVGN5WHpBeExtcHdad3xjM2YyMGNhNmI4M2IyNGI3ZjkzOGY3NmUxZGZmOWJmNGUwOWU5YzRlNWJiYTI3MTA2MTE1NDEzOTVkNTNiZjMx",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013572-01.jpg?context=bWFzdGVyfGltYWdlc3w2ODc3fGltYWdlL2pwZWd8YURRNEwyZzJPUzh4TXpjNE1ESTVPRFE1T0RBM09DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVGN5WHpBeExtcHdad3wyYjE3Y2E4MDQ3YWZhOWJhYmZhZWYyNGNkNDA1ZmRhMzlmZjliNzFkODI5NDY4ODg4NTJiMGQxODVmYTk5MWIx",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013572-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTU4MXxpbWFnZS9qcGVnfGFHWTJMMmcyT1M4eE16YzRNREk1T0RRek1qVTBNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TlRjeVh6QXhMbXB3Wnd8MGU1YWY1MzA4MDJjNzg5NGRhMjcxMmU5YTY4NDViZTRkNTU5N2VjZDMzNTA3MDczMDY1NDhjOTIwNWQyYmQ2OQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5111",
@@ -3174,7 +3235,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5187",
@@ -3218,7 +3280,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5486",
@@ -3238,7 +3301,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5202",
@@ -3258,7 +3322,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5200",
@@ -3278,7 +3343,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5195",
@@ -3322,7 +3388,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5192",
@@ -3370,7 +3437,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5191",
@@ -3398,7 +3466,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5199",
@@ -3418,7 +3487,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTg2fGltYWdlL2pwZWd8YURRM0wyZzVPUzh4TXpjNE1EUXdPRFF6TkRjeE9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xhMjA3Y2E4MWM3ZWIwMjJiNmNhMTEyZDU3NTA1MWY1YTFlNGFiYmZjM2JhNjkzNzJkN2M3MGY0ZTVkYjM1MGVk",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3w3MzU3fGltYWdlL2pwZWd8YURNMkwyZzVOaTh4TXpjNE1EUXdPRE0yT1RFNE1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNakl4WHpBeExtcHdad3xkN2JjMjc0ZGNkY2FlODYwMDg2OWI4NDA0N2YyNmY3YjJkMTM2YTBhZDI0ODc0YjIxNmEyNzIyNjRhYjgzM2Uz",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013221-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzExMHxpbWFnZS9qcGVnfGFEYzNMMmc1TWk4eE16YzRNRFF3T0RJek9ERXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TWpJeFh6QXhMbXB3Wnd8YTVjNTM5YjM0NjZmMTcyMmIwNTFmYWYxNDJjN2JlOTY2ZjAwYjFjMGYzZjQ4ODE0NTlhM2Y2ZmE2Y2NiNTEwYg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6345",
@@ -3598,7 +3668,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3wzMTYxfGltYWdlL2pwZWd8YUdRekwyaGxNaTh4TURjME56UXhORFV4TVRZME5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGMwWHpBeExtcHdad3wxZjY5YTFhMmQyYjZhMmM0NzQ5MTc5NWI4YTVmNTdiMDBhMWQyNGMzYjg5MTU4OWQ2MzcyNjcxNjViNDc4ZmMw",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3w2MjU3fGltYWdlL2pwZWd8YUdNeUwyaGtaaTh4TURjME56UXhORFEwTmpFeE1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGMwWHpBeExtcHdad3xmOTFhMGIwMTRhOGMxNzk3OTQxMzRmZjI1MWYzOTRhMDZlYTdhZTRmZGQ5OTZmM2Q1N2MwNjc4ZGJmYjJhMWVj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3wxODYyMHxpbWFnZS9qcGVnfGFHTTBMMmhrWXk4eE1EYzBOelF4TkRNNE1EVTNOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RjMFh6QXhMbXB3Wnd8NWYwYmQ0NTk1NzlhZDk5OWI1MmU5NjQ0MzllZDZmZjU3MzQzZjk3OWYxZmU2MWRjZTU1MmQ3NjBlZWY3YThjYQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "184",
@@ -3618,7 +3689,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3wzMTYxfGltYWdlL2pwZWd8YUdRekwyaGxNaTh4TURjME56UXhORFV4TVRZME5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGMwWHpBeExtcHdad3wxZjY5YTFhMmQyYjZhMmM0NzQ5MTc5NWI4YTVmNTdiMDBhMWQyNGMzYjg5MTU4OWQ2MzcyNjcxNjViNDc4ZmMw",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3w2MjU3fGltYWdlL2pwZWd8YUdNeUwyaGtaaTh4TURjME56UXhORFEwTmpFeE1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGMwWHpBeExtcHdad3xmOTFhMGIwMTRhOGMxNzk3OTQxMzRmZjI1MWYzOTRhMDZlYTdhZTRmZGQ5OTZmM2Q1N2MwNjc4ZGJmYjJhMWVj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3wxODYyMHxpbWFnZS9qcGVnfGFHTTBMMmhrWXk4eE1EYzBOelF4TkRNNE1EVTNOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RjMFh6QXhMbXB3Wnd8NWYwYmQ0NTk1NzlhZDk5OWI1MmU5NjQ0MzllZDZmZjU3MzQzZjk3OWYxZmU2MWRjZTU1MmQ3NjBlZWY3YThjYQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "183",
@@ -3638,7 +3710,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3wzMTYxfGltYWdlL2pwZWd8YUdRekwyaGxNaTh4TURjME56UXhORFV4TVRZME5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGMwWHpBeExtcHdad3wxZjY5YTFhMmQyYjZhMmM0NzQ5MTc5NWI4YTVmNTdiMDBhMWQyNGMzYjg5MTU4OWQ2MzcyNjcxNjViNDc4ZmMw",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3w2MjU3fGltYWdlL2pwZWd8YUdNeUwyaGtaaTh4TURjME56UXhORFEwTmpFeE1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGMwWHpBeExtcHdad3xmOTFhMGIwMTRhOGMxNzk3OTQxMzRmZjI1MWYzOTRhMDZlYTdhZTRmZGQ5OTZmM2Q1N2MwNjc4ZGJmYjJhMWVj",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013874-01.jpg?context=bWFzdGVyfGltYWdlc3wxODYyMHxpbWFnZS9qcGVnfGFHTTBMMmhrWXk4eE1EYzBOelF4TkRNNE1EVTNOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RjMFh6QXhMbXB3Wnd8NWYwYmQ0NTk1NzlhZDk5OWI1MmU5NjQ0MzllZDZmZjU3MzQzZjk3OWYxZmU2MWRjZTU1MmQ3NjBlZWY3YThjYQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "60053",
@@ -3698,7 +3771,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3w4OTU4fGltYWdlL2pwZWd8YURjd0wyZzVaQzh4TURNeU1qRTRNRGsyTkRNNE1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOREkxWHpBeExtcHdad3xkNDBjNTQxNGExYWFhOWIyNGQ5OGEyM2ExYzUxZjk5MDNiNjRkNjg3ZTRkOWVmODBmYTc5ODRkMzNhMDJhZmVi",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTI4MXxpbWFnZS9qcGVnfGFEZ3lMMmhoTUM4eE1ETXlNakU0TURnNU9EZzBOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJMVh6QXhMbXB3Wnd8OGQ4MzUzNzdjOWI2YzAwODNiMjVjNDExOWVkMDU4ZTMyZjBiMDYxOWM4ZDEyMzc4OGIzNzVkNWEyY2U3MTNmNg",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3w0Nzc2NnxpbWFnZS9qcGVnfGFETXdMMmhoTVM4eE1ETXlNakU0TURnek16TXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJMVh6QXhMbXB3Wnd8ZmFlZjgzNGRlNGRmNDczYWI5MzRjZDZjN2FiZTczZTE5MWU3MGNlNWJiOGU2NzBiMTlmNTAxNTdjMmVhNmI1Zg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "60054",
@@ -3726,7 +3800,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3w4OTU4fGltYWdlL2pwZWd8YURjd0wyZzVaQzh4TURNeU1qRTRNRGsyTkRNNE1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOREkxWHpBeExtcHdad3xkNDBjNTQxNGExYWFhOWIyNGQ5OGEyM2ExYzUxZjk5MDNiNjRkNjg3ZTRkOWVmODBmYTc5ODRkMzNhMDJhZmVi",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTI4MXxpbWFnZS9qcGVnfGFEZ3lMMmhoTUM4eE1ETXlNakU0TURnNU9EZzBOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJMVh6QXhMbXB3Wnd8OGQ4MzUzNzdjOWI2YzAwODNiMjVjNDExOWVkMDU4ZTMyZjBiMDYxOWM4ZDEyMzc4OGIzNzVkNWEyY2U3MTNmNg",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3w0Nzc2NnxpbWFnZS9qcGVnfGFETXdMMmhoTVM4eE1ETXlNakU0TURnek16TXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJMVh6QXhMbXB3Wnd8ZmFlZjgzNGRlNGRmNDczYWI5MzRjZDZjN2FiZTczZTE5MWU3MGNlNWJiOGU2NzBiMTlmNTAxNTdjMmVhNmI1Zg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6189",
@@ -3754,19 +3829,20 @@
       "precio": 65000,
       "pagina": 55,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=55",
-      "confianza": "alta",
-      "similitud": 1,
-      "sitioCodigo": "20013427",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013427/paleta-de-sombras-ultra-pigmentacion-larga-duracion-viva-el-color",
-      "descripcion": "<b>¿Qué es?</b><BR>Sombras de textura ultra suave en tonos intensos que dejarán que te expreses a todo color.<BR><BR>Colores intensos de larga duración, desde mates esenciales a metalizados de tendencia, para crear looks naturales o dramáticos con una sola paleta.",
-      "resumen": "Sombras ultra pigmentadas para tu look",
+      "confianza": "media",
+      "similitud": 0.58,
+      "sitioCodigo": "20013425",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013425/paleta-de-sombras-ultra-pigmentacion-larga-duracion-neutral-nudes",
+      "descripcion": "<b>¿Qué es?</b><BR>Una gran combinación de sombras de texturas suaves en distintos tonos y acabados, diseñada para un maquillaje sin límites. Colores intensos de larga duración, que van desde mates esenciales hasta metalizados de tendencia, para crear looks naturales o dramáticos con una sola paleta.",
+      "resumen": "Ultra pigmentación. Más duración. Súper adherencia.",
       "precioSitio": 65000,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013427-01.jpg?context=bWFzdGVyfGltYWdlc3w3NTQwfGltYWdlL2pwZWd8YURJMkwyZzJOUzh4TURNMU1qSTRORE16TmpFMU9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOREkzWHpBeExtcHdad3w0OTAxMTkyN2EzYjM4ZDUyNTk0NTdkYTExMDA0MTkyZGZkZWM0NTdlZGI2MTY3Yjc2NmU3ODBiNjI3NmY5MWIw",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013427-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjIxNHxpbWFnZS9qcGVnfGFESTFMMmcyT0M4eE1ETTFNakk0TkRJM01EWXlNaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJM1h6QXhMbXB3Wnd8YmZlMmY2Yzk4MzJiZDY1MGQ4YjcxMmNmNjE5YTU3ZDU1MTAzZWE4ZGE0Zjk4N2UwZDQzY2E0NWEwOTE0MGYzZg",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013427-01.jpg?context=bWFzdGVyfGltYWdlc3wzMTkyNXxpbWFnZS9qcGVnfGFHVTJMMmcyT0M4eE1ETTFNakk0TkRJd05UQTROaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJM1h6QXhMbXB3Wnd8NmFlNTVjNTEwYjQyNjFhOWNmM2EyYmRkNjhkNDk4NDJhZWRmZTcxNzE3NDU3Y2RjMmJkMmM5OGQ2YTViN2Y3NA"
-      }
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3w4OTU4fGltYWdlL2pwZWd8YURjd0wyZzVaQzh4TURNeU1qRTRNRGsyTkRNNE1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOREkxWHpBeExtcHdad3xkNDBjNTQxNGExYWFhOWIyNGQ5OGEyM2ExYzUxZjk5MDNiNjRkNjg3ZTRkOWVmODBmYTc5ODRkMzNhMDJhZmVi",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTI4MXxpbWFnZS9qcGVnfGFEZ3lMMmhoTUM4eE1ETXlNakU0TURnNU9EZzBOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJMVh6QXhMbXB3Wnd8OGQ4MzUzNzdjOWI2YzAwODNiMjVjNDExOWVkMDU4ZTMyZjBiMDYxOWM4ZDEyMzc4OGIzNzVkNWEyY2U3MTNmNg",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013425-01.jpg?context=bWFzdGVyfGltYWdlc3w0Nzc2NnxpbWFnZS9qcGVnfGFETXdMMmhoTVM4eE1ETXlNakU0TURnek16TXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TkRJMVh6QXhMbXB3Wnd8ZmFlZjgzNGRlNGRmNDczYWI5MzRjZDZjN2FiZTczZTE5MWU3MGNlNWJiOGU2NzBiMTlmNTAxNTdjMmVhNmI1Zg"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5488",
@@ -3774,7 +3850,19 @@
       "precio": 29500,
       "pagina": 56,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=56",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013658",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013658/delineador-punta-inteligente-negro",
+      "descripcion": "<b>¿Qué es?</b><BR>Delineador líquido con punta súper flexible que permite una fácil aplicación y control para hacer todo tipo de delineados.<BR>Es de color intenso, a prueba de agua, climas extremos, húmedos y tiene un increíble poder de permanencia.",
+      "resumen": "Punta Súper flexible. Ultra versátil. Extremadamente precisa.",
+      "precioSitio": 29500,
+      "disponible": "outOfStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013658-01.jpg?context=bWFzdGVyfGltYWdlc3wyMTgxfGltYWdlL2pwZWd8YURobEwyaGxPQzh4TURNNU5qTTRPVEUzT1RReU1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalU0WHpBeExtcHdad3xlMTE3ODk0ZWU3NTBmOTU5ZDIzYzFlZTZlZGI3M2VhNGE5YWUwZDQxOWE0OTVkYmJmZjQxYTQ1OWFjOWU2YmM4",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013658-01.jpg?context=bWFzdGVyfGltYWdlc3w0Mjg1fGltYWdlL2pwZWd8YUROakwyaGxPUzh4TURNNU5qTTRPVEV4TXpnNE5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalU0WHpBeExtcHdad3wxNjNiMGY1NDcxNWI4ZTNmNWU4YjgyYzgzODI1NTljMWNlNjMyNTVlZTlkM2FlOTc5NjY1MjgxYTBiNzBlMmVh",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013658-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjcyMXxpbWFnZS9qcGVnfGFEUmtMMmhsWXk4eE1ETTVOak00T1RBME9ETTFNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TmpVNFh6QXhMbXB3Wnd8NGU4ZTA4MWZjMGEzMWQ1OGZmMjFhNWQ1YmY4OGNlNjU1N2U2ZDg1Nzk4YmZmYTM3OTZjMDYxMzgwMzRiMTMwOA"
+      }
     },
     {
       "codigo": "5489",
@@ -3782,7 +3870,19 @@
       "precio": 29500,
       "pagina": 56,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=56",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013657",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013657/delineador-punta-inteligente-negro-mate",
+      "descripcion": "<b>¿Qué es?</b><BR>Delineador líquido con punta súper flexible que permite una fácil aplicación y control para hacer todo tipo de delineados.<BR>Es de color intenso, a prueba de agua, climas extremos, húmedos y tiene un increíble poder de permanencia.",
+      "resumen": "Punta Súper flexible. Ultra versátil. Extremadamente precisa.",
+      "precioSitio": 29500,
+      "disponible": "outOfStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013657-01.jpg?context=bWFzdGVyfGltYWdlc3w0NTE5fGltYWdlL2pwZWd8YUdJeEwyZzJZeTh4TURRNE16Y3dNall5T0RNNE1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalUzWHpBeExtcHdad3w2YWNkODRlMDYzNDYzODY3ZDFkYmM2NGY4OTA5MjQxZTRlNzdlZTdiNzVmYWRiNmIzOTRlNDZjN2U5ZTJjYmE4",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013657-01.jpg?context=bWFzdGVyfGltYWdlc3w5MjQyfGltYWdlL2pwZWd8YUdGbUwyZzJaaTh4TURRNE16Y3dNalUyTWpnME5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalUzWHpBeExtcHdad3xiZjE1ZWE4OGVjYmEwNTY3MmUxMjhjYjZmMDJhNGFhOTRiYWNhZTc4NzBiNjNhMTJlN2FkNGUzMzkwNzk1NGVj",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013657-01.jpg?context=bWFzdGVyfGltYWdlc3wyOTAyM3xpbWFnZS9qcGVnfGFHTXdMMmczTWk4eE1EUTRNemN3TWpRNU56TXhNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TmpVM1h6QXhMbXB3Wnd8N2I1ZWVjMjVkYzFiZDUxOWYxOGY2ZjA4MDY5Mjg3YmYxNDRhMzAxZTBmMTYyMTk3ZmM0YjRmOGM4OGE2ZGY1Nw"
+      }
     },
     {
       "codigo": "5491",
@@ -3810,7 +3910,19 @@
       "precio": 29500,
       "pagina": 56,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=56",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013659",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013659/delineador-punta-inteligente-marron",
+      "descripcion": "<b>¿Qué es?</b><BR>Delineador líquido con punta súper flexible que permite una fácil aplicación y control para hacer todo tipo de delineados.<BR>Es de color intenso, a prueba de agua, climas extremos, húmedos y tiene un increíble poder de permanencia.",
+      "resumen": "Punta Súper flexible. Ultra versátil. Extremadamente precisa.",
+      "precioSitio": 29500,
+      "disponible": "outOfStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013659-01.jpg?context=bWFzdGVyfGltYWdlc3w0NTg0fGltYWdlL2pwZWd8YURJeEwyZzJNaTh4TURRNE16Y3dNamsxTmpBMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalU1WHpBeExtcHdad3w5ZTYwMGM2ZjZkODdiNzM0ZmQ0NGIyNWQzMDdlODQ0MWYxNjc0Y2RjMGNlYTQxOTVlNjI5OTc2YTIyMmJlNDEz",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013659-01.jpg?context=bWFzdGVyfGltYWdlc3w5Mzk1fGltYWdlL2pwZWd8YURGbUwyZzJOUzh4TURRNE16Y3dNamc1TURVeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalU1WHpBeExtcHdad3w1NTYzODQzMzUzYmU2ZDc5YzJhNDgwNTkwYjBmZTYzYzRiYWQ3NDAxOGM2ZDE4ZTExOTNjZTJlYjY1YjIzYzIx",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013659-01.jpg?context=bWFzdGVyfGltYWdlc3wyOTM1OXxpbWFnZS9qcGVnfGFHVXhMMmcyTlM4eE1EUTRNemN3TWpneU5EazVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TmpVNVh6QXhMbXB3Wnd8ODhkNDk1MDg2MGNmYzU3N2Q1ODZiYzRiYzY0YWUwOTk2MjBlNzliMzIzOTQ1Zjk3MzQwZDNhMDM4NjU5Yjk2OA"
+      }
     },
     {
       "codigo": "5472",
@@ -3830,7 +3942,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w0NDcyfGltYWdlL2pwZWd8YUdSaEwyaG1ZaTh4TURRNU1UVTBNRE13TnprNU9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3wwYWMwYjEyYmFmOGYzYmE1MjQxMDgxY2RkNmQzZTEwZGVhNWNlY2U5YmQ4ZjFmZTM2ZWE0ZTEyZTNhZTlhN2Fm",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w1MzIwfGltYWdlL2pwZWd8YUdSa0wyaG1PQzh4TURRNU1UVTBNREkwTWpRMk1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w2YzQ2ZjNlMTY2N2Q5YjdkMjlhZjViMzA4MmUwMzY3ZmFlMDAyMjAyMzYyMGU3OGZiOGZiNDcwYmExNWM4ODY5",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w5NzcyfGltYWdlL2pwZWd8YUdOaUwyaG1OUzh4TURRNU1UVTBNREUzTmpreU5pODFNREJYZURVd01FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w4OTU0MjBmMjI2ZWNlOWI2ZmQ3YjMwZjhhZTkyZjA2ZGFlMWU5MmQ5NjFkYzk3YTdjOGQ3OWUxN2Q4OGVjMDA0"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6238",
@@ -3870,7 +3983,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w0NDcyfGltYWdlL2pwZWd8YUdSaEwyaG1ZaTh4TURRNU1UVTBNRE13TnprNU9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3wwYWMwYjEyYmFmOGYzYmE1MjQxMDgxY2RkNmQzZTEwZGVhNWNlY2U5YmQ4ZjFmZTM2ZWE0ZTEyZTNhZTlhN2Fm",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w1MzIwfGltYWdlL2pwZWd8YUdSa0wyaG1PQzh4TURRNU1UVTBNREkwTWpRMk1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w2YzQ2ZjNlMTY2N2Q5YjdkMjlhZjViMzA4MmUwMzY3ZmFlMDAyMjAyMzYyMGU3OGZiOGZiNDcwYmExNWM4ODY5",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w5NzcyfGltYWdlL2pwZWd8YUdOaUwyaG1OUzh4TURRNU1UVTBNREUzTmpreU5pODFNREJYZURVd01FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w4OTU0MjBmMjI2ZWNlOWI2ZmQ3YjMwZjhhZTkyZjA2ZGFlMWU5MmQ5NjFkYzk3YTdjOGQ3OWUxN2Q4OGVjMDA0"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5316",
@@ -3890,7 +4004,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w0NDcyfGltYWdlL2pwZWd8YUdSaEwyaG1ZaTh4TURRNU1UVTBNRE13TnprNU9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3wwYWMwYjEyYmFmOGYzYmE1MjQxMDgxY2RkNmQzZTEwZGVhNWNlY2U5YmQ4ZjFmZTM2ZWE0ZTEyZTNhZTlhN2Fm",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w1MzIwfGltYWdlL2pwZWd8YUdSa0wyaG1PQzh4TURRNU1UVTBNREkwTWpRMk1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w2YzQ2ZjNlMTY2N2Q5YjdkMjlhZjViMzA4MmUwMzY3ZmFlMDAyMjAyMzYyMGU3OGZiOGZiNDcwYmExNWM4ODY5",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w5NzcyfGltYWdlL2pwZWd8YUdOaUwyaG1OUzh4TURRNU1UVTBNREUzTmpreU5pODFNREJYZURVd01FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w4OTU0MjBmMjI2ZWNlOWI2ZmQ3YjMwZjhhZTkyZjA2ZGFlMWU5MmQ5NjFkYzk3YTdjOGQ3OWUxN2Q4OGVjMDA0"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5318",
@@ -3930,7 +4045,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w0NDcyfGltYWdlL2pwZWd8YUdSaEwyaG1ZaTh4TURRNU1UVTBNRE13TnprNU9DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3wwYWMwYjEyYmFmOGYzYmE1MjQxMDgxY2RkNmQzZTEwZGVhNWNlY2U5YmQ4ZjFmZTM2ZWE0ZTEyZTNhZTlhN2Fm",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w1MzIwfGltYWdlL2pwZWd8YUdSa0wyaG1PQzh4TURRNU1UVTBNREkwTWpRMk1pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w2YzQ2ZjNlMTY2N2Q5YjdkMjlhZjViMzA4MmUwMzY3ZmFlMDAyMjAyMzYyMGU3OGZiOGZiNDcwYmExNWM4ODY5",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013665-01.jpg?context=bWFzdGVyfGltYWdlc3w5NzcyfGltYWdlL2pwZWd8YUdOaUwyaG1OUzh4TURRNU1UVTBNREUzTmpreU5pODFNREJYZURVd01FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOalkxWHpBeExtcHdad3w4OTU0MjBmMjI2ZWNlOWI2ZmQ3YjMwZjhhZTkyZjA2ZGFlMWU5MmQ5NjFkYzk3YTdjOGQ3OWUxN2Q4OGVjMDA0"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5104",
@@ -4138,7 +4254,19 @@
       "precio": 31000,
       "pagina": 62,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=62",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013753",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013753/hydra-lip-labial-liquido-satinado-caramel-rose",
+      "descripcion": "<b>¿Qué es?</b><BR>Labial de máxima duración, con un fabuloso acabado satinado cremoso con brillo instantáneo, no transfer. La mezcla perfecta de hasta 16 horas de color y labios hidratados todo el día.",
+      "resumen": "Deslumbrante acabado satinado hasta por 16 horas",
+      "precioSitio": 31000,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013753-01.jpg?context=bWFzdGVyfGltYWdlc3w0ODU4fGltYWdlL2pwZWd8YURFekwyZzFZaTh4TVRRNU5UYzVNakExTURJd05pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOelV6WHpBeExtcHdad3w1ZDVmNTVmNjlhN2FmMDFjZjE5YjIwMzQzMGU0OTczOWExMGFjY2M1ZDhkNGJiMmU1NmNlYmVlNzA4NjZiYWYy",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013753-01.jpg?context=bWFzdGVyfGltYWdlc3w2NDEwfGltYWdlL2pwZWd8YUdRd0wyaGhOUzh4TVRRNU5UYzVNVGs0TkRZM01DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOelV6WHpBeExtcHdad3wyYTUyZjNiZDdhOWRhMWY0ODRkZWQ4NDA3MmIzZTFjNzJiNjc3MWFjYmM4ZTUwNGQ4YmJlMDk4MjA5YmE1NjUy",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013753-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDI3MHxpbWFnZS9qcGVnfGFEa3hMMmhoTmk4eE1UUTVOVGM1TVRreE9URXpOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TnpVelh6QXhMbXB3Wnd8Yzg0ZjI0ZThkZjE1ZTM5YzE1MTMyOTU0ZDJjNmQ2ODY4MjI5YmI0ODAxMzkzNjAxOGU4MjQwOThhNmNjMmExNQ"
+      }
     },
     {
       "codigo": "6283",
@@ -4218,7 +4346,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3w0NTk2fGltYWdlL2pwZWd8YURaakwyZzRNaTh4TVRBME9UazFNREl4TmpJeU1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOek00WHpBeExtcHdad3xjM2VjOGNkYWRiYjBjNTM4YzE3YTViYTkxYjg1YzdmNGUxM2E4NWUxZDhlYjBkNWZkNDJiNzU5NDM2ZDZkNzEx",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODkwfGltYWdlL2pwZWd8YURaaUwyZzROUzh4TVRBME9UazFNREUxTURZNE5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOek00WHpBeExtcHdad3wwYjQ3OTFlMWI1MTI1OWY3ZTYzZDJjMDYwNmZjOGFmNTI0OGZkZmE2OTBjMTViZTdjYzIwZTA3ZTdiNTQ5MDIw",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTE5NXxpbWFnZS9qcGVnfGFEZGlMMmc0T0M4eE1UQTBPVGsxTURBNE5URTFNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TnpNNFh6QXhMbXB3Wnd8MjMwNWUyNmEyMTIxMjc4MjRiOGRmNjBkNTYyN2UyNjBlYzVmMWRhOTEyYTJiZDE1ODhhOTIxNWQwMTc3NjBlYQ"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5044",
@@ -4306,19 +4435,20 @@
       "precio": 31000,
       "pagina": 63,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63",
-      "confianza": "media",
-      "similitud": 0.56,
-      "sitioCodigo": "20013759",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013759/hydra-lip-labial-liquido-satinado-rojo-pasion",
-      "descripcion": "<b>¿Qué es?</b><BR>Labial de máxima duración, con un fabuloso acabado satinado cremoso con brillo instantáneo, no transfer. La mezcla perfecta de hasta 16 horas de color y labios hidratados todo el día.",
-      "resumen": "Deslumbrante acabado satinado hasta por 16 horas",
+      "confianza": "alta",
+      "similitud": 0.63,
+      "sitioCodigo": "20013738",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013738/hydra-lip-labial-liquido-mate-capuccino",
+      "descripcion": "<b>¿Qué es?</b><BR>Un labial líquido mate súper ligero, que no deja tus labios secos ni cuarteados, todo gracias a su fórmula ultra hidratante. Su tinta líquida se imprime en tus labios con un color intenso que se mantiene intacto hasta por 12 horas. Además, después de secarse, no se transfiere!",
+      "resumen": "Acabado Mate Ultra Hidratante",
       "precioSitio": 31000,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013759-01.jpg?context=bWFzdGVyfGltYWdlc3w0OTM2fGltYWdlL2pwZWd8YUdFNUwyaGtOQzh4TVRRNU5UYzVNREUwT1RZMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOelU1WHpBeExtcHdad3xmZDk3ZmFkMjU0NmY3NjljY2Y5NTk1ZWM0MzQzOTMzY2VmYTA0M2RmNjljMzNmOWZlMzBhYzgwN2M3YTIxOTM4",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013759-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTAwfGltYWdlL2pwZWd8YUdGaUwyaGtNUzh4TVRRNU5UYzVNREE0TkRFeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOelU1WHpBeExtcHdad3w5ZmI3NjY4NmEyMmY5MTBkOWRmMzBhYjE0MmI2OTcwZDI2NmIzNzE2NzM1M2VkYjFiMTIzMTc3OWViZjQwNDdj",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013759-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDYxOXxpbWFnZS9qcGVnfGFHVTVMMmhrTUM4eE1UUTVOVGM1TURBeE9EVTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TnpVNVh6QXhMbXB3Wnd8ZmIwZmVjODEyYzVjNTI3MTYxYjIyZDEwODYxMzZkMmYwZTIxNmMwYTRkMzIzZDY5MTRiNTUzYjVhYTQxMDE1MQ"
-      }
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3w0NTk2fGltYWdlL2pwZWd8YURaakwyZzRNaTh4TVRBME9UazFNREl4TmpJeU1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOek00WHpBeExtcHdad3xjM2VjOGNkYWRiYjBjNTM4YzE3YTViYTkxYjg1YzdmNGUxM2E4NWUxZDhlYjBkNWZkNDJiNzU5NDM2ZDZkNzEx",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODkwfGltYWdlL2pwZWd8YURaaUwyZzROUzh4TVRBME9UazFNREUxTURZNE5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOek00WHpBeExtcHdad3wwYjQ3OTFlMWI1MTI1OWY3ZTYzZDJjMDYwNmZjOGFmNTI0OGZkZmE2OTBjMTViZTdjYzIwZTA3ZTdiNTQ5MDIw",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTE5NXxpbWFnZS9qcGVnfGFEZGlMMmc0T0M4eE1UQTBPVGsxTURBNE5URTFNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TnpNNFh6QXhMbXB3Wnd8MjMwNWUyNmEyMTIxMjc4MjRiOGRmNjBkNTYyN2UyNjBlYzVmMWRhOTEyYTJiZDE1ODhhOTIxNWQwMTc3NjBlYQ"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "4977",
@@ -4326,7 +4456,20 @@
       "precio": 31000,
       "pagina": 63,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=63",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 0.63,
+      "sitioCodigo": "20013738",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013738/hydra-lip-labial-liquido-mate-capuccino",
+      "descripcion": "<b>¿Qué es?</b><BR>Un labial líquido mate súper ligero, que no deja tus labios secos ni cuarteados, todo gracias a su fórmula ultra hidratante. Su tinta líquida se imprime en tus labios con un color intenso que se mantiene intacto hasta por 12 horas. Además, después de secarse, no se transfiere!",
+      "resumen": "Acabado Mate Ultra Hidratante",
+      "precioSitio": 31000,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3w0NTk2fGltYWdlL2pwZWd8YURaakwyZzRNaTh4TVRBME9UazFNREl4TmpJeU1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOek00WHpBeExtcHdad3xjM2VjOGNkYWRiYjBjNTM4YzE3YTViYTkxYjg1YzdmNGUxM2E4NWUxZDhlYjBkNWZkNDJiNzU5NDM2ZDZkNzEx",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODkwfGltYWdlL2pwZWd8YURaaUwyZzROUzh4TVRBME9UazFNREUxTURZNE5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOek00WHpBeExtcHdad3wwYjQ3OTFlMWI1MTI1OWY3ZTYzZDJjMDYwNmZjOGFmNTI0OGZkZmE2OTBjMTViZTdjYzIwZTA3ZTdiNTQ5MDIw",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013738-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTE5NXxpbWFnZS9qcGVnfGFEZGlMMmc0T0M4eE1UQTBPVGsxTURBNE5URTFNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TnpNNFh6QXhMbXB3Wnd8MjMwNWUyNmEyMTIxMjc4MjRiOGRmNjBkNTYyN2UyNjBlYzVmMWRhOTEyYTJiZDE1ODhhOTIxNWQwMTc3NjBlYQ"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "4896",
@@ -4426,7 +4569,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDI5fGltYWdlL2pwZWd8YUdFM0wyZ3lOUzh4TXpRd09UVTJNalU1TVRJMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wzNGFhYjVkMjk0ZWZjODNjZjUwZDQ3YTRmNjAyNjQxOTllYzJjOTUxZmMyYzEzYWI4ZDYyNDZhODE3MmMyNjlj",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTM2fGltYWdlL2pwZWd8YURZNEwyZ3lOaTh4TXpRd09UVTJNalV5TlRjeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wyZTE1MDM1Mjg0MTM3YjkyZTJjNDAxNzk4MDYzYWU1OGZlNDBiMGM3N2YyYjEzNDZiOGQ0OGE1ZjU3OWQ5MmI0",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjMzM3xpbWFnZS9qcGVnfGFEWTJMMmd5T1M4eE16UXdPVFUyTWpRMk1ERTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpRM1h6QXhMbXB3Wnd8NTNlZmNlMzUwNzRjZTNlMmRhNzQwMDFmZjFlZTUwYTQ2YzI5NzkxMzYxMThiZDZlOTVhYjdlYjE2MDg5NDliYw"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6309",
@@ -4435,18 +4579,19 @@
       "pagina": 64,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64",
       "confianza": "alta",
-      "similitud": 1,
-      "sitioCodigo": "20014257",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014257/hydra-lip-labial-intense-tint-infused-iconic-67",
+      "similitud": 0.67,
+      "sitioCodigo": "20014247",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014247/hydra-lip-labial-intense-tint-infused-ambre",
       "descripcion": "<b>¿Qué es?</b><BR>Labial que fusiona color intenso, hidratación y protección desde la primera pasada. Su fórmula Tint Infused aporta un color de larga duración que se adapta al pH de cada persona. Textura cremosa para una experiencia sensorial única.",
       "resumen": "El poder del color en tus labios completamente renovado.",
       "precioSitio": 28500,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014257-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDI4fGltYWdlL2pwZWd8YUdFM0wyaG1ZeTh4TXpRd09UVTJNRFE1TkRFeE1DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalUzWHpBeExtcHdad3wwNDUwMjU0NjRkYjc5YjBjN2QwMTJhODc0ZjAyNTUwNTk3YjIxZWNjYmVjNWZlZGMwMTFhMjIxYTc0ZDNiNDhi",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014257-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTY4fGltYWdlL2pwZWd8YURZNEwyaG1aQzh4TXpRd09UVTJNRFF5T0RVM05DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalUzWHpBeExtcHdad3wwNDQ5YTg3ODYwYTE3YjFjMTI1ZGUzNTg0NmNmZmM1ZDA3NzAwMjM3MmI1NmVjNzlkMDFhZWMzMzU4NmMxY2U4",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014257-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjQ2MnxpbWFnZS9qcGVnfGFEazVMMmhtWmk4eE16UXdPVFUyTURNMk16QXpPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpVM1h6QXhMbXB3Wnd8MDJjMDdiNDAwZjZjMGE1Njk5NjhiZWE2MjA3ZGQ5MGRmZWEyZjQ3MGE1NjFmYzMyNTRhM2E1YjQ5NTJkNjQ4Ng"
-      }
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDI5fGltYWdlL2pwZWd8YUdFM0wyZ3lOUzh4TXpRd09UVTJNalU1TVRJMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wzNGFhYjVkMjk0ZWZjODNjZjUwZDQ3YTRmNjAyNjQxOTllYzJjOTUxZmMyYzEzYWI4ZDYyNDZhODE3MmMyNjlj",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTM2fGltYWdlL2pwZWd8YURZNEwyZ3lOaTh4TXpRd09UVTJNalV5TlRjeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wyZTE1MDM1Mjg0MTM3YjkyZTJjNDAxNzk4MDYzYWU1OGZlNDBiMGM3N2YyYjEzNDZiOGQ0OGE1ZjU3OWQ5MmI0",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjMzM3xpbWFnZS9qcGVnfGFEWTJMMmd5T1M4eE16UXdPVFUyTWpRMk1ERTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpRM1h6QXhMbXB3Wnd8NTNlZmNlMzUwNzRjZTNlMmRhNzQwMDFmZjFlZTUwYTQ2YzI5NzkxMzYxMThiZDZlOTVhYjdlYjE2MDg5NDliYw"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5172",
@@ -4455,18 +4600,19 @@
       "pagina": 64,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64",
       "confianza": "alta",
-      "similitud": 1,
-      "sitioCodigo": "20014253",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014253/hydra-lip-labial-intense-tint-infused-chocolate",
+      "similitud": 0.75,
+      "sitioCodigo": "20014247",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014247/hydra-lip-labial-intense-tint-infused-ambre",
       "descripcion": "<b>¿Qué es?</b><BR>Labial que fusiona color intenso, hidratación y protección desde la primera pasada. Su fórmula Tint Infused aporta un color de larga duración que se adapta al pH de cada persona. Textura cremosa para una experiencia sensorial única.",
       "resumen": "El poder del color en tus labios completamente renovado.",
       "precioSitio": 28500,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014253-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDE4fGltYWdlL2pwZWd8YUdKa0wyZzJaQzh4TXpRd09UVTFPRGt5TVRJME5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalV6WHpBeExtcHdad3w0YmYxMWZiN2I3ZDg4MzdmZDg3NGE4MmE3MzhmMGE2OTQ4ZGNkYWRhYjIyZjY2MjUyYzg5YjJkM2I2Y2Y1NWVl",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014253-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTE4fGltYWdlL2pwZWd8YUdObEwyZzNNQzh4TXpRd09UVTFPRGcxTlRjeE1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalV6WHpBeExtcHdad3xlMTU5MzU0ODM5ZGVjYjA3MjY4NWViYWZjN2NmMmEyODhhN2IxNTUyNDJjYzdkMjg5OTU1ZWVmNmViYThjN2Ew",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014253-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjI1N3xpbWFnZS9qcGVnfGFHTmpMMmczTXk4eE16UXdPVFUxT0RjNU1ERTNOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpVelh6QXhMbXB3Wnd8ZjhjZTVkODlmYjViODk2MjM0NjNhYjgyYTQ0YTRmOGI1YTY0Yzg5MzhkZGNhN2MyMTE1ZDgxYzcxYjE2MTc4OQ"
-      }
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDI5fGltYWdlL2pwZWd8YUdFM0wyZ3lOUzh4TXpRd09UVTJNalU1TVRJMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wzNGFhYjVkMjk0ZWZjODNjZjUwZDQ3YTRmNjAyNjQxOTllYzJjOTUxZmMyYzEzYWI4ZDYyNDZhODE3MmMyNjlj",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTM2fGltYWdlL2pwZWd8YURZNEwyZ3lOaTh4TXpRd09UVTJNalV5TlRjeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wyZTE1MDM1Mjg0MTM3YjkyZTJjNDAxNzk4MDYzYWU1OGZlNDBiMGM3N2YyYjEzNDZiOGQ0OGE1ZjU3OWQ5MmI0",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjMzM3xpbWFnZS9qcGVnfGFEWTJMMmd5T1M4eE16UXdPVFUyTWpRMk1ERTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpRM1h6QXhMbXB3Wnd8NTNlZmNlMzUwNzRjZTNlMmRhNzQwMDFmZjFlZTUwYTQ2YzI5NzkxMzYxMThiZDZlOTVhYjdlYjE2MDg5NDliYw"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5173",
@@ -4474,7 +4620,20 @@
       "precio": 28500,
       "pagina": 64,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 0.6,
+      "sitioCodigo": "20014247",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014247/hydra-lip-labial-intense-tint-infused-ambre",
+      "descripcion": "<b>¿Qué es?</b><BR>Labial que fusiona color intenso, hidratación y protección desde la primera pasada. Su fórmula Tint Infused aporta un color de larga duración que se adapta al pH de cada persona. Textura cremosa para una experiencia sensorial única.",
+      "resumen": "El poder del color en tus labios completamente renovado.",
+      "precioSitio": 28500,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDI5fGltYWdlL2pwZWd8YUdFM0wyZ3lOUzh4TXpRd09UVTJNalU1TVRJMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wzNGFhYjVkMjk0ZWZjODNjZjUwZDQ3YTRmNjAyNjQxOTllYzJjOTUxZmMyYzEzYWI4ZDYyNDZhODE3MmMyNjlj",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTM2fGltYWdlL2pwZWd8YURZNEwyZ3lOaTh4TXpRd09UVTJNalV5TlRjeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wyZTE1MDM1Mjg0MTM3YjkyZTJjNDAxNzk4MDYzYWU1OGZlNDBiMGM3N2YyYjEzNDZiOGQ0OGE1ZjU3OWQ5MmI0",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjMzM3xpbWFnZS9qcGVnfGFEWTJMMmd5T1M4eE16UXdPVFUyTWpRMk1ERTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpRM1h6QXhMbXB3Wnd8NTNlZmNlMzUwNzRjZTNlMmRhNzQwMDFmZjFlZTUwYTQ2YzI5NzkxMzYxMThiZDZlOTVhYjdlYjE2MDg5NDliYw"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5164",
@@ -4523,18 +4682,19 @@
       "pagina": 64,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64",
       "confianza": "alta",
-      "similitud": 1,
-      "sitioCodigo": "20014252",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014252/hydra-lip-labial-intense-tint-infused-ultra-red",
+      "similitud": 0.67,
+      "sitioCodigo": "20014247",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014247/hydra-lip-labial-intense-tint-infused-ambre",
       "descripcion": "<b>¿Qué es?</b><BR>Labial que fusiona color intenso, hidratación y protección desde la primera pasada. Su fórmula Tint Infused aporta un color de larga duración que se adapta al pH de cada persona. Textura cremosa para una experiencia sensorial única.",
       "resumen": "El poder del color en tus labios completamente renovado.",
       "precioSitio": 28500,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014252-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDU2fGltYWdlL2pwZWd8YURjeEwyZ3pOQzh4TXpRNU5qVTJOVEkyT0RVeE1DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalV5WHpBeExtcHdad3xkNmY3NTZhN2JjNWQ4NDcyZTFiOGRkYzZiNTA0Nzk0ZjNkMzMzYWRhM2E0ZDBlZjliNTdlOThmY2ZlN2YyZGJk",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014252-01.jpg?context=bWFzdGVyfGltYWdlc3w2NjE1fGltYWdlL2pwZWd8YURNd0wyZ3pPQzh4TXpRNU5qVTJOVEV6TnpRek9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalV5WHpBeExtcHdad3xiNzRjNGEwNzlhMDgzYTBlOGNmN2ZlYThlNTk2ZjllMjg0YmZlYzU2YmUwYmIzZjQwNWE4MTM5YWQzMjlmZTM0",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014252-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjQ5MHxpbWFnZS9qcGVnfGFESmxMMmd6WWk4eE16UTVOalUyTlRBM01Ua3dNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpVeVh6QXhMbXB3Wnd8MDIxMmM2NGE0NjlmN2RkMDU0MTFhMjZlYTM1YjU0NDEyZTAzYWU1MjBkYTgyZmEyYjU5MDIxYjNiYjdkZDFlMw"
-      }
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDI5fGltYWdlL2pwZWd8YUdFM0wyZ3lOUzh4TXpRd09UVTJNalU1TVRJMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wzNGFhYjVkMjk0ZWZjODNjZjUwZDQ3YTRmNjAyNjQxOTllYzJjOTUxZmMyYzEzYWI4ZDYyNDZhODE3MmMyNjlj",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTM2fGltYWdlL2pwZWd8YURZNEwyZ3lOaTh4TXpRd09UVTJNalV5TlRjeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wyZTE1MDM1Mjg0MTM3YjkyZTJjNDAxNzk4MDYzYWU1OGZlNDBiMGM3N2YyYjEzNDZiOGQ0OGE1ZjU3OWQ5MmI0",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjMzM3xpbWFnZS9qcGVnfGFEWTJMMmd5T1M4eE16UXdPVFUyTWpRMk1ERTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpRM1h6QXhMbXB3Wnd8NTNlZmNlMzUwNzRjZTNlMmRhNzQwMDFmZjFlZTUwYTQ2YzI5NzkxMzYxMThiZDZlOTVhYjdlYjE2MDg5NDliYw"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5167",
@@ -4563,18 +4723,19 @@
       "pagina": 64,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=64",
       "confianza": "alta",
-      "similitud": 1,
-      "sitioCodigo": "20014250",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014250/hydra-lip-labial-intense-tint-infused-creme-nude",
+      "similitud": 0.67,
+      "sitioCodigo": "20014247",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014247/hydra-lip-labial-intense-tint-infused-ambre",
       "descripcion": "<b>¿Qué es?</b><BR>Labial que fusiona color intenso, hidratación y protección desde la primera pasada. Su fórmula Tint Infused aporta un color de larga duración que se adapta al pH de cada persona. Textura cremosa para una experiencia sensorial única.",
       "resumen": "El poder del color en tus labios completamente renovado.",
       "precioSitio": 28500,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014250-01.jpg?context=bWFzdGVyfGltYWdlc3w0OTk3fGltYWdlL2pwZWd8YUdNM0wyaGhPUzh4TXpRd09UVTJORFF5TmpJM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalV3WHpBeExtcHdad3wyMTEwMjk4NWYzYzQ4MDY4ODExYjEwZDM4ZmIxYTNhYzM1NmQxY2NkMDI4MDczZjI1NDk3ZDNkMWI2MWRiM2Fm",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014250-01.jpg?context=bWFzdGVyfGltYWdlc3w2NDk4fGltYWdlL2pwZWd8YUdNNEwyaGhOaTh4TXpRd09UVTJORE0yTURjek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalV3WHpBeExtcHdad3wzMDNiMjkzMmE5MjUxYjkyY2JiOTU2MGUyYmM4YTY4MjYzMzdhOGQ0MDFkMmMzNDZlNjZmNzMzYjEwOTkxMmQy",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014250-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjIxM3xpbWFnZS9qcGVnfGFHSTRMMmhoTXk4eE16UXdPVFUyTkRJNU5URTVPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpVd1h6QXhMbXB3Wnd8N2E0MWJjYjJiZDY3MjIzYjQ4N2RkMjFmNGZhMDMzNjczNzZiODc1NWE0NDlkYjRkMTBiNGEyOGY5ZDE0NTc4Zg"
-      }
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDI5fGltYWdlL2pwZWd8YUdFM0wyZ3lOUzh4TXpRd09UVTJNalU1TVRJMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wzNGFhYjVkMjk0ZWZjODNjZjUwZDQ3YTRmNjAyNjQxOTllYzJjOTUxZmMyYzEzYWI4ZDYyNDZhODE3MmMyNjlj",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTM2fGltYWdlL2pwZWd8YURZNEwyZ3lOaTh4TXpRd09UVTJNalV5TlRjeU5pOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNalEzWHpBeExtcHdad3wyZTE1MDM1Mjg0MTM3YjkyZTJjNDAxNzk4MDYzYWU1OGZlNDBiMGM3N2YyYjEzNDZiOGQ0OGE1ZjU3OWQ5MmI0",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014247-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjMzM3xpbWFnZS9qcGVnfGFEWTJMMmd5T1M4eE16UXdPVFUyTWpRMk1ERTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTWpRM1h6QXhMbXB3Wnd8NTNlZmNlMzUwNzRjZTNlMmRhNzQwMDFmZjFlZTUwYTQ2YzI5NzkxMzYxMThiZDZlOTVhYjdlYjE2MDg5NDliYw"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6257",
@@ -4710,7 +4871,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzU4M3xpbWFnZS9qcGVnfGFEZzBMMmcxWkM4eE1UTXlNVEkzTURVNU9UY3hNQzh4TkRWWGVERTBOVWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8NjkyZTNhNGY1YWE3MDFhNzg4NzhmZmE2YmFiOWIxODgwMzQ4ZTc4MTg2ZmFjYjc3YTUwODk1M2NhYWVhNzMzMg",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3wyMTg3NHxpbWFnZS9qcGVnfGFETXlMMmcxWlM4eE1UTXlNVEkzTURVek5ERTNOQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8MjcyODgyYmQ4ZDhhMjY0NDNkMTliM2E0M2Q0ZjMzMzM4ODc1NjliNzJkNjc5NmZhZjFiNzQ0ZWYzMzJjZGUxOA",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3w0MjE2NnxpbWFnZS9qcGVnfGFEUXpMMmcyTVM4eE1UTXlNVEkzTURRMk9EWXpPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8NGI0ZjdkMmJhNWQ4NmZjNzkwZDc0MGVlYmIxNTc1M2QwZDkwYWM4YzZiZTUxMDQ3NDk2MTJkOTg5ZjEzYzllOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6390",
@@ -4770,7 +4932,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzU4M3xpbWFnZS9qcGVnfGFEZzBMMmcxWkM4eE1UTXlNVEkzTURVNU9UY3hNQzh4TkRWWGVERTBOVWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8NjkyZTNhNGY1YWE3MDFhNzg4NzhmZmE2YmFiOWIxODgwMzQ4ZTc4MTg2ZmFjYjc3YTUwODk1M2NhYWVhNzMzMg",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3wyMTg3NHxpbWFnZS9qcGVnfGFETXlMMmcxWlM4eE1UTXlNVEkzTURVek5ERTNOQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8MjcyODgyYmQ4ZDhhMjY0NDNkMTliM2E0M2Q0ZjMzMzM4ODc1NjliNzJkNjc5NmZhZjFiNzQ0ZWYzMzJjZGUxOA",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3w0MjE2NnxpbWFnZS9qcGVnfGFEUXpMMmcyTVM4eE1UTXlNVEkzTURRMk9EWXpPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8NGI0ZjdkMmJhNWQ4NmZjNzkwZDc0MGVlYmIxNTc1M2QwZDkwYWM4YzZiZTUxMDQ3NDk2MTJkOTg5ZjEzYzllOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6389",
@@ -4830,7 +4993,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzU4M3xpbWFnZS9qcGVnfGFEZzBMMmcxWkM4eE1UTXlNVEkzTURVNU9UY3hNQzh4TkRWWGVERTBOVWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8NjkyZTNhNGY1YWE3MDFhNzg4NzhmZmE2YmFiOWIxODgwMzQ4ZTc4MTg2ZmFjYjc3YTUwODk1M2NhYWVhNzMzMg",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3wyMTg3NHxpbWFnZS9qcGVnfGFETXlMMmcxWlM4eE1UTXlNVEkzTURVek5ERTNOQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8MjcyODgyYmQ4ZDhhMjY0NDNkMTliM2E0M2Q0ZjMzMzM4ODc1NjliNzJkNjc5NmZhZjFiNzQ0ZWYzMzJjZGUxOA",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014005-01.jpg?context=bWFzdGVyfGltYWdlc3w0MjE2NnxpbWFnZS9qcGVnfGFEUXpMMmcyTVM4eE1UTXlNVEkzTURRMk9EWXpPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTURBMVh6QXhMbXB3Wnd8NGI0ZjdkMmJhNWQ4NmZjNzkwZDc0MGVlYmIxNTc1M2QwZDkwYWM4YzZiZTUxMDQ3NDk2MTJkOTg5ZjEzYzllOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5208",
@@ -4898,7 +5062,19 @@
       "precio": 19500,
       "pagina": 67,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013869",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013869/brillo-secante-y-protector-de-esmalte",
+      "descripcion": "<b>¿Qué es?</b>      <BR>              <BR>Brillo secante y protector de esmalte, ideal para lograr un acabado radiante al instante, acelera el secado y protege el color para que dure por más tiempo.",
+      "resumen": "El acabado ideal para una manicure profesional",
+      "precioSitio": 19500,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013869-01.jpg?context=bWFzdGVyfGltYWdlc3wxODU2NXxpbWFnZS9qcGVnfGFHUXhMMmhtWmk4eE1EVXlPVFk1TkRBeU16Y3hNQzh4TkRWWGVERTBOVWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RZNVh6QXhMbXB3Wnd8Yjk0ZmM4N2UwZGU3NGY2ODk0NjRlYzc3ZTczYjcxZWQ5YTI0ZGRiZGExMWUzZTJmMGU1NmJmM2Q5NmQxM2IwZg",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013869-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDUzNXxpbWFnZS9qcGVnfGFERTFMMmhpTlM4eE1EVXlPVFk1TXprMU9ERTNOQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RZNVh6QXhMbXB3Wnd8YTE4ODBlYWZhNTk2YTVjM2UxODllZTkyNTEyMTY0OWFjYzFiMmY2ZjJlZDEwYTdjNmJiNGUzNWQyNmRhOTA3OQ",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013869-01.jpg?context=bWFzdGVyfGltYWdlc3wyODQyMnxpbWFnZS9qcGVnfGFERTNMMmhpTWk4eE1EVXlPVFk1TXpnNU1qWXpPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RZNVh6QXhMbXB3Wnd8ZTIzZDJkYzI1YmYxMTQzMWU3NzFiMTU1NDkwZmI3OGQ3MzA4ZGJmYWViZTgyOTJiNWUxNDhmZjczYTg5NzUzMA"
+      }
     },
     {
       "codigo": "4601",
@@ -4938,7 +5114,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w1NDc0fGltYWdlL2pwZWd8YURnMEwyZ3dPUzh4TURRM05qSTNNakU0T1RRM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3xiYzU4YjEwMGZmZmRjNTA3MTM2MDRjOGU0MjMzMjRmMjU5MDFiNDczZTZjNTkzN2JkODRjMjU2MTFmZGUyMzMz",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODExfGltYWdlL2pwZWd8YURNeUwyZ3dZUzh4TURRM05qSTNNakV5TXprek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3wzNGQzY2ExY2QxOWIxOWE1ZDliN2UzZTE5YTdhOTYzOWIyN2JiZTIyOGVhNmFjMWIwN2M0NmQyOWNjNDg1ZDY2",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzI3OXxpbWFnZS9qcGVnfGFEUXpMMmd3WkM4eE1EUTNOakkzTWpBMU9ETTVPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RVd1h6QXhMbXB3Wnd8ODZlNWQzNTYzZjBiYWVlZWZhOGVhOWI2MWU5OGQ1ODExYzU4ZTg3MmRmZjFkZmNiZjBjNzExNmU1ODg0OTBiOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6340",
@@ -4958,7 +5135,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w1NDc0fGltYWdlL2pwZWd8YURnMEwyZ3dPUzh4TURRM05qSTNNakU0T1RRM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3xiYzU4YjEwMGZmZmRjNTA3MTM2MDRjOGU0MjMzMjRmMjU5MDFiNDczZTZjNTkzN2JkODRjMjU2MTFmZGUyMzMz",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODExfGltYWdlL2pwZWd8YURNeUwyZ3dZUzh4TURRM05qSTNNakV5TXprek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3wzNGQzY2ExY2QxOWIxOWE1ZDliN2UzZTE5YTdhOTYzOWIyN2JiZTIyOGVhNmFjMWIwN2M0NmQyOWNjNDg1ZDY2",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzI3OXxpbWFnZS9qcGVnfGFEUXpMMmd3WkM4eE1EUTNOakkzTWpBMU9ETTVPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RVd1h6QXhMbXB3Wnd8ODZlNWQzNTYzZjBiYWVlZWZhOGVhOWI2MWU5OGQ1ODExYzU4ZTg3MmRmZjFkZmNiZjBjNzExNmU1ODg0OTBiOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6421",
@@ -5018,7 +5196,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w1NDc0fGltYWdlL2pwZWd8YURnMEwyZ3dPUzh4TURRM05qSTNNakU0T1RRM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3xiYzU4YjEwMGZmZmRjNTA3MTM2MDRjOGU0MjMzMjRmMjU5MDFiNDczZTZjNTkzN2JkODRjMjU2MTFmZGUyMzMz",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODExfGltYWdlL2pwZWd8YURNeUwyZ3dZUzh4TURRM05qSTNNakV5TXprek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3wzNGQzY2ExY2QxOWIxOWE1ZDliN2UzZTE5YTdhOTYzOWIyN2JiZTIyOGVhNmFjMWIwN2M0NmQyOWNjNDg1ZDY2",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzI3OXxpbWFnZS9qcGVnfGFEUXpMMmd3WkM4eE1EUTNOakkzTWpBMU9ETTVPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RVd1h6QXhMbXB3Wnd8ODZlNWQzNTYzZjBiYWVlZWZhOGVhOWI2MWU5OGQ1ODExYzU4ZTg3MmRmZjFkZmNiZjBjNzExNmU1ODg0OTBiOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "6195",
@@ -5078,7 +5257,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w1NDc0fGltYWdlL2pwZWd8YURnMEwyZ3dPUzh4TURRM05qSTNNakU0T1RRM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3xiYzU4YjEwMGZmZmRjNTA3MTM2MDRjOGU0MjMzMjRmMjU5MDFiNDczZTZjNTkzN2JkODRjMjU2MTFmZGUyMzMz",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODExfGltYWdlL2pwZWd8YURNeUwyZ3dZUzh4TURRM05qSTNNakV5TXprek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3wzNGQzY2ExY2QxOWIxOWE1ZDliN2UzZTE5YTdhOTYzOWIyN2JiZTIyOGVhNmFjMWIwN2M0NmQyOWNjNDg1ZDY2",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzI3OXxpbWFnZS9qcGVnfGFEUXpMMmd3WkM4eE1EUTNOakkzTWpBMU9ETTVPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RVd1h6QXhMbXB3Wnd8ODZlNWQzNTYzZjBiYWVlZWZhOGVhOWI2MWU5OGQ1ODExYzU4ZTg3MmRmZjFkZmNiZjBjNzExNmU1ODg0OTBiOA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5054",
@@ -5146,18 +5326,18 @@
       "precio": 19500,
       "pagina": 67,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67",
-      "confianza": "media",
-      "similitud": 0.43,
-      "sitioCodigo": "20013850",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013850/esmalte-de-unas-pasion",
-      "descripcion": "<b>¿Qué es?</b> <BR> Una nueva generación de esmaltes con una fórmula totalmente renovada que además de color, cuenta con mayor tecnología para prolongar la duración y el cuidado de las uñas.",
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013868",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013868/esmalte-de-unas-te-quiero-rosa",
+      "descripcion": "<b>¿Qué es?</b> <BR>Una nueva generación de esmaltes con una fórmula totalmente renovada que además de color, cuenta con mayor tecnología para prolongar la duración y el cuidado de las uñas.",
       "resumen": "Nuevas fórmulas para uñas perfectas y protegidas",
       "precioSitio": 19500,
-      "disponible": "inStock",
+      "disponible": "outOfStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w1NDc0fGltYWdlL2pwZWd8YURnMEwyZ3dPUzh4TURRM05qSTNNakU0T1RRM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3xiYzU4YjEwMGZmZmRjNTA3MTM2MDRjOGU0MjMzMjRmMjU5MDFiNDczZTZjNTkzN2JkODRjMjU2MTFmZGUyMzMz",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODExfGltYWdlL2pwZWd8YURNeUwyZ3dZUzh4TURRM05qSTNNakV5TXprek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3wzNGQzY2ExY2QxOWIxOWE1ZDliN2UzZTE5YTdhOTYzOWIyN2JiZTIyOGVhNmFjMWIwN2M0NmQyOWNjNDg1ZDY2",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzI3OXxpbWFnZS9qcGVnfGFEUXpMMmd3WkM4eE1EUTNOakkzTWpBMU9ETTVPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RVd1h6QXhMbXB3Wnd8ODZlNWQzNTYzZjBiYWVlZWZhOGVhOWI2MWU5OGQ1ODExYzU4ZTg3MmRmZjFkZmNiZjBjNzExNmU1ODg0OTBiOA"
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013868-01.jpg?context=bWFzdGVyfGltYWdlc3w1MDY5fGltYWdlL2pwZWd8YURBM0wyaGhPUzh4TURRM05qSTFPVGs1T1RjM05DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFk0WHpBeExtcHdad3w2ZjQ4YmE4NTU0MDJkNDM2NmI5Mzk4ZDViMjljMmFhOTYwYzZhZGQ2ZTljYzVmMjAyYWI3MzI0ODdhZmU1MzQ0",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013868-01.jpg?context=bWFzdGVyfGltYWdlc3w3MDIyfGltYWdlL2pwZWd8YUdJMUwyaGhPUzh4TURRM05qSTFPVGt6TkRJek9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFk0WHpBeExtcHdad3xiODE1MjEwZjBiNzVhZjY3NzJhZDcwNTk5NzcwMzI4NDhjMGRhNDRkZmFiOTk4NDY1OGNkZjQxYjBlNTY2ZDc0",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013868-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTEyN3xpbWFnZS9qcGVnfGFHTTNMMmhoWXk4eE1EUTNOakkxT1RnMk9EY3dNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RZNFh6QXhMbXB3Wnd8OGI0YWMzMjhmNzcwM2EzODgyNmE3OTIyN2ZhMDc0YzA5MGI5N2JjODc2NWU3MTE2YTkxZjBlNWI3NTAyNTQ2ZQ"
       }
     },
     {
@@ -5206,18 +5386,18 @@
       "precio": 19500,
       "pagina": 67,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=67",
-      "confianza": "media",
-      "similitud": 0.5,
-      "sitioCodigo": "20013850",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013850/esmalte-de-unas-pasion",
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013862",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013862/esmalte-de-unas-cisne-negro",
       "descripcion": "<b>¿Qué es?</b> <BR> Una nueva generación de esmaltes con una fórmula totalmente renovada que además de color, cuenta con mayor tecnología para prolongar la duración y el cuidado de las uñas.",
       "resumen": "Nuevas fórmulas para uñas perfectas y protegidas",
       "precioSitio": 19500,
       "disponible": "inStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w1NDc0fGltYWdlL2pwZWd8YURnMEwyZ3dPUzh4TURRM05qSTNNakU0T1RRM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3xiYzU4YjEwMGZmZmRjNTA3MTM2MDRjOGU0MjMzMjRmMjU5MDFiNDczZTZjNTkzN2JkODRjMjU2MTFmZGUyMzMz",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODExfGltYWdlL2pwZWd8YURNeUwyZ3dZUzh4TURRM05qSTNNakV5TXprek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFV3WHpBeExtcHdad3wzNGQzY2ExY2QxOWIxOWE1ZDliN2UzZTE5YTdhOTYzOWIyN2JiZTIyOGVhNmFjMWIwN2M0NmQyOWNjNDg1ZDY2",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013850-01.jpg?context=bWFzdGVyfGltYWdlc3wxNzI3OXxpbWFnZS9qcGVnfGFEUXpMMmd3WkM4eE1EUTNOakkzTWpBMU9ETTVPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RVd1h6QXhMbXB3Wnd8ODZlNWQzNTYzZjBiYWVlZWZhOGVhOWI2MWU5OGQ1ODExYzU4ZTg3MmRmZjFkZmNiZjBjNzExNmU1ODg0OTBiOA"
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013862-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTAxfGltYWdlL2pwZWd8YURNeUwyZzJNaTh4TURRM05qSTFOVFF4TWpJMU5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFl5WHpBeExtcHdad3xjYjI3MjBlZjIyY2I5ZmQ1N2U2MWY5N2NiOTQwN2YxNGM1ZWM5NWIyMWI1ODJhNDdiNzU4MTU0NDk1ODFiZDYw",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013862-01.jpg?context=bWFzdGVyfGltYWdlc3w3MDAyfGltYWdlL2pwZWd8YURRekwyZzJOUzh4TURRM05qSTFOVE0wTmpjeE9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRFl5WHpBeExtcHdad3wzNzA0MzhmMGY0ZGQ3NTA4NTQyMGY3OGQxOTU0YWU0YzNiMTdjZWIwYWNhODA0ZjUxMjRjOGNjNzgxMjA4ODJk",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013862-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDY5M3xpbWFnZS9qcGVnfGFEUXhMMmcyT0M4eE1EUTNOakkxTlRJNE1URTRNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RZeVh6QXhMbXB3Wnd8ZGE5Zjg3OWMxNjYyOTk3ZDNlZTI0NTJhMGNkMWIyMzFlNmEzYTUzMzg1OGQ4ODNmMWUzOTcxYzljYTZhMDhlMw"
       }
     },
     {
@@ -5550,7 +5730,20 @@
       "precio": 27500,
       "pagina": 70,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70",
-      "confianza": null
+      "confianza": "media",
+      "similitud": 0.43,
+      "sitioCodigo": "20013985",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013985/ya%21-labial-multibeneficios-beso-merlot",
+      "descripcion": "<b>¿Qué es?</b><BR><BR>¡Labial con el color en el corazón!<BR>Un 3 en 1 que lo tiene todo: color brillante, hidratación profunda y protección solar. Ideal para lograr labios más vibrantes, con efecto relleno y con apariencia saludable.",
+      "resumen": "¡Una cápsula de brillo y color!",
+      "precioSitio": 27500,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013985-01.jpg?context=bWFzdGVyfGltYWdlc3w0NjExfGltYWdlL2pwZWd8YUdVeUwyZzRNeTh4TVRFek9ETTFOemt4T1RjM05DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGcxWHpBeExtcHdad3w3MWQ5OTU2MzU0MDA4NjQyYTkyZDkzY2Y0MDJiZTkxNmRmY2JmODViODQ2N2Q5OGMwZjA0NjJjMGZjYmE4ZDVl",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013985-01.jpg?context=bWFzdGVyfGltYWdlc3w1NzA3fGltYWdlL2pwZWd8YUdVMUwyZzRNQzh4TVRFek9ETTFOemcxTkRJek9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGcxWHpBeExtcHdad3wxNTU2N2Q4MzUyODhhMzdjYmM0MjliZWM0NGY5MTA0NWQzOWRkMjJjMzY0MGNlYjc0ZGMyN2EyMjVhZmMyOWU4",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013985-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDI0MXxpbWFnZS9qcGVnfGFHUXpMMmczWkM4eE1URXpPRE0xTnpjNE9EY3dNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T1RnMVh6QXhMbXB3Wnd8YTUwN2RhYTI4NGQ4ODBiNDU5M2I3NGFjNDU3MmE4MDIxY2VlNjlkMDYxMzY0NjVmOTYwMmNkNDcxNGY4MzFhMw"
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5459",
@@ -5590,7 +5783,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013985-01.jpg?context=bWFzdGVyfGltYWdlc3w0NjExfGltYWdlL2pwZWd8YUdVeUwyZzRNeTh4TVRFek9ETTFOemt4T1RjM05DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGcxWHpBeExtcHdad3w3MWQ5OTU2MzU0MDA4NjQyYTkyZDkzY2Y0MDJiZTkxNmRmY2JmODViODQ2N2Q5OGMwZjA0NjJjMGZjYmE4ZDVl",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013985-01.jpg?context=bWFzdGVyfGltYWdlc3w1NzA3fGltYWdlL2pwZWd8YUdVMUwyZzRNQzh4TVRFek9ETTFOemcxTkRJek9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGcxWHpBeExtcHdad3wxNTU2N2Q4MzUyODhhMzdjYmM0MjliZWM0NGY5MTA0NWQzOWRkMjJjMzY0MGNlYjc0ZGMyN2EyMjVhZmMyOWU4",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013985-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDI0MXxpbWFnZS9qcGVnfGFHUXpMMmczWkM4eE1URXpPRE0xTnpjNE9EY3dNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T1RnMVh6QXhMbXB3Wnd8YTUwN2RhYTI4NGQ4ODBiNDU5M2I3NGFjNDU3MmE4MDIxY2VlNjlkMDYxMzY0NjVmOTYwMmNkNDcxNGY4MzFhMw"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "5464",
@@ -5658,7 +5852,19 @@
       "precio": 27500,
       "pagina": 70,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013988",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013988/ya%21-labial-multibeneficios-core-rose",
+      "descripcion": "<b>¿Qué es?</b><BR><BR>¡Labial con el color en el corazón!<BR>Un 3 en 1 que lo tiene todo: color brillante, hidratación profunda y protección solar. Ideal para lograr labios más vibrantes, con efecto relleno y con apariencia saludable.",
+      "resumen": "¡Una cápsula de brillo y color!",
+      "precioSitio": 27500,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013988-01.jpg?context=bWFzdGVyfGltYWdlc3w0NjIwfGltYWdlL2pwZWd8YUdKakwyZ3daaTh4TVRFek9ETTFOall3T1RBMU5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGc0WHpBeExtcHdad3xkZTdiYWJhM2ZiZGU0ZTgwYTkwMjYyYzU4M2RiNzcwN2RmZGVmZjIxYWE2OTQxN2FkZWRlN2MwMmE3OTUwZmVj",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013988-01.jpg?context=bWFzdGVyfGltYWdlc3w1NzI5fGltYWdlL2pwZWd8YUdKbEwyZ3dZeTh4TVRFek9ETTFOalUwTXpVeE9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGc0WHpBeExtcHdad3w0ODFmNDVlNjgwZDMzMjk3NzU1NDI0MDQ2ZGM2YTM1M2YzNWE2ZWE1NmYyMDkxMTliMTNhOTEwZGJjNDcyMWMy",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013988-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDMxMXxpbWFnZS9qcGVnfGFHRmtMMmd3T1M4eE1URXpPRE0xTmpRM056azRNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T1RnNFh6QXhMbXB3Wnd8Y2ViYTFlZjIxNzQ1NzI2MTQ2ODE1ZDczY2Q5ZTQyM2IyZjg0MTlkNGViY2JiOTVlMzZhYTE0Mjg0YzI0YjU4Yg"
+      }
     },
     {
       "codigo": "5461",
@@ -5706,7 +5912,19 @@
       "precio": 27500,
       "pagina": 70,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=70",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013989",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013989/ya%21-labial-multibeneficios-latido-fucsia",
+      "descripcion": "<b>¿Qué es?</b><BR><BR>¡Labial con el color en el corazón!<BR>Un 3 en 1 que lo tiene todo: color brillante, hidratación profunda y protección solar. Ideal para lograr labios más vibrantes, con efecto relleno y con apariencia saludable.",
+      "resumen": "¡Una cápsula de brillo y color!",
+      "precioSitio": 27500,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013989-01.jpg?context=bWFzdGVyfGltYWdlc3w0NjM2fGltYWdlL2pwZWd8YURSaEwyZzBaaTh4TVRFek9ETTFOVGsxTXpZNU5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGc1WHpBeExtcHdad3w2MGNlNzY4ZDI3NmE0ODAzYzdiNzI4Y2ZlZGVmN2RiNTQ5NTU0NjRlNWZiZTgxODdlZGRiYTUxYjc3NzU1YjY3",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013989-01.jpg?context=bWFzdGVyfGltYWdlc3w1Nzc1fGltYWdlL2pwZWd8YURWaUwyZzFNaTh4TVRFek9ETTFOVGc0T0RFMU9DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPVGc1WHpBeExtcHdad3xhN2MzMjA3YTU1MWUxNTk4Mjk5NTk4MjM4YmQxM2UyM2FkOWU2M2VlOGRhNjA2NDQzNDMzYjY2ZmFiODgwYjdj",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013989-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDM1MnxpbWFnZS9qcGVnfGFEQTVMMmcxTXk4eE1URXpPRE0xTlRneU1qWXlNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T1RnNVh6QXhMbXB3Wnd8Yzc0MDA2OTYyNzQ3ODY3ZTQ0MjkyOTRlMTcyODAwOTY5OWJiYjI5M2E2ZDllOGM4MTUwZmMzNTBiMzYxMThjYQ"
+      }
     },
     {
       "codigo": "5440",
@@ -6017,7 +6235,7 @@
       "descripcion": "<b>¿Qué es?</b> <BR>Un suero altamente concentrado de potente acción antimanchas, que actúa minimizando la hiperpigmentación de la piel, aclara manchas, homogeniza e ilumina el tono de la piel y ofrece protección contra los daños de la luz azul. Eficacia clínicamente probada bajo control dermatológico.",
       "resumen": "La solución definitiva que te da poder sobre las manchas",
       "precioSitio": 105000,
-      "disponible": "inStock",
+      "disponible": "outOfStock",
       "imagenes": {
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013710-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTk5fGltYWdlL2pwZWd8YURjNEwyZ3lZUzh4TURRMk5UZ3pNRFkyTmpJM01DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOekV3WHpBeExtcHdad3wwNzUwNTMyOGRkNjQ3NThhMzJkNDM3MTUxZWY5Y2RjZDUzZWRiZjVlOTY1ODgyOTRhNzgyZjYzMmQ2MmYzMjk0",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013710-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTQxfGltYWdlL2pwZWd8YURJMkwyZ3lZaTh4TURRMk5UZ3pNRFl3TURjek5DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOekV3WHpBeExtcHdad3w1YjQzNTMwZmQ5MDg4M2MwYjJiZGJiM2MwYzBhNDY3OWU0OWZkMmEwM2VlNWRiYmZiM2VjOTZlY2U5MDg4MDdj",
@@ -6538,7 +6756,19 @@
       "precio": 29000,
       "pagina": 89,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=89",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20014325",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20014325/totalist%2B-gel-multiaccion-control-brillo",
+      "descripcion": "<b>¿Qué es?</b><BR>Fórmula especialmente creada con el poder del aloe vera, niacinamida y polvo de arroz combinada con la mejor tecnología para brindar una piel libre de brillo e hidratada, ayudando a reducir la apariencia de poros visibles y otras imperfecciones.",
+      "resumen": "Gel facial multiacción control grasa",
+      "precioSitio": 29000,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20014325-01.jpg?context=bWFzdGVyfGltYWdlc3w3NjYzfGltYWdlL2pwZWd8YURNMkwyaGtaaTh4TkRJME5EUXlORFU0TVRFMU1DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERTBNekkxWHpBeExtcHdad3w3MTI4NTYzM2E4ZWYyYjAyNmY1NTIwMjI0Y2RiZWRkOWM5MjY5ZTZmMzk2OGIwNmEzOWJlYzVkODI0MjZjOTA0",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20014325-01.jpg?context=bWFzdGVyfGltYWdlc3wxMjAwM3xpbWFnZS9qcGVnfGFHWTNMMmhrWmk4eE5ESTBORFF5TkRVeE5UWXhOQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTXpJMVh6QXhMbXB3Wnd8ZDJmMjAzYWQ0ZDg4YzcyZDJlYmFhY2NkMmU5ZDhiNjkwZmViYWNlZWY0ZTg0NWVjNjlmOWM0NDQxY2ZhMWMxYQ",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20014325-01.jpg?context=bWFzdGVyfGltYWdlc3wzNDQ5NnxpbWFnZS9qcGVnfGFHWTFMMmhsTWk4eE5ESTBORFF5TkRRMU1EQTNPQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREUwTXpJMVh6QXhMbXB3Wnd8MmYwMDc1ZjE3NTM3YTk3OGJlODMwNWE4N2FiMzI0OGU0YTVlMjEzMjhlMTFiZjVmN2E2NGM1MWFiNzBiOGI1NQ"
+      }
     },
     {
       "codigo": "331",
@@ -6674,7 +6904,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013521-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODg4fGltYWdlL2pwZWd8YURVekwyZzFaUzh4TWpNME5UazRNelk1TmpreU5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVEl4WHpBeExtcHdad3wwYzI1MzFiOWJkNzNlMWQ4MTk3ZDRlMWNkYWQ5MzQ0MTY3YWQ1NzRiZWU1ZTg1Y2I4N2U0NjM2ZjAzMzllMWM4",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013521-01.jpg?context=bWFzdGVyfGltYWdlc3w4NjkyfGltYWdlL2pwZWd8YURBeEwyZzFaaTh4TWpNME5UazRNell6TVRNNU1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVEl4WHpBeExtcHdad3w1NThhODBmOWY5OGRkMTQ0NGY5ZTZhZGJkMjQ0MmVhMTkyOGUwMTE2ZGM5YjQwODllYzY4N2I3ZGQ2ZDlhN2Fh",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013521-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDA4NnxpbWFnZS9qcGVnfGFERXlMMmcyTWk4eE1qTTBOVGs0TXpVMk5UZzFOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TlRJeFh6QXhMbXB3Wnd8MTY4YzcxZDJiZjg5NTdiNWY5NDE4NTMzMjliZWZkYTk2ZWZkNzMwNWYyYjY3NDFiZmQ4ZTk5MzE4YTA4ODQ1ZA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "694",
@@ -6694,7 +6925,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013521-01.jpg?context=bWFzdGVyfGltYWdlc3w1ODg4fGltYWdlL2pwZWd8YURVekwyZzFaUzh4TWpNME5UazRNelk1TmpreU5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVEl4WHpBeExtcHdad3wwYzI1MzFiOWJkNzNlMWQ4MTk3ZDRlMWNkYWQ5MzQ0MTY3YWQ1NzRiZWU1ZTg1Y2I4N2U0NjM2ZjAzMzllMWM4",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013521-01.jpg?context=bWFzdGVyfGltYWdlc3w4NjkyfGltYWdlL2pwZWd8YURBeEwyZzFaaTh4TWpNME5UazRNell6TVRNNU1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpOVEl4WHpBeExtcHdad3w1NThhODBmOWY5OGRkMTQ0NGY5ZTZhZGJkMjQ0MmVhMTkyOGUwMTE2ZGM5YjQwODllYzY4N2I3ZGQ2ZDlhN2Fh",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013521-01.jpg?context=bWFzdGVyfGltYWdlc3wyMDA4NnxpbWFnZS9qcGVnfGFERXlMMmcyTWk4eE1qTTBOVGs0TXpVMk5UZzFOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TlRJeFh6QXhMbXB3Wnd8MTY4YzcxZDJiZjg5NTdiNWY5NDE4NTMzMjliZWZkYTk2ZWZkNzMwNWYyYjY3NDFiZmQ4ZTk5MzE4YTA4ODQ1ZA"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "711",
@@ -6774,7 +7006,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODAxfGltYWdlL2pwZWd8YUdabUwyZ3dPQzh4TkRFeU9ERXhOREUzTVRrek5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNRE0yWHpBeExtcHdad3w0MTZmMGFkOTRlMTZmNzQ2ODA5MjcyZGM0ZDc3MWE4MjM2Y2YwMWVlNjJiODc3ZThlZTY5N2E0YzQ2YzQxMTcy",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzU2OXxpbWFnZS9qcGVnfGFETmxMMmd3T0M4eE5ERXlPREV4TkRFd05qTTVPQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjE2ZWM2MTFmYThhZTVkMmFlNzVmOWVkYmMyYjRhMzA3N2NkZjY1ODg0YTgzYWRiMjE4ZGQ1YjE4NTk5NmI0NA",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w0MTAwNXxpbWFnZS9qcGVnfGFEUXdMMmd3TlM4eE5ERXlPREV4TkRBME1EZzJNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjRjMzQzNjlkNmY0NTdiMDRkNmNhYjkwMzdjYTMwYTQ4NTAxODEyMGZhNWU1YmFjNmVmZmNiYmMyZjMyNTNhMw"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "677",
@@ -6783,17 +7016,17 @@
       "pagina": 97,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=97",
       "confianza": "alta",
-      "similitud": 0.64,
-      "sitioCodigo": "20013036",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013036/locion-de-seda-rosa-y-musk-crema-iluminadora-perfumada",
-      "descripcion": "<b>¿Qué es?</B> <BR>Crema hidratante que ilumina tu piel con un glow irresistible y la deja perfumada con un delicioso aroma a rosa y musk. Cada aroma es ideal para un momento del día. Brilla y disfruta de tus momentos de seda.",
+      "similitud": 1,
+      "sitioCodigo": "20013186",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013186/locion-de-seda-magnolia-y-vainilla-crema-iluminadora-perfumada",
+      "descripcion": "<b>¿Qué es?</B> <BR>Una crema hidratante con textura suave y sedosa, y un acabado perlado que le dará un brillo especial a tu piel. Un aroma  delicioso a Magnolia y vainilla perfecto para tardes románticas llenas de sensualidad.",
       "resumen": "Brillar te queda bien",
       "precioSitio": 38500,
-      "disponible": "inStock",
+      "disponible": "outOfStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODAxfGltYWdlL2pwZWd8YUdabUwyZ3dPQzh4TkRFeU9ERXhOREUzTVRrek5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNRE0yWHpBeExtcHdad3w0MTZmMGFkOTRlMTZmNzQ2ODA5MjcyZGM0ZDc3MWE4MjM2Y2YwMWVlNjJiODc3ZThlZTY5N2E0YzQ2YzQxMTcy",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzU2OXxpbWFnZS9qcGVnfGFETmxMMmd3T0M4eE5ERXlPREV4TkRFd05qTTVPQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjE2ZWM2MTFmYThhZTVkMmFlNzVmOWVkYmMyYjRhMzA3N2NkZjY1ODg0YTgzYWRiMjE4ZGQ1YjE4NTk5NmI0NA",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w0MTAwNXxpbWFnZS9qcGVnfGFEUXdMMmd3TlM4eE5ERXlPREV4TkRBME1EZzJNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjRjMzQzNjlkNmY0NTdiMDRkNmNhYjkwMzdjYTMwYTQ4NTAxODEyMGZhNWU1YmFjNmVmZmNiYmMyZjMyNTNhMw"
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013186-01.jpg?context=bWFzdGVyfGltYWdlc3w4MDY0fGltYWdlL2pwZWd8YUdReEwyaGlNaTh4TkRFeU9ERXhNamcyTVRJeE5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNVGcyWHpBeExtcHdad3wzNTYzNDNhZmFjNDI2ZDY0NDFhNGYyMDg5M2ZiNGIzODdjZDFlMGIzZTdkMGE0NDQ0YTA4YzU2MzI2MThlYTgw",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013186-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzY3NXxpbWFnZS9qcGVnfGFHVXpMMmhpTlM4eE5ERXlPREV4TWpjNU5UWTNPQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TVRnMlh6QXhMbXB3Wnd8ZWNhMjdjOGVmZTEwNjE4MWVlZjQ4YTFjODc0NDZlYWQ3NzU5MTYzYjljMmU1MzZhODdhZGJiZDIyZGIxNmQ1ZQ",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013186-01.jpg?context=bWFzdGVyfGltYWdlc3w0MDkzM3xpbWFnZS9qcGVnfGFEa3hMMmhpTmk4eE5ERXlPREV4TWpjek1ERTBNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TVRnMlh6QXhMbXB3Wnd8ODNjOTg3OTU3M2I2ZmUwZmI5Zjc0OGU2Mzk2MzlmYzYzNWQ1Yjg2OTRhMDQyNzBlMTkwZDc5YjY1YzM2NjhjOA"
       }
     },
     {
@@ -6814,7 +7047,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODAxfGltYWdlL2pwZWd8YUdabUwyZ3dPQzh4TkRFeU9ERXhOREUzTVRrek5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNRE0yWHpBeExtcHdad3w0MTZmMGFkOTRlMTZmNzQ2ODA5MjcyZGM0ZDc3MWE4MjM2Y2YwMWVlNjJiODc3ZThlZTY5N2E0YzQ2YzQxMTcy",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzU2OXxpbWFnZS9qcGVnfGFETmxMMmd3T0M4eE5ERXlPREV4TkRFd05qTTVPQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjE2ZWM2MTFmYThhZTVkMmFlNzVmOWVkYmMyYjRhMzA3N2NkZjY1ODg0YTgzYWRiMjE4ZGQ1YjE4NTk5NmI0NA",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w0MTAwNXxpbWFnZS9qcGVnfGFEUXdMMmd3TlM4eE5ERXlPREV4TkRBME1EZzJNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjRjMzQzNjlkNmY0NTdiMDRkNmNhYjkwMzdjYTMwYTQ4NTAxODEyMGZhNWU1YmFjNmVmZmNiYmMyZjMyNTNhMw"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "676",
@@ -6823,17 +7057,17 @@
       "pagina": 97,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=97",
       "confianza": "alta",
-      "similitud": 0.64,
-      "sitioCodigo": "20013036",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013036/locion-de-seda-rosa-y-musk-crema-iluminadora-perfumada",
-      "descripcion": "<b>¿Qué es?</B> <BR>Crema hidratante que ilumina tu piel con un glow irresistible y la deja perfumada con un delicioso aroma a rosa y musk. Cada aroma es ideal para un momento del día. Brilla y disfruta de tus momentos de seda.",
+      "similitud": 1,
+      "sitioCodigo": "20013185",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013185/locion-de-seda-lima-y-jazmin-crema-iluminadora-perfumada",
+      "descripcion": "<b>¿Qué es?</B> <BR>Una loción de sensación súper suave, sedosa e hidratante pensada para ese momento del día en el que está soleado ya que ilumina tu piel con un glow irresistible y la deja perfumada con un delicioso aroma a lima y jazmín.",
       "resumen": "Brillar te queda bien",
       "precioSitio": 38500,
-      "disponible": "inStock",
+      "disponible": "outOfStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODAxfGltYWdlL2pwZWd8YUdabUwyZ3dPQzh4TkRFeU9ERXhOREUzTVRrek5DOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNRE0yWHpBeExtcHdad3w0MTZmMGFkOTRlMTZmNzQ2ODA5MjcyZGM0ZDc3MWE4MjM2Y2YwMWVlNjJiODc3ZThlZTY5N2E0YzQ2YzQxMTcy",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3wxMzU2OXxpbWFnZS9qcGVnfGFETmxMMmd3T0M4eE5ERXlPREV4TkRFd05qTTVPQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjE2ZWM2MTFmYThhZTVkMmFlNzVmOWVkYmMyYjRhMzA3N2NkZjY1ODg0YTgzYWRiMjE4ZGQ1YjE4NTk5NmI0NA",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013036-01.jpg?context=bWFzdGVyfGltYWdlc3w0MTAwNXxpbWFnZS9qcGVnfGFEUXdMMmd3TlM4eE5ERXlPREV4TkRBME1EZzJNaTgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TURNMlh6QXhMbXB3Wnd8NjRjMzQzNjlkNmY0NTdiMDRkNmNhYjkwMzdjYTMwYTQ4NTAxODEyMGZhNWU1YmFjNmVmZmNiYmMyZjMyNTNhMw"
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013185-01.jpg?context=bWFzdGVyfGltYWdlc3w4MDc5fGltYWdlL2pwZWd8YUdNeEwyaGpaUzh4TkRFeU9ERXhNakF3T1RJME5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNVGcxWHpBeExtcHdad3w3ODEwMDRmMWYwZGI0ZmVhMTEwNzgxNjMzYjdlOWRlY2JiNTUzMTQ4N2M2OTcwNDg1MTM2MWNlNTUzMWI1ZjNl",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013185-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDA4MXxpbWFnZS9qcGVnfGFEazBMMmhsTmk4eE5ERXlPREV4TVRrME16Y3hNQzh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TVRnMVh6QXhMbXB3Wnd8ZmU1YTRkZTg2OWY5YWQ2NGYxMjZmYmFhMDk0YmRlY2Y3MzEwM2Y1ZDM3YWY4ZDA1ZDY1MDQ4MmE2MWIzNGRlYg",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013185-01.jpg?context=bWFzdGVyfGltYWdlc3w0MjAwMHxpbWFnZS9qcGVnfGFEZzBMMmhsTXk4eE5ERXlPREV4TVRnM09ERTNOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TVRnMVh6QXhMbXB3Wnd8OGQyNjg2M2I3ODI0N2JjNWRlNGI5NjVhYzlmMjNmYWM1MWRiMTk1OWY3MjEwOTFiMTMwZDEyYmMwYzVkNDEwYw"
       }
     },
     {
@@ -6922,7 +7156,19 @@
       "precio": 71500,
       "pagina": 100,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=100",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "14700077",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/14700077/set-biomilk-mora-arandanos%3A-crema-corporal-%2B-jabon-en-barra",
+      "descripcion": ".",
+      "resumen": "",
+      "precioSitio": 71500,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-14700077-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3wyNzAyfGltYWdlL2pwZWd8YUdabUwyaGxNaTh4TVRFMU56RTBOVEkxTlRrMk5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpFME56QXdNRGMzWDJWelgwTlBYekF4TG1wd1p3fDE2NmU1ZTZmMTdkN2MzMTEyNzA2MGZkYWZiMzU2OTUyOGRmZDI3ZTczNjdiZDZkMzYxMWVkN2JkN2U2ODc2YWE",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-14700077-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3w1MTUxfGltYWdlL2pwZWd8YURBeEwyaGxNQzh4TVRFMU56RTBOVEU1TURRek1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpFME56QXdNRGMzWDJWelgwTlBYekF4TG1wd1p3fGM2MGNjMjE3Y2FiOGFmZDFhZmFkZThmMGI0ZGEzMjJmMzZkZjQwMzlkOWY2ZDk1OWE1NGNiZTFiZGY4ODUwMjU",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-14700077-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3wxNTE2M3xpbWFnZS9qcGVnfGFETm1MMmhrWmk4eE1URTFOekUwTlRFeU5EZzVOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6RTBOekF3TURjM1gyVnpYME5QWHpBeExtcHdad3xiNDQyNDFlYjEwN2M4YjI5MzQ3MGIxNjhiZmJkNDdlYWE4ZDk2MmFiMjk3ZWRiYjI3NzJkYjUyMzg4Yjk4NDk2"
+      }
     },
     {
       "codigo": "79833",
@@ -6930,7 +7176,19 @@
       "precio": 71500,
       "pagina": 100,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=100",
-      "confianza": null
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "14700078",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/14700078/set-biomilk-original%3A-crema-corporal-%2B-jabon-en-barra",
+      "descripcion": ".",
+      "resumen": "",
+      "precioSitio": 71500,
+      "disponible": "inStock",
+      "imagenes": {
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-14700078-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3wyNDc1fGltYWdlL2pwZWd8YURobEwyaGxaQzh4TVRFMU56RTBOVFU0TXpZME5pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpFME56QXdNRGM0WDJWelgwTlBYekF4TG1wd1p3fGQ1MDM4ZDhkOTlkYzU3NGJjMDhhYjFjZDZmN2RlNTExMjk0YTkxMmMzYjlhMzdkYTMxMTM4ZTQwODJkYjk3NmU",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-14700078-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3w0ODI1fGltYWdlL2pwZWd8YUdOa0wyaGxZeTh4TVRFMU56RTBOVFV4T0RFeE1DOHlOREJYZURJME1FaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpFME56QXdNRGM0WDJWelgwTlBYekF4TG1wd1p3fDVmMDlmODUxNDFmOTFiNTFiNWE5MWRiNjFiYzhlOGRlYTBhZGQ0NjkyZGMxZGYxM2ViMzg1MTJmZTMzMzY2NDY",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-14700078-es-CO-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDI2M3xpbWFnZS9qcGVnfGFHTm1MMmhsT1M4eE1URTFOekUwTlRRMU1qVTNOQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6RTBOekF3TURjNFgyVnpYME5QWHpBeExtcHdad3w5NjU5NTJiNGE4OTY0YTk0NjdmOGExODE3MjM0MDA4MWUzM2Q2MGIwNzlhNWQ0OTI4Y2I4MDAyMGQ0NTJjYjFj"
+      }
     },
     {
       "codigo": "722",
@@ -7010,18 +7268,18 @@
       "precio": 30500,
       "pagina": 104,
       "paginaUrl": "https://docs.yanbal.com/cdigital/co/2026/c9/oficial/?page=104",
-      "confianza": "media",
-      "similitud": 0.43,
-      "sitioCodigo": "20013895",
-      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013895/gel-fijador-de-rizos-blum",
-      "descripcion": "Descubre el secreto para presumir tus rizos con Blum!<BR><BR><BR><BR>Gel ligero formulado para moldear y fijar los rizos, mantenerlos controlados y libres de frizz hasta por 24 horas* dejándolos flexibles y con un aspecto natural.  Estilo a prueba de humedad y calor para mxima duración. Su fórmula está enriquecida Rizoplex y aceites de jojoba, ricino y girasol. No reseca, ni deja residuos pegajosos.",
+      "confianza": "alta",
+      "similitud": 1,
+      "sitioCodigo": "20013894",
+      "sitioUrl": "https://www.yanbal.com/co/corporate/p/20013894/crema-moldeadora-de-rizos-blum",
+      "descripcion": "Descubre el secreto para presumir tus rizos con Blum!<BR>Crema ultraligera que desenreda, nutre y activa los rizos mejorando su definicin, dejndolos con movimiento natural, ms brillantes y con frizz controlado hasta por 24 horas*.  Enriquecida Rizoplex y aceites de jojoba, ricino y girasol.  Textura ultraligera, no grasosa ni pegajosa y un aroma delicioso.",
       "resumen": "Vas a querer presumirlos",
       "precioSitio": 30500,
-      "disponible": "inStock",
+      "disponible": "outOfStock",
       "imagenes": {
-        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013895-01.jpg?context=bWFzdGVyfGltYWdlc3w4OTcyfGltYWdlL2pwZWd8YURkbEwyaGhaaTh4TURVMU5qazJOalEyT1RZMk1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGsxWHpBeExtcHdad3xmNjdhNmRlMGJhYjZmMWY4YjVhMTg2ZTUxODVjM2E1NzNlMzY1NGUzNGIxNzIwNGEyN2JhODU2OTZlMDJmM2Ri",
-        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013895-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDg4OHxpbWFnZS9qcGVnfGFHUXdMMmhoWlM4eE1EVTFOamsyTmpRd05ERXlOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RrMVh6QXhMbXB3Wnd8ZmVhNDFiMjNmOGM3Nzg5YzU1MTM2NDg0ZDg2NzFmMDNhY2IwNmNlODhiZjVhZGNhNDNjMzFmM2U3MjQyNGRlOQ",
-        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013895-01.jpg?context=bWFzdGVyfGltYWdlc3wzOTI3MnxpbWFnZS9qcGVnfGFHSm1MMmhoWWk4eE1EVTFOamsyTmpNek9EVTVNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RrMVh6QXhMbXB3Wnd8YWEzYTA4MTE2Y2JhNjc4M2Y0ZTEzMmUxMGJmMDUyZDY1ZmI4MGIyMWU3MDhmZWFlYzFjMjg0OGFkMmFjZmZjYw"
+        "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013894-01.jpg?context=bWFzdGVyfGltYWdlc3w4ODI1fGltYWdlL2pwZWd8YURBeEwyaGhOUzh4TURVMU5qazJOakUwTVRrNE1pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpPRGswWHpBeExtcHdad3w1ZDNiMDYxNGQ5MTE4Yzk3YTczOGFkMDhjMWI4YTVhMjk3MzM1ZTA5NThmNzk4MDY3NDA4Zjg5Nzk4NDRmMWJk",
+        "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013894-01.jpg?context=bWFzdGVyfGltYWdlc3wxNDQ0OXxpbWFnZS9qcGVnfGFHWXhMMmhoTVM4eE1EVTFOamsyTmpBM05qUTBOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RrMFh6QXhMbXB3Wnd8ZmU4NjIyMDQyYmQ4NjM1OTRjY2IzNzBiYzUzM2ZiMDE0NzFiMDJmOTI1ZWI0ZWZkNTJiY2MxODgzNjc1ZGVmNA",
+        "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013894-01.jpg?context=bWFzdGVyfGltYWdlc3wzNzQ2MXxpbWFnZS9qcGVnfGFEUXlMMmhoTVM4eE1EVTFOamsyTmpBeE1Ea3hNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6T0RrMFh6QXhMbXB3Wnd8NWM5MjNjMTBiNDJhYjhiZDViMTlhZGU5ZTdhNmY3MzExNmRlYzU3MDQ1OGNhYjk0MmVjYWZmZTY4MjcyZjU0Mw"
       }
     },
     {
@@ -7102,7 +7360,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTg1fGltYWdlL2pwZWd8YURaa0wyaGhNQzh4TVRnek5UVXpORFkzTVRrd01pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNekUwWHpBeExtcHdad3xkZGU2ZDY2NWE5ZGIwMWZlODY5NTUzY2ZiOTQ3YTJiYmYwYzE0YTVlNGI2ZjNjYmIxYjMxMjFhZGVlZGRmYTIy",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDQyNHxpbWFnZS9qcGVnfGFHRmpMMmc1Wmk4eE1UZ3pOVFV6TkRZd05qTTJOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpFMFh6QXhMbXB3Wnd8OTk2ZjBhNzZjZTgyZjcxYzY0YTM5YmQ1OTc4NzA5ZGE2MWVmMDE4M2I0YzM1YTk5NzAzN2FiYTQxY2FiOGJlZQ",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3wyNjI3NHxpbWFnZS9qcGVnfGFHRmxMMmc1WXk4eE1UZ3pOVFV6TkRVME1EZ3pNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpFMFh6QXhMbXB3Wnd8OWJhNjU2MTkxMzAxZjRkN2MzNzU0ZTljZWNjYThjNTQxYWZjNDRmNDIxMDViMjE0Yjk4NWYxNjEzMDNiNjFlNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "354",
@@ -7122,7 +7381,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTg1fGltYWdlL2pwZWd8YURaa0wyaGhNQzh4TVRnek5UVXpORFkzTVRrd01pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNekUwWHpBeExtcHdad3xkZGU2ZDY2NWE5ZGIwMWZlODY5NTUzY2ZiOTQ3YTJiYmYwYzE0YTVlNGI2ZjNjYmIxYjMxMjFhZGVlZGRmYTIy",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDQyNHxpbWFnZS9qcGVnfGFHRmpMMmc1Wmk4eE1UZ3pOVFV6TkRZd05qTTJOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpFMFh6QXhMbXB3Wnd8OTk2ZjBhNzZjZTgyZjcxYzY0YTM5YmQ1OTc4NzA5ZGE2MWVmMDE4M2I0YzM1YTk5NzAzN2FiYTQxY2FiOGJlZQ",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3wyNjI3NHxpbWFnZS9qcGVnfGFHRmxMMmc1WXk4eE1UZ3pOVFV6TkRVME1EZ3pNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpFMFh6QXhMbXB3Wnd8OWJhNjU2MTkxMzAxZjRkN2MzNzU0ZTljZWNjYThjNTQxYWZjNDRmNDIxMDViMjE0Yjk4NWYxNjEzMDNiNjFlNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "505",
@@ -7682,7 +7942,8 @@
         "thumb": "https://www.yanbal.com/medias/145Wx145H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3w2NTg1fGltYWdlL2pwZWd8YURaa0wyaGhNQzh4TVRnek5UVXpORFkzTVRrd01pOHhORFZYZURFME5VaGZXV0Z1WW1Gc0xVOXlhV2RwYm1Gc1JtOXliV0YwWHpJd01ERXpNekUwWHpBeExtcHdad3xkZGU2ZDY2NWE5ZGIwMWZlODY5NTUzY2ZiOTQ3YTJiYmYwYzE0YTVlNGI2ZjNjYmIxYjMxMjFhZGVlZGRmYTIy",
         "card": "https://www.yanbal.com/medias/240Wx240H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDQyNHxpbWFnZS9qcGVnfGFHRmpMMmc1Wmk4eE1UZ3pOVFV6TkRZd05qTTJOaTh5TkRCWGVESTBNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpFMFh6QXhMbXB3Wnd8OTk2ZjBhNzZjZTgyZjcxYzY0YTM5YmQ1OTc4NzA5ZGE2MWVmMDE4M2I0YzM1YTk5NzAzN2FiYTQxY2FiOGJlZQ",
         "grande": "https://www.yanbal.com/medias/500Wx500H-Yanbal-OriginalFormat-20013314-01.jpg?context=bWFzdGVyfGltYWdlc3wyNjI3NHxpbWFnZS9qcGVnfGFHRmxMMmc1WXk4eE1UZ3pOVFV6TkRVME1EZ3pNQzgxTURCWGVEVXdNRWhmV1dGdVltRnNMVTl5YVdkcGJtRnNSbTl5YldGMFh6SXdNREV6TXpFMFh6QXhMbXB3Wnd8OWJhNjU2MTkxMzAxZjRkN2MzNzU0ZTljZWNjYThjNTQxYWZjNDRmNDIxMDViMjE0Yjk4NWYxNjEzMDNiNjFlNg"
-      }
+      },
+      "fotoDeLinea": true
     },
     {
       "codigo": "389",
