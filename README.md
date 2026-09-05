@@ -274,6 +274,24 @@ antes y después es lo único que los delató.
 El workflow también corre `npm run build` con los datos nuevos, así que un cambio
 de formato en la fuente se cae en CI y no en producción.
 
+#### Detectada no es lo mismo que procesable
+
+La revista de la campaña nueva aparece días antes, pero **la tienda de la marca
+sigue sirviendo la campaña vieja** — y la tienda es de donde salen las fotos.
+Enriquecer contra una tienda que todavía no cambió da esto:
+
+| | C09 (vigente) | C10 (detectada, tienda sin cambiar) |
+|---|---|---|
+| con foto | 442 (94 %) | 166 (**35 %**) |
+| con descripción | 367 (78 %) | 98 (**21 %**) |
+| publicables | 440 (94 %) | 166 (**35 %**) |
+
+No es un bug del pipeline: la ficha de esos productos aún no existe en
+`yanbal.com`. Por eso, **si la cobertura cae, el workflow no abre PR**: lo anota
+en el resumen de la corrida y lo vuelve a intentar al día siguiente. Como el cron
+es diario, el PR se abre solo el día que la tienda cambia de campaña, sin que
+nadie tenga que estar pendiente.
+
 #### Qué queda fuera del automatismo
 
 | Tramo | ¿Corre en la nube? |
@@ -288,9 +306,36 @@ GitHub. El workflow extrae la revista de Natura —precios y códigos sí se
 alcanzan— pero **no toca el archivo que lee la tienda**, porque sustituir 352
 productos con foto por 366 sin foto los sacaría a todos del sitio.
 
-Ese tramo necesita una conexión residencial colombiana. Las opciones son un
-*self-hosted runner* en una máquina propia, correr el comando a mano cada ciclo,
-o un proxy residencial. Sin decidir.
+Ese tramo necesita una conexión residencial colombiana. Para eso está:
+
+```bash
+node scripts/actualizar-campana.mjs                 # lo que haya nuevo
+node scripts/actualizar-campana.mjs --marca natura  # solo una marca
+node scripts/actualizar-campana.mjs --forzar        # aunque no haya novedad
+```
+
+Corre el pipeline completo de las dos marcas en un solo comando, desde una
+máquina que sí alcance los dos sitios. **Comprueba primero qué alcanza** y lo
+dice antes de empezar, en vez de descubrirlo a mitad de camino y dejar los datos
+a medias:
+
+```
+▸ Comprobando qué alcanza esta máquina
+
+  ✓ Yanbal   https://www.yanbal.com/co/
+  ✗ Natura   https://www.natura.com.co/
+     HTTP 403
+     natura.com.co bloquea las IPs de datacenter. Este paso necesita una
+     conexión residencial colombiana — corre el script desde tu casa, no
+     desde un servidor, una VPN extranjera ni un runner de GitHub.
+```
+
+No commitea ni pushea: deja los archivos, compara la cobertura y dice qué hacer.
+Publicar es una decisión, no un paso del pipeline.
+
+Queda pendiente decidir si esto se automatiza del todo con un *self-hosted
+runner* en esa misma máquina, se corre a mano cada ciclo, o se resuelve con un
+proxy residencial.
 
 ### Normalización
 

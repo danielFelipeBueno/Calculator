@@ -138,19 +138,50 @@ jobs:
           URL: ${{ needs.detectar.outputs.natura_url }}
         run: node scripts/extract-natura.mjs "$URL" Natura
 
+      # ------------------------------------------------------------ ¿Publicable?
+      # Detectar una campaña no es lo mismo que poder procesarla. Las marcas
+      # publican la revista siguiente antes de que entre en vigencia, pero su
+      # TIENDA sigue mostrando la campaña vieja — y la tienda es de donde salen
+      # las fotos. Enriquecer la C10 contra una tienda que aún sirve la C09 dio
+      # 35 % de cobertura donde la C09 tenía 94 %.
+      #
+      # Así que si la cobertura cae, no se abre PR: se anota y se vuelve a
+      # intentar mañana. El cron diario hace que esto se arregle solo el día que
+      # la tienda cambie de campaña, sin que nadie tenga que estar pendiente.
+      - name: Decidir si estos datos se pueden publicar
+        id: decision
+        run: |
+          if [ "${{ steps.cobertura.outcome }}" = "failure" ]; then
+            echo "publicar=false" >> "$GITHUB_OUTPUT"
+            {
+              echo "## Campaña nueva detectada, pero todavía no publicable"
+              echo
+              echo "La cobertura cayó por debajo del umbral. Lo más probable es que"
+              echo "la tienda de la marca aún no haya cambiado de campaña: la revista"
+              echo "nueva ya está, pero las fichas de producto siguen siendo las viejas."
+              echo
+              echo "**No se abrió PR.** El cron vuelve a intentarlo mañana."
+              echo
+              if [ -f cobertura-yanbal.txt ]; then sed '1,2d' cobertura-yanbal.txt; fi
+            } >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "publicar=true" >> "$GITHUB_OUTPUT"
+          fi
+
       # ------------------------------------------------------- Comprobación real
       # Que el sitio siga compilando con los datos nuevos. Si el formato cambió,
       # aquí se cae — y es mucho mejor que se caiga aquí que en producción.
       - name: Comprobar que el sitio compila con los datos nuevos
+        if: steps.decision.outputs.publicar == 'true'
         run: |
           npm ci
           npm run build
 
       - name: Abrir PR
+        if: steps.decision.outputs.publicar == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           RAMA: ${{ steps.rama.outputs.nombre }}
-          COBERTURA_OK: ${{ steps.cobertura.outcome }}
         run: |
           set -euo pipefail
 
@@ -174,13 +205,6 @@ jobs:
                 sed '1,2d' cobertura-yanbal.txt
               fi
               echo
-              if [ "$COBERTURA_OK" = "failure" ]; then
-                echo "> [!WARNING]"
-                echo "> La cobertura cayó más de lo tolerado. **No mergear sin revisar**:"
-                echo "> puede que la marca aún no publique las fichas del ciclo nuevo,"
-                echo "> o que algo del pipeline se haya roto en silencio."
-                echo
-              fi
             fi
 
             if [ "${{ needs.detectar.outputs.natura_nueva }}" = "true" ]; then
@@ -202,13 +226,8 @@ jobs:
             echo "El sitio compila con estos datos (\`npm run build\` pasó en CI)."
           } > cuerpo.md
 
-          titulo="Datos: campaña nueva"
-          if [ "$COBERTURA_OK" = "failure" ]; then
-            titulo="Datos: campaña nueva — ⚠️ revisar cobertura"
-          fi
-
           gh pr create \
-            --title "$titulo" \
+            --title "Datos: campaña nueva" \
             --body-file cuerpo.md \
             --base "${{ github.ref_name }}" \
             --head "$RAMA"

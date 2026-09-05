@@ -11,6 +11,7 @@
     "clasificar:yanbal": "node scripts/clasificar.mjs data/yanbal-col-2026-c09-normalizado.json",
     "clasificar:natura": "node scripts/clasificar.mjs data/natura-revista-ciclo-13-normalizado.json",
     "campana:detectar": "node scripts/detectar-campana.mjs",
+    "campana:actualizar": "node scripts/actualizar-campana.mjs",
     "campana:cobertura": "node scripts/verificar-cobertura.mjs"
   },
   "dependencies": {

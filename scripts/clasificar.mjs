@@ -123,7 +123,12 @@ async function main() {
   const pendientes = productos.filter((p) => !p.categoria);
   if (pendientes.length) {
     console.log(`\n  Sin clasificar, muestra:`);
-    for (const p of pendientes.slice(0, 15)) console.log(`     ${p.nombre.slice(0, 62)}`);
+    // El nombre puede venir en null: la revista no siempre lo publica y el
+    // sitio de la marca no siempre tiene ficha. Un producto sin nombre no es
+    // publicable, pero tampoco es razón para tumbar el resumen.
+    for (const p of pendientes.slice(0, 15)) {
+      console.log(`     ${p.nombre ? p.nombre.slice(0, 62) : `(sin nombre · código ${p.codigo})`}`);
+    }
   }
   console.log(`\n  ${salida}`);
 }
