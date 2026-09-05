@@ -196,6 +196,46 @@ cambio de ciclo— y marca `publicable` los que tienen nombre, foto y precio.
 
 Resultado: **Natura 352 publicables de 366 (96 %)**, **Yanbal 440 de 468 (94 %)**.
 
+### Clasificación por categoría
+
+```bash
+node scripts/clasificar.mjs data/<marca>-<campaña>-normalizado.json
+```
+
+Las revistas no publican la categoría, y el campo `categoria` que trae el sitio de
+Natura son etiquetas de campaña —`aniversario` ×100, `carrito20`, `2x1`—, no una
+taxonomía. Hay que derivarla del nombre.
+
+**Lo que decide el resultado es el orden de las reglas**, porque un nombre dispara
+varias y gana la primera:
+
+| Nombre | Cae en | Y no en |
+|---|---|---|
+| Base **antiedad** | Maquillaje | Cuidado facial |
+| **Crema** para peinar | Cabello | Cuidado corporal |
+| Desodorante **perfumado** roll on | Desodorantes | Perfumería |
+| **Set** Cielo: perfume + jabón + desodorante | Sets y regalos | Desodorantes |
+| **Set** Collares Aimee | Joyería | Sets y regalos |
+
+Los dos últimos son la misma palabra resuelta distinto: un set que **enumera**
+productos de varias categorías no pertenece a ninguna, y por eso la regla de sets
+exige el separador (`:` o `+`); un set de una sola categoría se queda en la suya.
+
+Cuando ninguna palabra clave coincide entra un respaldo por **línea de producto**
+—Lumina es cabello, Chronos facial, Essencial perfumería— pero solo para las líneas
+cuya categoría domina por encima del 70 % en los datos reales. Tododia y Ekos quedan
+fuera a propósito: reparten entre corporal y cabello, y adivinar ahí ensucia más de
+lo que arregla. Lo asignado así queda marcado con `origenCategoria: "linea"` para
+poder revisarlo aparte.
+
+Resultado: **804 de 829 productos (96 %)** en 11 categorías. Los ~25 restantes y los
+10 asignados por línea son la revisión manual de cada ciclo — media hora, no un
+proyecto.
+
+Ojo con los plurales al ampliar las reglas: `\bpolvo\b` no captura "Polvos
+Compactos" y `\bcollar\b` no captura "Set Collares". Los tres primeros errores que
+encontré al verificar por muestreo eran exactamente eso.
+
 ## Decisiones tomadas
 
 - **Precio de venta = precio de catálogo**, por ahora. El margen vive en el
