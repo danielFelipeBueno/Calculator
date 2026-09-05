@@ -10,10 +10,13 @@
 //   node scripts/actualizar-campana.mjs                 # lo que haya nuevo
 //   node scripts/actualizar-campana.mjs --forzar        # aunque no haya novedad
 //   node scripts/actualizar-campana.mjs --marca natura  # solo una marca
+//   node scripts/actualizar-campana.mjs --auto          # para tarea programada
 //
-// No commitea ni pushea nada: deja los archivos y dice qué hacer con ellos.
-// Publicar es una decisión, no un paso del pipeline — sobre todo porque las
-// marcas publican la campaña siguiente ANTES de que entre en vigencia.
+// Por defecto no commitea ni pushea: deja los archivos y dice qué hacer con
+// ellos. Con --auto empuja una RAMA si la cobertura pasó —nunca a main, y nunca
+// si los datos vinieron mal—. Publicar es una decisión, no un paso del pipeline:
+// las marcas sacan la campaña siguiente ANTES de que entre en vigencia, así que
+// mergear apenas aparece mostraría precios que todavía no rigen.
 
 import { spawn } from "node:child_process";
 import { readdir } from "node:fs/promises";
@@ -152,8 +155,62 @@ async function actualizarNatura(url) {
   return { nuevo: ruta.replace(/\.json$/, "-clasificado.json"), anterior };
 }
 
+/**
+ * Empuja los datos nuevos en una rama aparte. Solo se llama en modo --auto y
+ * solo si la cobertura pasó.
+ *
+ * Empuja una RAMA, nunca a main: lo que se publica lo decide una persona. Y
+ * hace falta que lo decida, porque las marcas publican la campaña siguiente
+ * antes de que entre en vigencia.
+ */
+function git(args, { silencioso = false } = {}) {
+  return new Promise((cumplir, fallar) => {
+    const hijo = spawn("git", args, {
+      stdio: silencioso ? ["ignore", "pipe", "pipe"] : "inherit",
+    });
+    let salida = "";
+    if (silencioso) hijo.stdout.on("data", (d) => (salida += d));
+    hijo.on("error", fallar);
+    hijo.on("close", (c) =>
+      c === 0 ? cumplir(salida) : fallar(new Error(`git ${args[0]} salió con código ${c}`)),
+    );
+  });
+}
+
+async function publicarRama(resultados) {
+  // Sin cambios no hay nada que empujar. Pasa de verdad: --forzar re-extrae una
+  // campaña que ya estaba, y `git commit` sin nada preparado sale con error.
+  const cambios = await git(["status", "--porcelain", "data/"], { silencioso: true });
+  if (!cambios.trim()) return null;
+
+  const volverA = (await git(["branch", "--show-current"], { silencioso: true })).trim();
+
+  // Dos corridas el mismo día —una a mano y la programada, o un reintento— no
+  // pueden chocar por el nombre. Se busca hasta dar con uno libre: probar un
+  // solo alternativo no basta, porque ese también puede estar tomado.
+  const base = `datos/campana-${new Date().toISOString().slice(0, 10).replace(/-/g, "")}`;
+  let rama = base;
+  for (let n = 2; (await git(["branch", "--list", rama], { silencioso: true })).trim(); n++) {
+    rama = `${base}-${n}`;
+  }
+
+  try {
+    await git(["switch", "-c", rama]);
+    await git(["add", "data/"]);
+    await git(["commit", "-m", `Datos: ${resultados.map((r) => r.nombre).join(" y ")} al día`]);
+    await git(["push", "-u", "origin", rama]);
+  } finally {
+    // Volver siempre a la rama de partida: si no, la corrida de mañana saldría
+    // de la rama de hoy y las ramas de datos se irían encadenando unas sobre
+    // otras.
+    if (volverA) await git(["switch", volverA], { silencioso: true }).catch(() => {});
+  }
+  return rama;
+}
+
 async function main() {
   const forzar = process.argv.includes("--forzar");
+  const auto = process.argv.includes("--auto");
   const iMarca = process.argv.indexOf("--marca");
   const soloMarca = iMarca === -1 ? null : process.argv[iMarca + 1];
 
@@ -243,6 +300,26 @@ async function main() {
   if (algunaCayo) {
     console.log(rojo("\n  ⚠️  La cobertura cayó en alguna marca. NO publiques sin mirar por qué."));
     console.log(gris("     Puede que la marca no haya publicado aún las fichas del ciclo nuevo."));
+  }
+
+  // 5. En modo automático (tarea programada), empujar la rama si los datos
+  //    están sanos. Si no lo están, no se empuja nada y ya está: la tarea
+  //    vuelve a correr mañana y el problema se arregla solo el día que la
+  //    tienda de la marca cambie de campaña.
+  if (auto) {
+    if (algunaCayo) {
+      console.log(gris("\n  Modo --auto: no se empuja nada. Se reintenta en la próxima corrida.\n"));
+      return;
+    }
+    console.log(azul("\n▸ Empujando rama\n"));
+    const rama = await publicarRama(resultados);
+    if (!rama) {
+      console.log(gris("  Los datos no cambiaron respecto a lo que ya está commiteado. Nada que empujar.\n"));
+      return;
+    }
+    console.log(verde(`\n  Rama ${rama} empujada.`));
+    console.log(gris("  Falta actualizar lib/negocio.ts y abrir el PR — eso no lo decide un script.\n"));
+    return;
   }
 
   const hoy = new Date().toISOString().slice(0, 10).replace(/-/g, "");

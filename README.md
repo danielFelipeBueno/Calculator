@@ -333,9 +333,17 @@ a medias:
 No commitea ni pushea: deja los archivos, compara la cobertura y dice qué hacer.
 Publicar es una decisión, no un paso del pipeline.
 
-Queda pendiente decidir si esto se automatiza del todo con un *self-hosted
-runner* en esa misma máquina, se corre a mano cada ciclo, o se resuelve con un
-proxy residencial.
+Con `--auto` sirve para una tarea programada: empuja una rama `datos/campana-*`
+si la cobertura pasó, no empuja nada si cayó, y nunca toca `main`. Cómo
+programarla en macOS, Linux o Windows está en
+[docs/tarea-programada.md](docs/tarea-programada.md).
+
+**Una tarea programada, no un *self-hosted runner*.** Un runner existe para que
+GitHub le mande trabajo a tu máquina, y con este repositorio **público** esa
+puerta la puede empujar cualquiera: un fork puede abrir un PR y ejecutar código
+en tu computador. GitHub lo desaconseja explícitamente. Una tarea programada
+hace lo mismo con solo conexiones salientes. Si el repo pasara a privado, el
+runner deja de ser un problema y se puede reconsiderar.
 
 ### Normalización
 
