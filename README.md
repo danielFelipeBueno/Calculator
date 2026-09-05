@@ -173,6 +173,29 @@ No se pudo enriquecer, y no por un bloqueo que se pueda sortear:
 Los 130 productos de `data/avon-revista-avon-ciclo-13.json` se quedan sin foto,
 descripción ni stock hasta que aparezca otra fuente.
 
+### Normalización
+
+```bash
+node scripts/normalizar.mjs data/<marca>-<campaña>-enriquecido.json
+```
+
+Consolida el registro que consumirá la tienda y resuelve el nombre. **El nombre de
+la revista no sirve como identidad**: está pensado para leerse dentro de una página
+maquetada, donde la variante se entiende por el contexto visual. Fuera de ahí pierde
+la mitad de la información —doce productos distintos se llaman "Crema nutritiva para
+el cuerpo 400 ml"— y a veces captura un sello publicitario. El nombre del sitio de la
+marca sí es un identificador completo, así que manda cuando existe.
+
+| | Nombres repetidos |
+|---|---|
+| Natura, nombre de la revista | 180 productos |
+| Natura, nombre del sitio | **1 producto** |
+
+Genera además el `slug` estable para la URL —`/p/<código>/<slug>`, que sobrevive al
+cambio de ciclo— y marca `publicable` los que tienen nombre, foto y precio.
+
+Resultado: **Natura 352 publicables de 366 (96 %)**, **Yanbal 440 de 468 (94 %)**.
+
 ## Decisiones tomadas
 
 - **Precio de venta = precio de catálogo**, por ahora. El margen vive en el

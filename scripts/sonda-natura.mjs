@@ -68,10 +68,29 @@ async function pedir(url, comoJson = false) {
   }
 }
 
+/**
+ * Akamai y Cloudflare sirven sus páginas de bloqueo con status 200, así que el
+ * código de respuesta miente: hay que mirar el cuerpo. Un "Access Denied" de
+ * Akamai pesa ~2,6 KB y no es HTML de tienda.
+ */
+function bloqueado(r) {
+  if (r.status !== 200) return false;
+  const c = r.cuerpo;
+  return (
+    /access denied|you don't have permission|attention required|akamai|reference\s*#\d/i.test(c.slice(0, 4000)) ||
+    (c.length < 6000 && !/<(product|main|nav)|application\/(ld\+)?json/i.test(c))
+  );
+}
+
 async function probar(etiqueta, url, opciones = {}) {
   const r = await pedir(url, opciones.json);
-  const marca = r.status === 200 ? "OK " : r.status === 0 ? "ERR" : "── ";
-  const detalle = r.error ? r.error.slice(0, 40) : `${r.cuerpo.length} bytes`;
+  r.bloqueado = bloqueado(r);
+  const marca = r.bloqueado ? "BLQ" : r.status === 200 ? "OK " : r.status === 0 ? "ERR" : "── ";
+  const detalle = r.error
+    ? r.error.slice(0, 40)
+    : r.bloqueado
+      ? `${r.cuerpo.length} bytes — página de bloqueo servida como 200`
+      : `${r.cuerpo.length} bytes`;
   console.log(`  [${marca}] ${String(r.status).padEnd(3)} ${etiqueta.padEnd(34)} ${detalle}`);
   await sleep(400);
   return r;
@@ -84,6 +103,11 @@ async function seccionSitio(nombre, base) {
 
   const home = await probar("portada", base);
 
+  if (home.bloqueado) {
+    console.log(`\n  ✗ ${nombre} devuelve 200 pero es una página de bloqueo, no la tienda.`);
+    console.log("    El código de respuesta miente; hace falta un navegador real (Playwright).");
+    return false;
+  }
   if (home.status !== 200) {
     console.log(`\n  ✗ ${nombre} NO responde desde tu máquina tampoco (${home.status}).`);
     if (home.status === 403 || home.status === 503) {
@@ -140,14 +164,16 @@ async function seccionApis(base) {
   const buenas = [];
   for (const [etiqueta, url] of pruebas) {
     const r = await probar(etiqueta, url, { json: true });
-    if (r.status === 200 && r.tipo.includes("json") && r.cuerpo.length > 40) {
+    if (r.status === 200 && !r.bloqueado && r.tipo.includes("json") && r.cuerpo.length > 40) {
       buenas.push([etiqueta, url, r]);
     }
   }
 
   if (!buenas.length) {
     console.log("\n  ✗ Ninguna API de catálogo respondió con JSON.");
-    console.log("    Quedan las páginas HTML de producto como vía, que es más frágil.");
+    console.log("    Quedan las páginas de producto navegadas normalmente, que es lo que");
+    console.log("    funcionó para Natura: /p/<slug>/NATCOL-<código> responde con cualquier");
+    console.log("    slug y el canonical confirma que devolvió el producto pedido.");
     return;
   }
 
