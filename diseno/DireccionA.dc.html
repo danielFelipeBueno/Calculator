@@ -1,0 +1,129 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Manrope:wght@400;500;600;700&display=swap">
+  <style>
+    body { margin: 0; background: #171512; }
+    a { color: #F2EDE4; } a:hover { color: #D9A0AE; }
+    * { box-sizing: border-box; }
+  </style>
+</helmet>
+
+<div style="width: 1200px; min-height: 1640px; background: #171512; color: #F2EDE4; font-family: Manrope, system-ui, sans-serif; font-size: 15px; line-height: 1.5;">
+
+  <!-- Barra superior -->
+  <div style="display: flex; align-items: center; justify-content: space-between; padding: 22px 56px; border-bottom: 1px solid #2E2A25;">
+    <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 30px; font-weight: 500; letter-spacing: 0.02em;">Alejandría</div>
+    <div style="display: flex; gap: 32px; font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; color: #A89F92;">
+      <span>Yanbal</span><span>Natura</span><span>Perfumería</span><span>Maquillaje</span><span>Cuidado</span><span>Joyería</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 10px 16px; border: 1px solid #3A352F; border-radius: 999px; font-size: 13px; font-weight: 600;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 1-13.5 7.8L3 21l1.2-4.5A9 9 0 1 1 21 12z"></path></svg>
+      <span>Escríbenos</span>
+    </div>
+  </div>
+
+  <!-- Hero: la búsqueda es la portada -->
+  <div style="padding: 88px 56px 56px; display: flex; flex-direction: column; gap: 28px; align-items: flex-start;">
+    <div style="font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #A89F92;">Campaña C09 · precios vigentes hasta el 11 de septiembre</div>
+    <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 72px; font-weight: 400; line-height: 1.05; max-width: 760px; text-wrap: balance;">Ochocientos productos de Yanbal y Natura, en un solo lugar.</div>
+    <div style="display: flex; align-items: center; gap: 16px; width: 760px; padding: 18px 24px; background: #201D19; border: 1px solid #3A352F; border-radius: 4px;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#A89F92" stroke-width="1.8" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+      <span style="font-size: 17px; color: #A89F92;">Busca por nombre o por el código de la revista — “4719”, “Kaiak”, “esmalte”</span>
+    </div>
+    <div style="display: flex; gap: 28px; font-size: 13px; color: #A89F92;">
+      <span style="display: flex; align-items: center; gap: 8px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#D9A0AE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"></path></svg>Producto 100 % original</span>
+      <span style="display: flex; align-items: center; gap: 8px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#D9A0AE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"></path></svg>Pago contra entrega en [TUS CIUDADES]</span>
+      <span style="display: flex; align-items: center; gap: 8px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#D9A0AE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"></path></svg>Llega en 3 a 5 días hábiles</span>
+    </div>
+  </div>
+
+  <!-- Dos marcas, dos entradas -->
+  <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; padding: 0 56px 72px;">
+    <div style="padding: 32px; background: #201D19; border: 1px solid #2E2A25; display: flex; flex-direction: column; gap: 8px;">
+      <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 34px; font-weight: 500;">Yanbal</div>
+      <div style="color: #A89F92; font-size: 14px;">468 productos · perfumería, maquillaje y joyería · campaña C09</div>
+    </div>
+    <div style="padding: 32px; background: #201D19; border: 1px solid #2E2A25; display: flex; flex-direction: column; gap: 8px;">
+      <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 34px; font-weight: 500;">Natura</div>
+      <div style="color: #A89F92; font-size: 14px;">366 productos · cabello, cuidado corporal y facial · ciclo 13</div>
+    </div>
+  </div>
+
+  <!-- Selección de la campaña -->
+  <div style="padding: 0 56px 72px; display: flex; flex-direction: column; gap: 32px;">
+    <div style="display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid #2E2A25; padding-bottom: 16px;">
+      <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 34px; font-weight: 400;">Seleccionados de esta campaña</div>
+      <div style="font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; color: #A89F92;">Ver los 834</div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 40px 28px;">
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="background: #F2EDE4; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 28px;"><img src="ohm.jpg" style="max-width: 100%; max-height: 100%; mix-blend-mode: multiply;" alt="Ohm Parfum"></div>
+        <div style="font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #A89F92;">Yanbal · Perfumería</div>
+        <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 24px; font-weight: 500; line-height: 1.2;">Ohm Parfum</div>
+        <div style="display: flex; align-items: baseline; justify-content: space-between;"><span style="font-size: 18px; font-weight: 600;">$ 136.000</span><span style="font-size: 12px; color: #A89F92;">Disponible</span></div>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="background: #F2EDE4; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 28px;"><img src="essencial.jpg" style="max-width: 100%; max-height: 100%; mix-blend-mode: multiply;" alt="Essencial Oud"></div>
+        <div style="font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #A89F92;">Natura · Perfumería</div>
+        <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 24px; font-weight: 500; line-height: 1.2;">Essencial Oud masculino, 100 ml</div>
+        <div style="display: flex; align-items: baseline; justify-content: space-between;"><span style="font-size: 18px; font-weight: 600;">$ 251.900</span><span style="font-size: 12px; color: #A89F92;">Disponible</span></div>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="background: #F2EDE4; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 28px;"><img src="pulsera.jpg" style="max-width: 100%; max-height: 100%; mix-blend-mode: multiply;" alt="Pulsera Aimee"></div>
+        <div style="font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #A89F92;">Yanbal · Joyería</div>
+        <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 24px; font-weight: 500; line-height: 1.2;">Pulsera Aimee</div>
+        <div style="display: flex; align-items: baseline; justify-content: space-between;"><span style="font-size: 18px; font-weight: 600;">$ 112.900</span><span style="font-size: 12px; color: #A89F92;">Disponible</span></div>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="background: #F2EDE4; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 28px;"><img src="serum.jpg" style="max-width: 100%; max-height: 100%; mix-blend-mode: multiply;" alt="Sérum Chronos Derma"></div>
+        <div style="font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #A89F92;">Natura · Cuidado facial</div>
+        <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 24px; font-weight: 500; line-height: 1.2;">Sérum Intensivo Reductor de Oleosidad</div>
+        <div style="display: flex; align-items: baseline; justify-content: space-between;"><span style="font-size: 18px; font-weight: 600;">$ 163.600</span><span style="font-size: 12px; color: #A89F92;">Disponible</span></div>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="background: #F2EDE4; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 28px;"><img src="jelly.jpg" style="max-width: 100%; max-height: 100%; mix-blend-mode: multiply;" alt="Jelly Stick"></div>
+        <div style="font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #A89F92;">Yanbal · Maquillaje</div>
+        <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 24px; font-weight: 500; line-height: 1.2;">Jelly Stick Cool Shine</div>
+        <div style="display: flex; align-items: baseline; justify-content: space-between;"><span style="font-size: 18px; font-weight: 600;">$ 42.000</span><span style="font-size: 12px; color: #A89F92;">Disponible</span></div>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="background: #F2EDE4; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 28px;"><img src="crema.jpg" style="max-width: 100%; max-height: 100%; mix-blend-mode: multiply;" alt="Crema Tododia"></div>
+        <div style="font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: #A89F92;">Natura · Cuidado corporal</div>
+        <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 24px; font-weight: 500; line-height: 1.2;">Crema nutritiva Tododia frutas rojas</div>
+        <div style="display: flex; align-items: baseline; justify-content: space-between;"><span style="font-size: 18px; font-weight: 600;">$ 43.500</span><span style="font-size: 12px; color: #A89F92;">Disponible</span></div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Quién vende -->
+  <div style="margin: 0 56px; padding: 40px; border-top: 1px solid #2E2A25; border-bottom: 1px solid #2E2A25; display: flex; align-items: center; gap: 32px;">
+    <div style="width: 96px; height: 96px; border-radius: 50%; background: #3A352F; flex: none; display: flex; align-items: center; justify-content: center; font-size: 11px; color: #A89F92; text-align: center;">[TU FOTO]</div>
+    <div style="display: flex; flex-direction: column; gap: 6px;">
+      <div style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 28px; font-weight: 500;">[TU NOMBRE], consultora independiente</div>
+      <div style="color: #A89F92; font-size: 14px;">Consultora Yanbal y Natura desde [AÑO] · código [TU CÓDIGO] · [TU CIUDAD]. Los pedidos los preparo y los envío yo.</div>
+    </div>
+  </div>
+
+  <div style="padding: 32px 56px; display: flex; justify-content: space-between; font-size: 12px; color: #A89F92;">
+    <span>Alejandría · tienda independiente. Yanbal y Natura son marcas de sus respectivos titulares.</span>
+    <span>Envíos · Devoluciones · Privacidad</span>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

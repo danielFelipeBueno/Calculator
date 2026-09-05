@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@400;500;600;700&family=Gloock&display=swap">
+  <style>
+    body { margin: 0; background: #EEF1EA; }
+    a { color: #3F5A3C; } a:hover { color: #2E4230; }
+    * { box-sizing: border-box; }
+  </style>
+</helmet>
+
+<div style="width: 1200px; background: #EEF1EA; color: #2B2E26; font-family: 'Albert Sans', system-ui, sans-serif; font-size: 15px; line-height: 1.55;">
+
+  <!-- Cabecera -->
+  <div style="display: flex; align-items: center; justify-content: space-between; padding: 24px 64px;">
+    <div style="font-family: Gloock, Georgia, serif; font-size: 28px;">Alejandría</div>
+    <div style="display: flex; gap: 28px; font-size: 14px; font-weight: 500; color: #56604F;">
+      <span>Catálogo</span><span>Yanbal</span><span style="color: #2B2E26; font-weight: 600;">Natura</span><span>Cómo comprar</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 12px 20px; background: #2B2E26; color: #EEF1EA; border-radius: 999px; font-size: 14px; font-weight: 600;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 1-13.5 7.8L3 21l1.2-4.5A9 9 0 1 1 21 12z"></path></svg>
+      Hablemos
+    </div>
+  </div>
+
+  <!-- Miga -->
+  <div style="padding: 4px 64px 20px; font-size: 13px; color: #56604F; display: flex; gap: 8px;">
+    <span>Catálogo</span><span>›</span><span>Natura</span><span>›</span><span>Perfumería</span><span>›</span><span style="color: #2B2E26;">Essencial Oud masculino</span>
+  </div>
+
+  <!-- Producto -->
+  <div style="display: grid; grid-template-columns: 520px minmax(0, 1fr); gap: 48px; padding: 0 64px 48px; align-items: start;">
+
+    <!-- Galería -->
+    <div style="display: flex; flex-direction: column; gap: 12px;">
+      <div style="aspect-ratio: 1; background: #FFFFFF; border-radius: 24px; display: flex; align-items: center; justify-content: center; padding: 40px;"><img src="essencial.jpg" style="max-width: 100%; max-height: 100%;" alt="Essencial Oud, frasco"></div>
+      <div style="display: flex; gap: 12px;">
+        <div style="width: 96px; height: 96px; background: #FFFFFF; border: 2px solid #2B2E26; border-radius: 14px; display: flex; align-items: center; justify-content: center; padding: 10px;"><img src="essencial.jpg" style="max-width: 100%; max-height: 100%;" alt=""></div>
+        <div style="width: 96px; height: 96px; background: #FFFFFF; border-radius: 14px; display: flex; align-items: center; justify-content: center; padding: 10px;"><img src="essencial-2.jpg" style="max-width: 100%; max-height: 100%;" alt="Essencial Oud, caja"></div>
+      </div>
+    </div>
+
+    <!-- Información y decisión -->
+    <div style="display: flex; flex-direction: column; gap: 18px;">
+      <div style="display: flex; gap: 8px; align-items: center;">
+        <span style="padding: 5px 11px; background: #D6DCCF; border-radius: 999px; font-size: 12px; font-weight: 600;">Natura · Essencial</span>
+        <span style="font-size: 13px; color: #56604F;">Perfumería masculina</span>
+      </div>
+      <div style="font-family: Gloock, Georgia, serif; font-size: 38px; line-height: 1.12; text-wrap: balance;">Eau de parfum Essencial Oud masculino</div>
+      <div style="display: flex; gap: 16px; font-size: 14px; color: #56604F;">
+        <span>Código <span style="font-weight: 600; color: #2B2E26;">93619</span></span><span>·</span><span>100 ml</span><span>·</span>
+        <span style="display: flex; align-items: center; gap: 5px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="#2B2E26"><path d="m12 2 3 6.6 7 .9-5.2 4.8L18.2 22 12 18.4 5.8 22l1.4-7.7L2 9.5l7-.9z"></path></svg><span style="font-weight: 600; color: #2B2E26;">4,9</span> en natura.com.co</span>
+      </div>
+
+      <div style="display: flex; align-items: baseline; gap: 14px; padding-top: 6px;">
+        <span style="font-size: 36px; font-weight: 700; letter-spacing: -0.01em;">$ 251.900</span>
+        <span style="font-size: 13px; color: #56604F;">precio de la revista · ciclo 13</span>
+      </div>
+
+      <!-- Las respuestas cortas, donde nace la duda -->
+      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <span style="padding: 7px 12px; background: #E3EBDF; color: #3F5A3C; border-radius: 999px; font-size: 13px; font-weight: 600;">Disponible</span>
+        <span style="padding: 7px 12px; background: #FFFFFF; border-radius: 999px; font-size: 13px; font-weight: 500;">Envío [$ X] · gratis desde [$ Y]</span>
+        <span style="padding: 7px 12px; background: #FFFFFF; border-radius: 999px; font-size: 13px; font-weight: 500;">Llega en 3 a 5 días a [TU CIUDAD]</span>
+        <span style="padding: 7px 12px; background: #FFFFFF; border-radius: 999px; font-size: 13px; font-weight: 500;">Contra entrega</span>
+      </div>
+
+      <div style="display: flex; gap: 12px; padding-top: 6px;">
+        <div style="flex: 1; display: flex; align-items: center; justify-content: center; padding: 16px 24px; background: #2B2E26; color: #EEF1EA; border-radius: 999px; font-weight: 600; font-size: 15px;">Lo quiero</div>
+        <div style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 10px; padding: 16px 24px; background: #3F5A3C; color: #EEF1EA; border-radius: 999px; font-weight: 600; font-size: 15px;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 1-13.5 7.8L3 21l1.2-4.5A9 9 0 1 1 21 12z"></path></svg>
+          Preguntar por WhatsApp
+        </div>
+      </div>
+      <div style="font-size: 13px; color: #56604F; text-align: center;">Original garantizado · Devolución en [N] días · El chat se abre con el producto y el código ya escritos</div>
+
+      <!-- La nota de la consultora -->
+      <div style="margin-top: 8px; padding: 18px 20px; background: #FFFFFF; border-radius: 16px; display: flex; gap: 14px; align-items: flex-start;">
+        <div style="width: 40px; height: 40px; border-radius: 50%; background: #D6DCCF; flex: none; display: flex; align-items: center; justify-content: center; font-size: 9px; color: #56604F;">[FOTO]</div>
+        <div style="display: flex; flex-direction: column; gap: 4px;">
+          <div style="font-size: 14px; font-style: italic; color: #2B2E26;">“Es el que más regalan para hombre en mi lista. Amaderado y especiado, dura todo el día sin empalagar. Si lo quieres para regalo, pídemelo envuelto.”</div>
+          <div style="font-size: 12px; color: #56604F;">[TU NOMBRE], consultora</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ficha técnica + descripción -->
+  <div style="display: grid; grid-template-columns: 520px minmax(0, 1fr); gap: 48px; padding: 0 64px 48px; align-items: start;">
+
+    <div style="background: #FFFFFF; border-radius: 20px; padding: 24px 26px; display: flex; flex-direction: column; gap: 14px;">
+      <div style="font-family: Gloock, Georgia, serif; font-size: 22px;">Ficha técnica</div>
+      <div style="display: grid; grid-template-columns: 140px minmax(0, 1fr); gap: 10px 16px; font-size: 14px;">
+        <span style="color: #56604F;">Concentración</span><span style="font-weight: 500;">Deo parfum, fragancia intensa</span>
+        <span style="color: #56604F;">Familia</span><span style="font-weight: 500;">Amaderada · especiada</span>
+        <span style="color: #56604F;">Salida</span><span style="font-weight: 500;">Bergamota, cardamomo, elemi, azafrán</span>
+        <span style="color: #56604F;">Corazón</span><span style="font-weight: 500;">Geranio, cipriol, canela de Madagascar, praliné, bálsamo de gurjum</span>
+        <span style="color: #56604F;">Fondo</span><span style="font-weight: 500;">Ámbar, cedro, sándalo, almizcle, pachulí, aceite de oud, bálsamo de abeto, copaiba</span>
+        <span style="color: #56604F;">Duración</span><span style="font-weight: 500; color: #56604F;">[HORAS] — el dato que nadie publica y todos preguntan</span>
+        <span style="color: #56604F;">Ocasión</span><span style="font-weight: 500;">Salidas, ocasiones especiales</span>
+        <span style="color: #56604F;">Tamaño</span><span style="font-weight: 500;">100 ml · tiene repuesto</span>
+        <span style="color: #56604F;">Etiquetas</span><span style="font-weight: 500;">Vegano · cruelty free</span>
+      </div>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 16px;">
+      <div style="font-family: Gloock, Georgia, serif; font-size: 22px;">Sobre este perfume</div>
+      <div style="font-size: 15px; color: #2B2E26;">Essencial representa el poder de una fragancia auténtica. Se reinventa para hablarles a los que son protagonistas de sus vidas y descubrieron las diferentes formas de conjugar el verbo poder: transmite el poder de transformar, realizar e inspirar. Revela la elegancia del hombre contemporáneo.</div>
+      <div style="font-size: 13px; color: #56604F;">Descripción del fabricante. [Aquí va tu texto propio: dos o tres frases con lo que tú le dirías a una clienta.]</div>
+      <div style="display: flex; align-items: center; gap: 10px; padding: 14px 18px; background: #FFFFFF; border-radius: 14px; font-size: 14px;">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#56604F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+        <span>Lo viste en la revista: <span style="font-weight: 600;">página 70 del ciclo 13</span></span>
+        <span style="margin-left: auto; color: #3F5A3C; font-weight: 600;">Abrir la revista →</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Reseñas -->
+  <div style="padding: 0 64px 48px; display: flex; flex-direction: column; gap: 16px;">
+    <div style="display: flex; align-items: baseline; gap: 14px;">
+      <div style="font-family: Gloock, Georgia, serif; font-size: 22px;">Reseñas</div>
+      <div style="font-size: 13px; color: #56604F;">Se activan con las primeras compras. Cada reseña con foto suma estrellas.</div>
+    </div>
+    <div style="padding: 22px; border: 1.5px dashed #56604F; border-radius: 20px; color: #56604F; font-size: 14px;">[PRIMERA RESEÑA CON FOTO DEL PEDIDO] — nombre, ciudad, estrellas y foto del producto recibido.</div>
+  </div>
+
+  <!-- También de Natura -->
+  <div style="padding: 0 64px 48px; display: flex; flex-direction: column; gap: 20px;">
+    <div style="font-family: Gloock, Georgia, serif; font-size: 26px;">También de Natura</div>
+    <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px;">
+      <div style="background: #FFFFFF; border-radius: 20px; padding: 16px; display: flex; flex-direction: column; gap: 10px;">
+        <div style="aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 14px;"><img src="serum.jpg" style="max-width: 100%; max-height: 100%;" alt="Sérum Chronos"></div>
+        <div style="font-size: 12px; color: #56604F;">Cuidado facial · ★ 4,8</div>
+        <div style="font-weight: 600; font-size: 15px; line-height: 1.3;">Sérum Reductor de Oleosidad Chronos Derma</div>
+        <div style="font-weight: 700; font-size: 17px;">$ 163.600</div>
+      </div>
+      <div style="background: #FFFFFF; border-radius: 20px; padding: 16px; display: flex; flex-direction: column; gap: 10px;">
+        <div style="aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 14px;"><img src="crema.jpg" style="max-width: 100%; max-height: 100%;" alt="Crema Tododia"></div>
+        <div style="font-size: 12px; color: #56604F;">Cuidado corporal</div>
+        <div style="font-weight: 600; font-size: 15px; line-height: 1.3;">Crema nutritiva Tododia frutas rojas, 200 ml</div>
+        <div style="font-weight: 700; font-size: 17px;">$ 43.500</div>
+      </div>
+      <div style="background: #FFFFFF; border-radius: 20px; padding: 16px; display: flex; flex-direction: column; gap: 10px;">
+        <div style="aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 14px;"><img src="shampoo.jpg" style="max-width: 100%; max-height: 100%;" alt="Shampoo Lumina"></div>
+        <div style="font-size: 12px; color: #56604F;">Cabello</div>
+        <div style="font-weight: 600; font-size: 15px; line-height: 1.3;">Shampoo restauración y lisos prolongados Lumina</div>
+        <div style="font-weight: 700; font-size: 17px;">$ 40.500</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="padding: 0 64px 40px; display: flex; justify-content: space-between; font-size: 12px; color: #56604F;">
+    <span>Alejandría · tienda independiente. Yanbal y Natura son marcas de sus respectivos titulares.</span>
+    <span>Envíos · Devoluciones · Privacidad</span>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>
