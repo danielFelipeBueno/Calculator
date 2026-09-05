@@ -84,6 +84,38 @@ function consultas(nombre) {
   return [...new Set(out)].slice(0, 8);
 }
 
+/**
+ * Índice local del sitio, si existe (lo construye indexar-yanbal.mjs).
+ * Se consulta ANTES que el autocompletado porque es exhaustivo —el
+ * autocompletado devuelve máximo 4 resultados— y no cuesta peticiones.
+ */
+let indice = [];
+async function cargarIndice() {
+  try {
+    const ruta = resolve(process.cwd(), "data", "yanbal-sitio-indice.json");
+    indice = JSON.parse(await readFile(ruta, "utf8")).productos ?? [];
+    console.log(`Índice del sitio: ${indice.length} productos\n`);
+  } catch {
+    console.log("Sin índice local del sitio; corre antes indexar-yanbal.mjs para mejorar la cobertura.\n");
+  }
+}
+
+/** Adapta una entrada del índice a la forma que devuelve el autocompletado. */
+function comoCandidato(e) {
+  return {
+    code: e.codigo,
+    name: e.nombre,
+    url: e.url ? e.url.replace(`${SITE}/co/corporate`, "") : null,
+    description: null,
+    summary: null,
+    price: e.precio != null ? { value: e.precio } : null,
+    stock: null,
+    images: (e.imagenes ?? []).map((u) => ({ format: "zoom", url: u.replace(SITE, "") })),
+    precioLista: e.precioLista ?? null,
+    delIndice: true,
+  };
+}
+
 const cache = new Map();
 async function buscar(term) {
   if (cache.has(term)) return cache.get(term);
@@ -137,14 +169,33 @@ function elegir(producto, candidatos) {
 }
 
 function imagenes(c) {
+  if (!c) return { thumb: null, card: null, grande: null, adicionales: [] };
   const url = (f) => {
     const im = (c.images ?? []).find((i) => i.format === f);
     return im ? SITE + im.url : null;
   };
-  return { thumb: url("thumbnail"), card: url("product"), grande: url("zoom") };
+  const todas = (c.images ?? []).filter((i) => i.format === "zoom").map((i) => SITE + i.url);
+  return {
+    thumb: url("thumbnail"),
+    card: url("product"),
+    grande: url("zoom"),
+    // El índice del sitio trae hasta dos ángulos por producto.
+    adicionales: todas.slice(1),
+  };
 }
 
+/**
+ * Las dos fuentes son complementarias y hay que consultar ambas:
+ *   · el índice del sitio  -> fotos (hasta dos ángulos) y precio tachado
+ *   · el autocompletado    -> descripción, resumen y estado de stock
+ * Ninguna sustituye a la otra.
+ */
 async function enriquecer(producto) {
+  const desdeIndice = elegir(
+    producto,
+    indice.filter((e) => e.nombre).map(comoCandidato),
+  );
+
   const pool = new Map();
   for (const term of consultas(producto.nombre)) {
     for (const c of await buscar(term)) pool.set(c.code, c);
@@ -153,21 +204,36 @@ async function enriquecer(producto) {
     if (parcial?.confianza === "alta" && parcial.sim === 1) break;
   }
 
-  const hit = elegir(producto, [...pool.values()]);
-  if (!hit) return { ...producto, confianza: null };
+  const desdeBusqueda = elegir(producto, [...pool.values()]);
+  if (!desdeIndice && !desdeBusqueda) return { ...producto, confianza: null };
+  return armar(producto, desdeIndice, desdeBusqueda);
+}
 
-  const { c, confianza, sim } = hit;
+function armar(producto, porIndice, porBusqueda) {
+  const mejor = porIndice && porBusqueda
+    ? (porIndice.sim >= porBusqueda.sim ? porIndice : porBusqueda)
+    : (porIndice ?? porBusqueda);
+
+  const ind = porIndice?.c;
+  const bus = porBusqueda?.c;
+  // Las fotos del índice traen más ángulos; si falta, sirven las del buscador.
+  const fotos = imagenes(ind?.images?.length ? ind : bus);
+
+  const fuentes = [porIndice && "indice", porBusqueda && "autocompletado"].filter(Boolean);
+
   return {
     ...producto,
-    confianza,
-    similitud: Number(sim.toFixed(2)),
-    sitioCodigo: c.code,
-    sitioUrl: `${SITE}/co/corporate${c.url}`,
-    descripcion: c.description ?? null,
-    resumen: c.summary ?? null,
-    precioSitio: c.price?.value ?? null,
-    disponible: c.stock?.stockLevelStatus?.code ?? null,
-    imagenes: imagenes(c),
+    confianza: mejor.confianza,
+    similitud: Number(mejor.sim.toFixed(2)),
+    fuentes,
+    sitioCodigo: (ind ?? bus).code,
+    sitioUrl: (ind?.url ?? bus?.url) ? `${SITE}/co/corporate${ind?.url ?? bus.url}` : null,
+    descripcion: bus?.description ?? null,
+    resumen: bus?.summary ?? null,
+    precioSitio: (bus ?? ind)?.price?.value ?? null,
+    precioListaSitio: ind?.precioLista ?? null,
+    disponible: bus?.stock?.stockLevelStatus?.code ?? null,
+    imagenes: fotos,
   };
 }
 
@@ -189,6 +255,7 @@ async function main() {
   const ruta = resolve(process.cwd(), process.argv[2] ?? "data/yanbal-col-2026-c09.json");
   const cat = JSON.parse(await readFile(ruta, "utf8"));
 
+  await cargarIndice();
   console.log(`Cruzando ${cat.productos.length} productos contra ${SITE}\n`);
 
   let hechos = 0;

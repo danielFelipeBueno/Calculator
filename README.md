@@ -32,38 +32,45 @@ del carrito, igual para todos. Eso lo resuelve el paso siguiente.
 ### Enriquecimiento desde el sitio público
 
 ```bash
-node scripts/enrich-yanbal.mjs data/yanbal-col-2026-c09.json
+node scripts/indexar-yanbal.mjs                              # primero el índice
+node scripts/enrich-yanbal.mjs data/yanbal-col-2026-c09.json # luego el cruce
 ```
 
-El buscador de `yanbal.com` expone un endpoint de autocompletado que devuelve JSON
-con **foto (hasta 500x500), descripción, resumen, precio y estado de stock**. El
-script cruza cada producto del catálogo contra él.
+El sitio de Yanbal ofrece dos fuentes, y son complementarias:
 
-Resultado sobre la C09: **367 de 468 productos (78 %)** con foto, descripción y
-disponibilidad — 328 de confianza alta, 39 media.
+| Fuente | Qué da | Límite |
+|---|---|---|
+| Índice de categorías | Foto (hasta 2 ángulos), precio y precio tachado | Sin descripción ni stock |
+| Autocompletado del buscador | Descripción, resumen y estado de stock | Devuelve máximo 4 resultados |
 
-De esos 367, **274 tienen foto del producto exacto** y **93 tienen foto de línea**:
-varias entradas del catálogo apuntan a una sola ficha del sitio porque son
-variantes —las 23 letras de un dije, los tonos de un corrector—. El emparejamiento
-es correcto, pero la foto no distingue la variante, así que van marcados con
-`fotoDeLinea` para que la ficha pueda advertirlo.
+`indexar-yanbal.mjs` recorre las 121 categorías del menú paginándolas y deja
+`data/yanbal-sitio-indice.json` con **449 productos**. Es exhaustivo y local, así
+que resuelve las familias numerosas que el autocompletado nunca alcanza: hay 31
+collares en el catálogo y buscar "collar" solo enseña cuatro.
 
-Tres detalles del emparejamiento:
+Resultado sobre la C09: **442 de 468 productos (94 %)** con foto, 367 con
+descripción, 220 con dos ángulos y 426 con precio tachado.
 
-- **El endpoint devuelve máximo 4 resultados.** La consulta tiene que ser
+Cuatro cosas que cuestan caro si se ignoran:
+
+- **El autocompletado devuelve máximo 4 resultados.** La consulta tiene que ser
   específica o el producto correcto ni siquiera aparece entre los candidatos.
 - La búsqueda es difusa y razona por token: la palabra de categoría arrastra
   resultados de toda la categoría. Por eso se generan **todas las ventanas de dos
   palabras consecutivas**, no solo las de los extremos: en "Delineador Punta
-  Inteligente Negro" la única consulta que acierta es "punta inteligente", que
-  está en el medio.
-- **El precio valida el emparejamiento, no solo lo desempata.** Dentro de una misma
+  Inteligente Negro" la única consulta que acierta es "punta inteligente".
+- **En el listado de categoría hay dos precios.** `--priceBefore` es el tachado y
+  `--discountPrice` el que se cobra; coger el primero que aparezca da el tachado y
+  falsea toda comparación contra el catálogo. Con el precio correcto, **399 de 400
+  productos coinciden exactamente** con el precio del catálogo.
+- **El precio valida el emparejamiento**, no solo lo desempata. Dentro de una
   colección de joyería los nombres se parecen demasiado ("Collar Amira" contra
-  "Collar Amira Cristal") y solo el precio distingue la pieza. Sin esa regla el
-  75 % sube a 81 %, pero con fotos equivocadas.
+  "Collar Amira Cristal") y solo el precio distingue la pieza.
 
-Los 115 sin emparejar son sobre todo joyería y empaques que no existen en el sitio
-público; esos necesitan fotografía propia.
+De los 442 con foto, **7 llevan `fotoDeLinea`**: varias entradas del catálogo
+apuntan a una sola ficha porque son variantes —las letras de un dije, los tonos de
+un corrector— y la foto no distingue cuál. Los 26 sin foto son empaques y
+variantes de maquillaje que el sitio no publica; esos necesitan fotografía propia.
 
 ### Natura y Avon
 
@@ -102,7 +109,7 @@ correctos. Ninguna de las dos marcas expone fotos ni stock por esta vía.
 
 ## Pendientes
 
-- Fotos propias para los 115 productos sin emparejar (joyería y empaques).
+- Fotos propias para los 26 productos que el sitio no publica.
 - Adaptador de Natura y Avon.
 - Verificar el descuento de consultora por marca y calcular márgenes reales.
 - Revisar derechos de uso de imágenes y textos de las marcas, y las cláusulas de
