@@ -1,16 +1,10 @@
-# calculator
+# Alejandría
 
-A new Flutter project.
+Página web.
 
-## Getting Started
+## Estado
 
-This project is a starting point for a Flutter application.
+Repositorio recién vaciado. El contenido anterior (una calculadora en Flutter)
+fue eliminado; sigue disponible en el historial de la rama `main`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pendiente: definir el stack y montar la base del proyecto.
