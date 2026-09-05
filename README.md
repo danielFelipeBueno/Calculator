@@ -1,11 +1,49 @@
 # Alejandría
 
-Tienda en línea de productos de venta directa (Yanbal, Natura, Avon) para Colombia.
+Tienda en línea de productos de venta directa (Yanbal y Natura) para Colombia.
 
 ## Estado
 
-En investigación. Todavía no hay aplicación: por ahora el repositorio contiene el
-pipeline de ingesta de catálogos, que es la pieza que valida si el proyecto es viable.
+Aplicación en pie sobre datos reales: **792 productos** publicables (440 de Yanbal,
+352 de Natura) con foto, precio y descripción salidos del pipeline de este mismo
+repositorio. No hay carrito ni pagos —el pedido se cierra por WhatsApp— ni login ni
+sistema de estrellas todavía; eso viene después.
+
+**Avon queda fuera del lanzamiento.** La decisión y lo que costaría revertirla están
+en [Avon: fuera por ahora](#avon-fuera-por-ahora).
+
+## La aplicación
+
+```bash
+npm install
+npm run dev            # desarrollo
+npm run build && npm start
+```
+
+Next.js 16 (App Router), React 19, TypeScript y Tailwind v4. Sin base de datos: la
+tienda lee los JSON que deja el pipeline, y `lib/productos.ts` es la única capa que
+conoce ese formato —cuando haya base de datos, se reescribe ahí y nada más—.
+
+| Ruta | Qué es |
+|---|---|
+| `/` | Landing: quién es la consultora, buscador, categorías y destacados |
+| `/catalogo` | Catálogo completo con filtros por marca, categoría, stock y orden |
+| `/producto/<marca>/<código>/<slug>` | Ficha, generada estáticamente para los 792 |
+| `/politicas/{envios,devoluciones,privacidad}` | Políticas |
+| `/sitemap.xml`, `/robots.txt` | Indexación |
+
+Dos decisiones que conviene no deshacer sin querer:
+
+- **Los filtros y el buscador funcionan sin JavaScript**, con `<form method="GET">`
+  y enlaces. Es más simple, sobrevive a una conexión mala y lo indexa el buscador.
+- **La URL de la ficha lleva el código**, no solo el nombre, así que sobrevive al
+  cambio de ciclo y a que la marca renombre el producto. Es la razón de ser del
+  `slug` estable que genera `normalizar.mjs`.
+
+`lib/negocio.ts` concentra los datos del negocio —nombre, ciudad, WhatsApp, costo de
+envío, ciudades con contraentrega—. **Hoy están en `[CORCHETES]` a propósito**: son
+decisiones que no se pueden inventar, y el sitio muestra el corchete en vez de un
+dato falso. Lo mismo con las reseñas y las notas de la consultora.
 
 ## Extracción de catálogos
 
@@ -99,6 +137,10 @@ Resultado del ciclo 13: **Natura 366 productos**, **Avon 130**. Verificado a man
 contra la página 36 de Natura: 7 de 7 con código, puntos, precio y descuento
 correctos. Ninguna de las dos marcas expone fotos ni stock por esta vía.
 
+El método funciona con la maqueta de Natura, no con la de Avon: los precios y
+códigos de Avon salen bien, pero **los nombres no** —ver
+[Avon: fuera por ahora](#avon-fuera-por-ahora)—.
+
 ### Enriquecimiento de Natura desde el sitio público
 
 ```bash
@@ -158,9 +200,15 @@ una frase de publicidad ("LANZAMIENTO", "Con acción antidaños") y con ella un
 precio que no era—. Por eso conviene preferir `nombreSitio` sobre `nombre`
 cuando `similitud` es baja.
 
-### Avon: sin fuente
+### Avon: fuera por ahora
 
-No se pudo enriquecer, y no por un bloqueo que se pueda sortear:
+**Avon no entra al lanzamiento.** La tienda solo carga Yanbal y Natura. Los datos
+extraídos siguen en `data/avon-revista-avon-ciclo-13.json` y el extractor sigue
+aceptando Avon: no hay nada que deshacer si más adelante se decide incluirla.
+
+La razón no es una preferencia, son dos problemas que se suman:
+
+**No hay sitio del que enriquecer**, y no por un bloqueo que se pueda sortear:
 
 - `avon.com.co` devuelve **504** en todos los intentos, también desde una
   conexión residencial colombiana. No es un 403 ni un reto de JavaScript: no hay
@@ -170,8 +218,22 @@ No se pudo enriquecer, y no por un bloqueo que se pueda sortear:
   códigos** del catálogo. Solo enlaza de vuelta a la revista de
   `digital-catalogue.com`, que es de donde ya salen los datos.
 
-Los 130 productos de `data/avon-revista-avon-ciclo-13.json` se quedan sin foto,
-descripción ni stock hasta que aparezca otra fuente.
+**Y los nombres que sí se extrajeron no son de fiar.** La reconstrucción por
+geometría que funciona con Natura no puede funcionar con la maqueta de Avon: el
+código va *dentro* del párrafo del precio, y el nombre real vive en una banda al
+pie, en otra columna, sin ninguna relación geométrica con su producto. No es un
+ajuste de umbrales; es que la señal que usa el método no existe en esa maqueta.
+
+Así que los 130 productos de Avon no tienen foto, ni descripción, ni stock, ni
+nombre confiable. Publicar eso es peor que no publicarlo.
+
+Para incluirla haría falta una de estas, y ninguna es gratis:
+
+| Camino | Qué cuesta |
+|---|---|
+| Leer las páginas de la revista con un modelo de visión | Reescribir el extractor para Avon; hay que verificar producto por producto |
+| Fotografiar y nombrar a mano los 130 | Trabajo manual por ciclo, no una sola vez |
+| Que Avon abra un sitio con catálogo | No depende de nosotros |
 
 ### Normalización
 
@@ -246,9 +308,16 @@ encontré al verificar por muestreo eran exactamente eso.
 
 ## Pendientes
 
+Para abrir la tienda:
+
+- Llenar los `[CORCHETES]` de `lib/negocio.ts` —nombre, ciudad, WhatsApp, costo de
+  envío, ciudades con contraentrega— y el texto de las tres políticas.
+- Foto de la consultora para la portada.
+
+Del catálogo:
+
 - Fotos propias para los 26 productos de Yanbal y los 14 de Natura que los
   sitios no publican.
-- Fuente de fotos y descripciones para Avon: hoy no hay ninguna.
 - Revisar los productos de Natura con `similitud` baja: el código empareja bien,
   pero el nombre que trae la revista es una frase de publicidad.
 - Verificar el descuento de consultora por marca y calcular márgenes reales.
