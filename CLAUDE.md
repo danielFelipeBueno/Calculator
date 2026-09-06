@@ -4,8 +4,12 @@ Tienda de venta directa (Yanbal y Natura) para Colombia. Next.js 16 + React 19 +
 TypeScript + Tailwind v4, sin base de datos: la tienda lee los JSON que deja el
 pipeline de `scripts/`.
 
-El README explica el pipeline y el porqué de cada decisión. Esto son las reglas
-que no se ven en el código y que cuestan caro romper.
+**Antes de proponer trabajo, lee [`docs/estado-y-plan.md`](docs/estado-y-plan.md):**
+qué está hecho, qué falta y qué ya se decidió (y por qué). Evita rehacer lo hecho
+y volver sobre decisiones cerradas.
+
+El README explica el pipeline y el porqué de cada decisión técnica. Esto son las
+reglas que no se ven en el código y que cuestan caro romper.
 
 ## No inventar datos. Nunca.
 
